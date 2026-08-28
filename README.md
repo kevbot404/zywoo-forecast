@@ -2,4 +2,6 @@
 
 ML project exploring whether environmental conditions can help predict ZywOo's CS2 performance.
 
-Dataset gathered from HLTV using private scraper.
+CS2 dataset gathered from HLTV using private scraper.
+Weather dataset gathered from Open-Meteo.
+Air quality dataset gathered from OpenAQ.
