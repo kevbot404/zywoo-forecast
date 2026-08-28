@@ -4,9 +4,13 @@ ML project exploring whether environmental conditions can help predict ZywOo's C
 
 - CS2 dataset gathered from HLTV using private scraper.
 
-- Historical air quality data gathered from OpenAQ and forecast data from Open-Meteo.
+- Historical air quality data gathered from OpenAQ.
 
-- Historical and forecast weather data gathered from Open-Meteo.
+- Historical weather data gathered from Open-Meteo.
+
+- Forecast data gathered from Open-Meteo.
+
+- Limitation: model wasn't trained on historical forecast data.
 
 ##
 
