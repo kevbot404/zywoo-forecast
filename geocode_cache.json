@@ -1,0 +1,162 @@
+{
+  "location": {
+    "latitude": 39.2138905,
+    "longitude": -79.6371124
+  },
+  "Copenhagen": {
+    "latitude": 55.6867243,
+    "longitude": 12.5700724
+  },
+  "Paris": {
+    "latitude": 48.8534951,
+    "longitude": 2.3483915
+  },
+  "Cologne": {
+    "latitude": 50.938361,
+    "longitude": 6.959974
+  },
+  "Atlanta": {
+    "latitude": 33.7544657,
+    "longitude": -84.3898151
+  },
+  "Fort Worth": {
+    "latitude": 32.753177,
+    "longitude": -97.3327459
+  },
+  "Rio de Janeiro": {
+    "latitude": -22.9110137,
+    "longitude": -43.2093727
+  },
+  "Rotterdam": {
+    "latitude": 51.9244424,
+    "longitude": 4.47775
+  },
+  "Cluj-Napoca": {
+    "latitude": 46.769379,
+    "longitude": 23.5899542
+  },
+  "Krak\u00f3w": {
+    "latitude": 50.0469432,
+    "longitude": 19.9971534
+  },
+  "Valletta": {
+    "latitude": 35.8989979,
+    "longitude": 14.5136607
+  },
+  "Budapest": {
+    "latitude": 47.4978789,
+    "longitude": 19.0402383
+  },
+  "Chek Lap Kok": {
+    "latitude": 22.3154395,
+    "longitude": 113.9351269
+  },
+  "Chengdu": {
+    "latitude": 30.659867,
+    "longitude": 104.063315
+  },
+  "Stockholm": {
+    "latitude": 59.3251172,
+    "longitude": 18.0710935
+  },
+  "London": {
+    "latitude": 51.5074456,
+    "longitude": -0.1277653
+  },
+  "Riyadh": {
+    "latitude": 24.638916,
+    "longitude": 46.7160104
+  },
+  "Austin": {
+    "latitude": 30.2711286,
+    "longitude": -97.7436995
+  },
+  "Dallas": {
+    "latitude": 32.7762719,
+    "longitude": -96.7968559
+  },
+  "Melbourne": {
+    "latitude": -37.8142454,
+    "longitude": 144.9631732
+  },
+  "Lisbon": {
+    "latitude": 38.7077507,
+    "longitude": -9.1365919
+  },
+  "Katowice": {
+    "latitude": 50.2137315,
+    "longitude": 19.0058848
+  },
+  "Shanghai": {
+    "latitude": 31.2312707,
+    "longitude": 121.4700152
+  },
+  "Sentosa": {
+    "latitude": 1.249689,
+    "longitude": 103.8297534
+  },
+  "Bucharest": {
+    "latitude": 44.4361414,
+    "longitude": 26.102684
+  },
+  "Abu Dhabi, UAE": {
+    "latitude": 24.4538352,
+    "longitude": 54.3774014
+  },
+  "Sydney": {
+    "latitude": -33.8698439,
+    "longitude": 151.2082848
+  },
+  "Washington, D.C., US": {
+    "latitude": 38.8950982,
+    "longitude": -77.0363849
+  },
+  "Antwerp": {
+    "latitude": 51.2211097,
+    "longitude": 4.3997081
+  },
+  "D\u00fcsseldorf": {
+    "latitude": 51.2254018,
+    "longitude": 6.7763137
+  },
+  "Moscow": {
+    "latitude": 55.625578,
+    "longitude": 37.6063916
+  },
+  "Beijing": {
+    "latitude": 39.9057136,
+    "longitude": 116.3912972
+  },
+  "Belek": {
+    "latitude": 36.8633459,
+    "longitude": 31.0578184
+  },
+  "Malm\u00f6": {
+    "latitude": 55.6052931,
+    "longitude": 13.0001566
+  },
+  "Berlin": {
+    "latitude": 52.5173885,
+    "longitude": 13.3951309
+  },
+  "Chicago": {
+    "latitude": 41.8755616,
+    "longitude": -87.6244212
+  },
+  "Los Angeles": {
+    "latitude": 34.0536909,
+    "longitude": -118.242766
+  },
+  "Charleroi": {
+    "latitude": 50.4116233,
+    "longitude": 4.444528
+  },
+  "Champagne-au-Mont-d'Or": {
+    "latitude": 45.7954913,
+    "longitude": 4.789458
+  },
+  "Saint-Amand-les-Eaux": {
+    "latitude": 50.4491519,
+    "longitude": 3.4281142
+  }
+}
