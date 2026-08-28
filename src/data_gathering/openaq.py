@@ -1,3 +1,5 @@
+# openaq request methods
+
 import os
 import requests
 from dotenv import load_dotenv
@@ -13,8 +15,8 @@ HEADERS = {
 }
 
 
-def get_locations(latitude, longitude, radius=5000, limit=10):
-    """Get locations near the given coordinates."""
+def get_locations(latitude, longitude, radius=5000, limit=3):
+    """Get nearby locations."""
 
     url = f"{BASE_URL}/locations"
 
@@ -81,20 +83,30 @@ def get_location_pollution(
     latitude,
     longitude,
     datetime_from,
-    datetime_to
+    datetime_to,
+    max_locations=3
 ):
     """
-    Find the nearby location with the most measurements
-    for the requested time period.
+    Find the best nearby location based on the number
+    of measurements available for the requested time period.
+
+    Only the first 3 nearby locations are ever checked.
 
     1. Find nearby locations.
-    2. Check every location.
-    3. Get all sensors for each location.
-    4. Get measurements from every sensor.
-    5. Count the measurements for each location.
+    2. Check at most 3 locations.
+    3. Get sensors for each location.
+    4. Get measurements from each sensor.
+    5. Count measurements for each location.
     6. Select the location with the most measurements.
-    7. Return those measurements.
+    7. Return measurements from the best location.
     """
+
+    # -----------------------------------------
+    # Safety limit:
+    # Never check more than 3 locations.
+    # -----------------------------------------
+
+    max_locations = min(max_locations, 3)
 
     # -----------------------------------------
     # 1. Get nearby locations
@@ -102,20 +114,28 @@ def get_location_pollution(
 
     locations = get_locations(
         latitude=latitude,
-        longitude=longitude
+        longitude=longitude,
+        limit=max_locations
     )
 
     if not locations:
         raise ValueError("No locations found.")
 
-    print(f"\nFound {len(locations)} nearby locations.")
+    # Extra safety in case the API returns more
+    # locations than requested.
+    locations = locations[:3]
+
+    print(
+        f"\nFound {len(locations)} locations to check "
+        f"(maximum allowed: 3)."
+    )
 
     # Store the best result
     best_location = None
     best_measurements = []
 
     # -----------------------------------------
-    # 2. Check every location
+    # 2. Check at most 3 locations
     # -----------------------------------------
 
     for location_number, location in enumerate(locations, start=1):
@@ -234,11 +254,10 @@ def get_location_pollution(
     print(f"Measurements: {len(best_measurements)}")
 
     return {
-    "location_id": best_location["id"],
-    "location": best_location.get("name"),
-    "measurements": best_measurements
+        "location_id": best_location["id"],
+        "location": best_location.get("name"),
+        "measurements": best_measurements
     }
-
 
 
 # ==================================================
@@ -252,7 +271,8 @@ def get_location_pollution(
 #     latitude=LATITUDE,
 #     longitude=LONGITUDE,
 #     datetime_from="2026-08-01T00:00:00Z",
-#     datetime_to="2026-08-02T00:00:00Z"
+#     datetime_to="2026-08-02T00:00:00Z",
+#     max_locations=3
 # )
 
 

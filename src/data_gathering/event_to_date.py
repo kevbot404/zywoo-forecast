@@ -1,3 +1,5 @@
+# find date range for each exact event + location
+
 import csv
 from collections import defaultdict
 from datetime import datetime, timedelta
@@ -18,8 +20,6 @@ with INPUT_FILE.open("r", encoding="utf-8", newline="") as f:
     rows = list(reader)
     fieldnames = reader.fieldnames
 
-
-# Find date range for each exact event + location
 
 event_ranges = defaultdict(list)
 

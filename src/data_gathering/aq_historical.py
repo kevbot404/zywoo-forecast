@@ -1,16 +1,17 @@
+# location to aq data pipeline
+
 import sys
 import csv
+from pathlib import Path
+
 
 from openstreetmap import city_to_coordinates
 from openaq import get_location_pollution
 
 
 def main():
-    if len(sys.argv) != 2:
-        print("Usage: python historical.py <input.txt>")
-        sys.exit(1)
 
-    input_file = sys.argv[1]
+    input_file = Path("./data/input.txt")
 
     # Output CSV file
     output_file = "historical.csv"

@@ -1,3 +1,5 @@
+# openstreetmap city to coordinates
+
 import requests
 
 def city_to_coordinates(city):
