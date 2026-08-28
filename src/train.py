@@ -1,13 +1,19 @@
+import os
+
 import pandas as pd
 
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
+from skl2onnx import convert_sklearn
+from skl2onnx.common.data_types import FloatTensorType
+
 from preprocess import preprocess_features
 
 
 DATA_PATH = "./data/dataset.csv"
+ONNX_PATH = "./app/model/rating_model.onnx"
 TARGET = "rating"
 
 df = pd.read_csv(DATA_PATH)
@@ -101,3 +107,30 @@ print("EXAMPLE PREDICTIONS")
 print("=" * 50)
 
 print(results.head(10).to_string(index=False))
+
+print("\n" + "=" * 50)
+print("EXPORTING ONNX MODEL")
+print("=" * 50)
+
+# ONNX expects float32 input
+X_train_float = X_train.astype("float32")
+
+initial_type = [
+    (
+        "float_input",
+        FloatTensorType([None, X_train_float.shape[1]])
+    )
+]
+
+onnx_model = convert_sklearn(
+    model,
+    initial_types=initial_type,
+    target_opset=15
+)
+
+os.makedirs(os.path.dirname(ONNX_PATH), exist_ok=True)
+
+with open(ONNX_PATH, "wb") as f:
+    f.write(onnx_model.SerializeToString())
+
+print(f"ONNX model saved to: {ONNX_PATH}")

@@ -12,10 +12,13 @@ def preprocess_features(df):
         "date",
         "player_team",
         "opponent",
+        "map",
         "kd",
         "plus_minus",
         "nox",
         "no",
+        "co",
+        "so2",
         "sunset",
         "sunrise",
         "location_openaq",
@@ -24,7 +27,5 @@ def preprocess_features(df):
 
     df = df.drop(columns=columns_to_drop, errors="ignore")
 
-    # Convert categorical map into numerical features
-    df = pd.get_dummies(df, columns=["map"], dtype=int)
 
     return df
