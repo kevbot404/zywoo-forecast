@@ -26,6 +26,6 @@ def city_to_coordinates(city):
         "longitude": float(data[0]["lon"])
     }
 
-coords = city_to_coordinates("Berlin")
+# coords = city_to_coordinates("Berlin")
 
-print(coords)
+# print(coords)

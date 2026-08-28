@@ -13,7 +13,7 @@ HEADERS = {
 }
 
 
-def get_locations(latitude, longitude, radius=25000, limit=100):
+def get_locations(latitude, longitude, radius=5000, limit=10):
     """Get locations near the given coordinates."""
 
     url = f"{BASE_URL}/locations"
@@ -84,14 +84,20 @@ def get_location_pollution(
     datetime_to
 ):
     """
-    1. Find locations near coordinates.
-    2. Select the first location.
-    3. Get all sensors for that location.
-    4. Get daily measurements from every sensor.
+    Find the nearby location with the most measurements
+    for the requested time period.
+
+    1. Find nearby locations.
+    2. Check every location.
+    3. Get all sensors for each location.
+    4. Get measurements from every sensor.
+    5. Count the measurements for each location.
+    6. Select the location with the most measurements.
+    7. Return those measurements.
     """
 
     # -----------------------------------------
-    # 1. Get locations
+    # 1. Get nearby locations
     # -----------------------------------------
 
     locations = get_locations(
@@ -102,81 +108,156 @@ def get_location_pollution(
     if not locations:
         raise ValueError("No locations found.")
 
-    # Pick the first location
-    location = locations[0]
-    location_id = location["id"]
+    print(f"\nFound {len(locations)} nearby locations.")
 
-    print(f"Location ID: {location_id}")
-    print(f"Location: {location.get('name')}")
-
+    # Store the best result
+    best_location = None
+    best_measurements = []
 
     # -----------------------------------------
-    # 2. Get all sensors for the location
+    # 2. Check every location
     # -----------------------------------------
 
-    sensors = get_sensors(location_id)
+    for location_number, location in enumerate(locations, start=1):
 
-    if not sensors:
-        raise ValueError(
-            f"No sensors found for location {location_id}."
-        )
+        location_id = location["id"]
+        location_name = location.get("name")
 
-    print("\nSensors:")
-
-    for sensor in sensors:
+        print("\n" + "=" * 50)
         print(
-            f"ID: {sensor['id']} | "
-            f"Parameter: {sensor['parameter']['name']} | "
-            f"Units: {sensor['parameter']['units']}"
+            f"Checking location #{location_number}: "
+            f"{location_name} (ID: {location_id})"
+        )
+        print("=" * 50)
+
+        # -----------------------------------------
+        # Get sensors
+        # -----------------------------------------
+
+        try:
+            sensors = get_sensors(location_id)
+
+        except requests.exceptions.HTTPError as e:
+            print(f"Could not get sensors: {e}")
+            continue
+
+        if not sensors:
+            print("No sensors found.")
+            continue
+
+        print("\nSensors:")
+
+        for sensor in sensors:
+            print(
+                f"ID: {sensor['id']} | "
+                f"Parameter: {sensor['parameter']['name']} | "
+                f"Units: {sensor['parameter']['units']}"
+            )
+
+        # -----------------------------------------
+        # Get measurements
+        # -----------------------------------------
+
+        location_measurements = []
+
+        for sensor in sensors:
+
+            sensor_id = sensor["id"]
+
+            try:
+                measurements = get_daily_measurements(
+                    sensor_id=sensor_id,
+                    datetime_from=datetime_from,
+                    datetime_to=datetime_to
+                )
+
+            except requests.exceptions.HTTPError as e:
+                print(
+                    f"Could not get measurements for "
+                    f"sensor {sensor_id}: {e}"
+                )
+                continue
+
+            for measurement in measurements:
+
+                location_measurements.append({
+                    "date": measurement["period"]["datetimeFrom"]["local"][:10],
+                    "parameter": measurement["parameter"]["name"],
+                    "value": measurement["value"],
+                    "units": measurement["parameter"]["units"],
+                    "coverage": measurement["coverage"]["percentCoverage"],
+                })
+
+        # -----------------------------------------
+        # Count measurements
+        # -----------------------------------------
+
+        measurement_count = len(location_measurements)
+
+        print(
+            f"\nLocation {location_name} has "
+            f"{measurement_count} measurements."
         )
 
+        # -----------------------------------------
+        # Is this the best location so far?
+        # -----------------------------------------
+
+        if measurement_count > len(best_measurements):
+
+            best_location = location
+            best_measurements = location_measurements
+
+            print(
+                f"New best location: {location_name} "
+                f"({measurement_count} measurements)"
+            )
 
     # -----------------------------------------
-    # 3. Get daily data from every sensor
+    # 3. Return best location
     # -----------------------------------------
 
-    all_measurements = []
+    if best_location is None or not best_measurements:
 
-    for sensor in sensors:
-
-        sensor_id = sensor["id"]
-
-        measurements = get_daily_measurements(
-            sensor_id=sensor_id,
-            datetime_from=datetime_from,
-            datetime_to=datetime_to
+        print(
+            "\nNo measurements found at any nearby location."
         )
 
-        for measurement in measurements:
+        return []
 
-            all_measurements.append({
-                "date": measurement["period"]["datetimeFrom"]["local"][:10],
-                "parameter": measurement["parameter"]["name"],
-                "value": measurement["value"],
-                "units": measurement["parameter"]["units"],
-                "coverage": measurement["coverage"]["percentCoverage"],
-            })
+    print("\n" + "=" * 50)
+    print("BEST LOCATION")
+    print("=" * 50)
 
-    return all_measurements
+    print(f"Location ID: {best_location['id']}")
+    print(f"Location: {best_location.get('name')}")
+    print(f"Measurements: {len(best_measurements)}")
+
+    return {
+    "location_id": best_location["id"],
+    "location": best_location.get("name"),
+    "measurements": best_measurements
+    }
+
 
 
 # ==================================================
 # Example
 # ==================================================
 
-LATITUDE = 59.437242
-LONGITUDE = 24.7572693
+# LATITUDE = 59.437242
+# LONGITUDE = 24.7572693
 
-measurements = get_location_pollution(
-    latitude=LATITUDE,
-    longitude=LONGITUDE,
-    datetime_from="2026-08-01T00:00:00Z",
-    datetime_to="2026-08-02T00:00:00Z"
-)
+# measurements = get_location_pollution(
+#     latitude=LATITUDE,
+#     longitude=LONGITUDE,
+#     datetime_from="2026-08-01T00:00:00Z",
+#     datetime_to="2026-08-02T00:00:00Z"
+# )
 
 
 # Print final data
-print("\nDaily pollution:")
+# print("\nDaily pollution:")
 
-for measurement in measurements:
-    print(measurement)
+# for measurement in measurements:
+#     print(measurement)
