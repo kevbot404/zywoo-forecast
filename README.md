@@ -6,7 +6,7 @@ ML project exploring whether environmental conditions can help predict ZywOo's C
 
 - Historical air quality data gathered from OpenAQ and forecast data from Open-Meteo.
 
-- Historical and forecast weather data gathered from Open-Meteo (currently unimplemented).
+- Historical and forecast weather data gathered from Open-Meteo.
 
 ##
 
