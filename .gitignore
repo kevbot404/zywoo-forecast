@@ -12,5 +12,6 @@ __pycache__/
 
 data/*
 !data/dataset.csv
+!data/dataset_audit.ipynb
 
 openaq_results.csv
