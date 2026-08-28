@@ -1,3 +1,6 @@
+# openmeteo air quality forecast (no api key required, can be static)
+# need to convert to daily
+
 import openmeteo_requests
 
 import pandas as pd
@@ -15,7 +18,7 @@ url = "https://air-quality-api.open-meteo.com/v1/air-quality"
 params = {
 	"latitude": 52.52,
 	"longitude": 13.41,
-	"hourly": ["ozone", "sulphur_dioxide", "nitrogen_dioxide", "carbon_dioxide", "carbon_monoxide", "pm2_5", "pm10", "methane", "ammonia"],
+	"hourly": ["pm10", "pm2_5", "carbon_monoxide", "carbon_dioxide", "nitrogen_dioxide", "sulphur_dioxide", "ozone", "methane", "ammonia"],
 	"past_days": 1,
 }
 responses = openmeteo.weather_api(url, params = params)
@@ -28,13 +31,13 @@ print(f"Timezone difference to GMT+0: {response.UtcOffsetSeconds()}s")
 
 # Process hourly data. The order of variables needs to be the same as requested.
 hourly = response.Hourly()
-hourly_ozone = hourly.Variables(0).ValuesAsNumpy()
-hourly_sulphur_dioxide = hourly.Variables(1).ValuesAsNumpy()
-hourly_nitrogen_dioxide = hourly.Variables(2).ValuesAsNumpy()
+hourly_pm10 = hourly.Variables(0).ValuesAsNumpy()
+hourly_pm2_5 = hourly.Variables(1).ValuesAsNumpy()
+hourly_carbon_monoxide = hourly.Variables(2).ValuesAsNumpy()
 hourly_carbon_dioxide = hourly.Variables(3).ValuesAsNumpy()
-hourly_carbon_monoxide = hourly.Variables(4).ValuesAsNumpy()
-hourly_pm2_5 = hourly.Variables(5).ValuesAsNumpy()
-hourly_pm10 = hourly.Variables(6).ValuesAsNumpy()
+hourly_nitrogen_dioxide = hourly.Variables(4).ValuesAsNumpy()
+hourly_sulphur_dioxide = hourly.Variables(5).ValuesAsNumpy()
+hourly_ozone = hourly.Variables(6).ValuesAsNumpy()
 hourly_methane = hourly.Variables(7).ValuesAsNumpy()
 hourly_ammonia = hourly.Variables(8).ValuesAsNumpy()
 
@@ -47,13 +50,13 @@ hourly_data = {
 	)
 }
 
-hourly_data["ozone"] = hourly_ozone
-hourly_data["sulphur_dioxide"] = hourly_sulphur_dioxide
-hourly_data["nitrogen_dioxide"] = hourly_nitrogen_dioxide
-hourly_data["carbon_dioxide"] = hourly_carbon_dioxide
-hourly_data["carbon_monoxide"] = hourly_carbon_monoxide
-hourly_data["pm2_5"] = hourly_pm2_5
 hourly_data["pm10"] = hourly_pm10
+hourly_data["pm2_5"] = hourly_pm2_5
+hourly_data["carbon_monoxide"] = hourly_carbon_monoxide
+hourly_data["carbon_dioxide"] = hourly_carbon_dioxide
+hourly_data["nitrogen_dioxide"] = hourly_nitrogen_dioxide
+hourly_data["sulphur_dioxide"] = hourly_sulphur_dioxide
+hourly_data["ozone"] = hourly_ozone
 hourly_data["methane"] = hourly_methane
 hourly_data["ammonia"] = hourly_ammonia
 
