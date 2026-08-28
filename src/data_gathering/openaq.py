@@ -164,8 +164,8 @@ def get_location_pollution(
 # Example
 # ==================================================
 
-LATITUDE = 59.4370
-LONGITUDE = 24.7536
+LATITUDE = 59.437242
+LONGITUDE = 24.7572693
 
 measurements = get_location_pollution(
     latitude=LATITUDE,
