@@ -1,0 +1,9 @@
+models/*
+!models/.gitkeep
+
+.vscode/
+__pycache__/
+
+.env
+.env.*
+!.env.example
