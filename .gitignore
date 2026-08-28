@@ -15,3 +15,5 @@ data/*
 !data/zywoo_events.csv
 !data/zywoo_matches.csv
 !data/zywoo_data_event_datetimes.csv
+
+openaq_results.csv

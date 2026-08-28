@@ -1,8 +1,15 @@
-# openaq request methods
+# OpenAQ request methods
 
 import os
+import csv
+import time
 import requests
 from dotenv import load_dotenv
+
+
+# ==================================================
+# Configuration
+# ==================================================
 
 load_dotenv()
 
@@ -14,8 +21,163 @@ HEADERS = {
     "X-API-Key": API_KEY
 }
 
+OUTPUT_FILE = "openaq_results.csv"
 
-def get_locations(latitude, longitude, radius=5000, limit=3):
+# How long a normal request is allowed to wait.
+REQUEST_TIMEOUT = 30
+
+# Maximum number of retries after 429 / connection errors.
+MAX_RETRIES = 5
+
+# Default wait if Retry-After is not supplied.
+DEFAULT_RETRY_WAIT = 10
+
+
+# ==================================================
+# Request helper
+# ==================================================
+
+def request_with_retry(
+    url,
+    params=None,
+    max_retries=MAX_RETRIES,
+    timeout=REQUEST_TIMEOUT
+):
+    """
+    Make an OpenAQ API request.
+
+    Handles:
+        - HTTP 429 Too Many Requests
+        - Request timeouts
+        - Connection errors
+
+    For HTTP 429:
+        Uses Retry-After if provided.
+        Otherwise uses exponential backoff.
+
+    Returns:
+        requests.Response
+
+    Raises:
+        requests.exceptions.RequestException
+        after all retries are exhausted.
+    """
+
+    for attempt in range(max_retries + 1):
+
+        try:
+
+            response = requests.get(
+                url,
+                headers=HEADERS,
+                params=params,
+                timeout=timeout
+            )
+
+        except (
+            requests.exceptions.Timeout,
+            requests.exceptions.ConnectionError
+        ) as e:
+
+            if attempt == max_retries:
+                raise
+
+            wait = DEFAULT_RETRY_WAIT * (
+                2 ** attempt
+            )
+
+            print(
+                f"\nRequest error: {e}"
+            )
+
+            print(
+                f"Retrying in {wait:.0f} seconds "
+                f"({attempt + 1}/{max_retries})..."
+            )
+
+            time.sleep(wait)
+
+            continue
+
+        # -----------------------------------------
+        # Success
+        # -----------------------------------------
+
+        if response.status_code != 429:
+
+            response.raise_for_status()
+
+            return response
+
+        # -----------------------------------------
+        # 429 Too Many Requests
+        # -----------------------------------------
+
+        if attempt == max_retries:
+
+            print(
+                "\nMaximum retries reached for "
+                "HTTP 429."
+            )
+
+            response.raise_for_status()
+
+        # OpenAQ may tell us exactly how long to wait.
+        retry_after = response.headers.get(
+            "Retry-After"
+        )
+
+        if retry_after is not None:
+
+            try:
+
+                wait = float(retry_after)
+
+            except ValueError:
+
+                wait = DEFAULT_RETRY_WAIT
+
+        else:
+
+            # Exponential backoff:
+            #
+            # 10
+            # 20
+            # 40
+            # 80
+            # 160
+
+            wait = DEFAULT_RETRY_WAIT * (
+                2 ** attempt
+            )
+
+        print(
+            f"\n429 Too Many Requests."
+        )
+
+        print(
+            f"Waiting {wait:.0f} seconds "
+            f"before retry "
+            f"{attempt + 1}/{max_retries}..."
+        )
+
+        time.sleep(wait)
+
+    raise RuntimeError(
+        "Request retry loop failed unexpectedly."
+    )
+
+
+# ==================================================
+# API methods
+# ==================================================
+
+def get_locations(
+    latitude,
+    longitude,
+    radius=10000,
+    limit=3
+):
     """Get nearby locations."""
 
     url = f"{BASE_URL}/locations"
@@ -26,13 +188,10 @@ def get_locations(latitude, longitude, radius=5000, limit=3):
         "limit": limit,
     }
 
-    response = requests.get(
+    response = request_with_retry(
         url,
-        headers=HEADERS,
         params=params
     )
-
-    response.raise_for_status()
 
     return response.json()["results"]
 
@@ -40,14 +199,14 @@ def get_locations(latitude, longitude, radius=5000, limit=3):
 def get_sensors(location_id):
     """Get all sensors belonging to a location."""
 
-    url = f"{BASE_URL}/locations/{location_id}/sensors"
-
-    response = requests.get(
-        url,
-        headers=HEADERS
+    url = (
+        f"{BASE_URL}/locations/"
+        f"{location_id}/sensors"
     )
 
-    response.raise_for_status()
+    response = request_with_retry(
+        url
+    )
 
     return response.json()["results"]
 
@@ -60,7 +219,10 @@ def get_daily_measurements(
 ):
     """Get daily measurements for a sensor."""
 
-    url = f"{BASE_URL}/sensors/{sensor_id}/measurements/daily"
+    url = (
+        f"{BASE_URL}/sensors/"
+        f"{sensor_id}/measurements/daily"
+    )
 
     params = {
         "datetime_from": datetime_from,
@@ -68,16 +230,116 @@ def get_daily_measurements(
         "limit": limit,
     }
 
-    response = requests.get(
+    response = request_with_retry(
         url,
-        headers=HEADERS,
         params=params
     )
 
-    response.raise_for_status()
-
     return response.json()["results"]
 
+
+# ==================================================
+# Save final result
+# ==================================================
+
+def save_result(
+    latitude,
+    longitude,
+    location,
+    measurements
+):
+    """
+    Append the final best-location result to CSV.
+
+    Existing results are NEVER overwritten.
+
+    The CSV contains only the intended final output.
+    """
+
+    fieldnames = [
+        "latitude",
+        "longitude",
+        "location_id",
+        "location",
+        "date",
+        "parameter",
+        "value",
+        "units",
+        "coverage",
+    ]
+
+    file_exists = os.path.exists(
+        OUTPUT_FILE
+    )
+
+    with open(
+        OUTPUT_FILE,
+        "a",
+        newline="",
+        encoding="utf-8"
+    ) as f:
+
+        writer = csv.DictWriter(
+            f,
+            fieldnames=fieldnames
+        )
+
+        # Only write header for a new file.
+        if not file_exists:
+
+            writer.writeheader()
+
+        # Write the final best location.
+        for measurement in measurements:
+
+            writer.writerow({
+
+                "latitude": latitude,
+
+                "longitude": longitude,
+
+                "location_id": location["id"],
+
+                "location": location.get(
+                    "name"
+                ),
+
+                "date": measurement[
+                    "date"
+                ],
+
+                "parameter": measurement[
+                    "parameter"
+                ],
+
+                "value": measurement[
+                    "value"
+                ],
+
+                "units": measurement[
+                    "units"
+                ],
+
+                "coverage": measurement[
+                    "coverage"
+                ],
+            })
+
+        # Make sure everything is physically
+        # written before continuing.
+        f.flush()
+        os.fsync(f.fileno())
+
+    print(
+        f"\nSaved {len(measurements)} "
+        f"measurements to "
+        f"{OUTPUT_FILE}"
+    )
+
+
+# ==================================================
+# Main function
+# ==================================================
 
 def get_location_pollution(
     latitude,
@@ -87,26 +349,24 @@ def get_location_pollution(
     max_locations=3
 ):
     """
-    Find the best nearby location based on the number
-    of measurements available for the requested time period.
+    Find the best nearby location based on the
+    number of measurements available.
 
-    Only the first 3 nearby locations are ever checked.
+    Only the first 3 nearby locations are checked.
 
-    1. Find nearby locations.
-    2. Check at most 3 locations.
-    3. Get sensors for each location.
-    4. Get measurements from each sensor.
-    5. Count measurements for each location.
-    6. Select the location with the most measurements.
-    7. Return measurements from the best location.
+    The final best location and its measurements
+    are appended to the CSV after the search is
+    complete.
     """
 
     # -----------------------------------------
-    # Safety limit:
-    # Never check more than 3 locations.
+    # Safety limit
     # -----------------------------------------
 
-    max_locations = min(max_locations, 3)
+    max_locations = min(
+        max_locations,
+        3
+    )
 
     # -----------------------------------------
     # 1. Get nearby locations
@@ -119,35 +379,50 @@ def get_location_pollution(
     )
 
     if not locations:
-        raise ValueError("No locations found.")
 
-    # Extra safety in case the API returns more
-    # locations than requested.
+        raise ValueError(
+            "No locations found."
+        )
+
+    # Extra safety in case API returns more.
     locations = locations[:3]
 
     print(
-        f"\nFound {len(locations)} locations to check "
+        f"\nFound {len(locations)} locations "
+        f"to check "
         f"(maximum allowed: 3)."
     )
 
-    # Store the best result
+    # -----------------------------------------
+    # Best result
+    # -----------------------------------------
+
     best_location = None
     best_measurements = []
 
     # -----------------------------------------
-    # 2. Check at most 3 locations
+    # 2. Check locations
     # -----------------------------------------
 
-    for location_number, location in enumerate(locations, start=1):
+    for location_number, location in enumerate(
+        locations,
+        start=1
+    ):
 
         location_id = location["id"]
-        location_name = location.get("name")
+        location_name = location.get(
+            "name"
+        )
 
         print("\n" + "=" * 50)
+
         print(
-            f"Checking location #{location_number}: "
-            f"{location_name} (ID: {location_id})"
+            f"Checking location "
+            f"#{location_number}: "
+            f"{location_name} "
+            f"(ID: {location_id})"
         )
+
         print("=" * 50)
 
         # -----------------------------------------
@@ -155,24 +430,32 @@ def get_location_pollution(
         # -----------------------------------------
 
         try:
-            sensors = get_sensors(location_id)
 
-        except requests.exceptions.HTTPError as e:
-            print(f"Could not get sensors: {e}")
+            sensors = get_sensors(
+                location_id
+            )
+
+        except requests.exceptions.RequestException as e:
+
+            print(
+                f"Could not get sensors "
+                f"for location "
+                f"{location_id}: {e}"
+            )
+
             continue
 
         if not sensors:
-            print("No sensors found.")
+
+            print(
+                "No sensors found."
+            )
+
             continue
 
-        print("\nSensors:")
-
-        for sensor in sensors:
-            print(
-                f"ID: {sensor['id']} | "
-                f"Parameter: {sensor['parameter']['name']} | "
-                f"Units: {sensor['parameter']['units']}"
-            )
+        print(
+            f"\nFound {len(sensors)} sensors."
+        )
 
         # -----------------------------------------
         # Get measurements
@@ -180,82 +463,191 @@ def get_location_pollution(
 
         location_measurements = []
 
-        for sensor in sensors:
+        for sensor_number, sensor in enumerate(
+            sensors,
+            start=1
+        ):
 
             sensor_id = sensor["id"]
 
+            print(
+                f"\nSensor "
+                f"{sensor_number}/"
+                f"{len(sensors)}: "
+                f"{sensor_id}"
+            )
+
+            print(
+                f"Parameter: "
+                f"{sensor['parameter']['name']}"
+            )
+
+            print(
+                f"Units: "
+                f"{sensor['parameter']['units']}"
+            )
+
             try:
-                measurements = get_daily_measurements(
-                    sensor_id=sensor_id,
-                    datetime_from=datetime_from,
-                    datetime_to=datetime_to
+
+                measurements = (
+                    get_daily_measurements(
+                        sensor_id=sensor_id,
+                        datetime_from=datetime_from,
+                        datetime_to=datetime_to
+                    )
                 )
 
-            except requests.exceptions.HTTPError as e:
+            except requests.exceptions.RequestException as e:
+
                 print(
-                    f"Could not get measurements for "
-                    f"sensor {sensor_id}: {e}"
+                    f"Could not get measurements "
+                    f"for sensor {sensor_id}: "
+                    f"{e}"
                 )
+
                 continue
+
+            # -----------------------------------------
+            # Convert API response
+            # -----------------------------------------
 
             for measurement in measurements:
 
                 location_measurements.append({
-                    "date": measurement["period"]["datetimeFrom"]["local"][:10],
-                    "parameter": measurement["parameter"]["name"],
-                    "value": measurement["value"],
-                    "units": measurement["parameter"]["units"],
-                    "coverage": measurement["coverage"]["percentCoverage"],
+
+                    "date": (
+                        measurement[
+                            "period"
+                        ][
+                            "datetimeFrom"
+                        ][
+                            "local"
+                        ][:10]
+                    ),
+
+                    "parameter": (
+                        measurement[
+                            "parameter"
+                        ][
+                            "name"
+                        ]
+                    ),
+
+                    "value": measurement[
+                        "value"
+                    ],
+
+                    "units": (
+                        measurement[
+                            "parameter"
+                        ][
+                            "units"
+                        ]
+                    ),
+
+                    "coverage": (
+                        measurement[
+                            "coverage"
+                        ][
+                            "percentCoverage"
+                        ]
+                    ),
                 })
 
         # -----------------------------------------
         # Count measurements
         # -----------------------------------------
 
-        measurement_count = len(location_measurements)
+        measurement_count = len(
+            location_measurements
+        )
 
         print(
-            f"\nLocation {location_name} has "
-            f"{measurement_count} measurements."
+            f"\nLocation {location_name} "
+            f"has {measurement_count} "
+            f"measurements."
         )
 
         # -----------------------------------------
-        # Is this the best location so far?
+        # Is this the best location?
         # -----------------------------------------
 
-        if measurement_count > len(best_measurements):
+        if measurement_count > len(
+            best_measurements
+        ):
 
             best_location = location
-            best_measurements = location_measurements
+
+            best_measurements = (
+                location_measurements.copy()
+            )
 
             print(
-                f"New best location: {location_name} "
-                f"({measurement_count} measurements)"
+                f"New best location: "
+                f"{location_name} "
+                f"({measurement_count} "
+                f"measurements)"
             )
 
     # -----------------------------------------
-    # 3. Return best location
+    # 3. No result
     # -----------------------------------------
 
-    if best_location is None or not best_measurements:
+    if (
+        best_location is None
+        or not best_measurements
+    ):
 
         print(
-            "\nNo measurements found at any nearby location."
+            "\nNo measurements found at "
+            "any nearby location."
         )
 
         return []
+
+    # -----------------------------------------
+    # 4. Final best location
+    # -----------------------------------------
 
     print("\n" + "=" * 50)
     print("BEST LOCATION")
     print("=" * 50)
 
-    print(f"Location ID: {best_location['id']}")
-    print(f"Location: {best_location.get('name')}")
-    print(f"Measurements: {len(best_measurements)}")
+    print(
+        f"Location ID: "
+        f"{best_location['id']}"
+    )
+
+    print(
+        f"Location: "
+        f"{best_location.get('name')}"
+    )
+
+    print(
+        f"Measurements: "
+        f"{len(best_measurements)}"
+    )
+
+    # -----------------------------------------
+    # 5. Save final result
+    # -----------------------------------------
+
+    save_result(
+        latitude=latitude,
+        longitude=longitude,
+        location=best_location,
+        measurements=best_measurements
+    )
+
+    # -----------------------------------------
+    # 6. Return final result
+    # -----------------------------------------
 
     return {
         "location_id": best_location["id"],
-        "location": best_location.get("name"),
+        "location": best_location.get(
+            "name"
+        ),
         "measurements": best_measurements
     }
 
@@ -264,8 +656,8 @@ def get_location_pollution(
 # Example
 # ==================================================
 
-# LATITUDE = 59.437242
-# LONGITUDE = 24.7572693
+# LATITUDE = 48.8566
+# LONGITUDE = 2.3522
 
 # measurements = get_location_pollution(
 #     latitude=LATITUDE,
@@ -275,8 +667,6 @@ def get_location_pollution(
 #     max_locations=3
 # )
 
-
-# Print final data
 # print("\nDaily pollution:")
 
 # for measurement in measurements:
