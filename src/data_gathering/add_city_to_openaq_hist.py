@@ -1,10 +1,10 @@
+# match cords (lat, long) and city name for openaq historical data
+
 import csv
 
-# Input files
 LOCATIONS_FILE = "./data/loc_cords_date.csv"
 OPENAQ_FILE = "./data/openaq_historical.csv"
 
-# Output file
 OUTPUT_FILE = "./data/openaq_historical_with_city.csv"
 
 

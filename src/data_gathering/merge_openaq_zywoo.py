@@ -1,3 +1,5 @@
+# merge cs2 match data with openaq air quality data
+
 import pandas as pd
 
 OPENAQ_FILE = "./data/openaq_historical_with_city.csv"

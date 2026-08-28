@@ -1,3 +1,5 @@
+# match each event to latitude and longitude
+
 import csv
 import requests
 import time
