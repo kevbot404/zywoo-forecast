@@ -1,440 +1,440 @@
 event_name,location,event_id,date,player_team,opponent,map,kd,plus_minus,rating
-BLAST Open Porto 2026,"CPH, DK & Porto, PT",8249,27/08/26,Vitality,Inner Circle,cch,16 - 21,-5,0.69
-BLAST Open Porto 2026,"CPH, DK & Porto, PT",8249,27/08/26,Vitality,Inner Circle,anb,11 - 15,-4,0.93
-Esports World Cup 2026,"Paris, France",8261,21/08/26,Vitality,Spirit,mrg,5 - 14,-9,0.73
-Esports World Cup 2026,"Paris, France",8261,21/08/26,Vitality,Spirit,nuke,25 - 17,+8,1.29
-Esports World Cup 2026,"Paris, France",8261,21/08/26,Vitality,Spirit,anb,21 - 17,+4,1.02
-Esports World Cup 2026,"Paris, France",8261,20/08/26,Vitality,FaZe,cch,25 - 10,+15,2.21
-Esports World Cup 2026,"Paris, France",8261,20/08/26,Vitality,FaZe,d2,17 - 15,+2,1.17
-Esports World Cup 2026,"Paris, France",8261,16/08/26,Vitality,Lynn Vision,inf,22 - 9,+13,2.18
-Esports World Cup 2026,"Paris, France",8261,16/08/26,Vitality,Lynn Vision,d2,18 - 8,+10,2.22
-Esports World Cup 2026,"Paris, France",8261,14/08/26,Vitality,B8,d2,9 - 12,-3,0.84
-Esports World Cup 2026,"Paris, France",8261,14/08/26,Vitality,B8,inf,17 - 17,0,0.99
-Esports World Cup 2026,"Paris, France",8261,14/08/26,Vitality,B8,mrg,23 - 17,+6,1.58
-Esports World Cup 2026,"Paris, France",8261,12/08/26,Vitality,100 Thieves,nuke,15 - 7,+8,1.28
-IEM Cologne Major 2026,"Cologne, Germany",8301,19/06/26,Vitality,Falcons,d2,13 - 15,-2,0.91
-IEM Cologne Major 2026,"Cologne, Germany",8301,19/06/26,Vitality,Falcons,inf,26 - 13,+13,1.67
-IEM Cologne Major 2026,"Cologne, Germany",8301,19/06/26,Vitality,Falcons,anb,15 - 14,+1,0.95
-IEM Cologne Major 2026,"Cologne, Germany",8301,14/06/26,Vitality,BetBoom,nuke,30 - 14,+16,1.70
-IEM Cologne Major 2026,"Cologne, Germany",8301,14/06/26,Vitality,BetBoom,ovp,23 - 10,+13,1.62
-IEM Cologne Major 2026,"Cologne, Germany",8301,13/06/26,Vitality,MOUZ,inf,23 - 8,+15,2.32
-IEM Cologne Major 2026,"Cologne, Germany",8301,13/06/26,Vitality,MOUZ,d2,15 - 14,+1,1.22
-IEM Cologne Major 2026,"Cologne, Germany",8301,13/06/26,Vitality,MOUZ,mrg,19 - 9,+10,1.56
-IEM Cologne Major 2026,"Cologne, Germany",8301,12/06/26,Vitality,9z,d2,20 - 16,+4,1.27
-IEM Cologne Major 2026,"Cologne, Germany",8301,12/06/26,Vitality,9z,mrg,15 - 13,+2,1.27
-IEM Cologne Major 2026,"Cologne, Germany",8301,12/06/26,Vitality,9z,inf,10 - 9,+1,1.03
-IEM Cologne Major 2026,"Cologne, Germany",8301,11/06/26,Vitality,FUT,nuke,27 - 10,+17,2.14
-IEM Cologne Major 2026,"Cologne, Germany",8301,11/06/26,Vitality,FUT,ovp,19 - 5,+14,2.38
-IEM Cologne Major 2026,"Cologne, Germany",8301,11/06/26,Vitality,FUT,anb,7 - 15,-8,0.68
-IEM Atlanta 2026,"Atlanta, GA, US",8243,16/05/26,Vitality,Natus Vincere,inf,5 - 13,-8,0.54
-IEM Atlanta 2026,"Atlanta, GA, US",8243,16/05/26,Vitality,Natus Vincere,anb,15 - 14,+1,1.04
-IEM Atlanta 2026,"Atlanta, GA, US",8243,16/05/26,Vitality,Natus Vincere,d2,19 - 13,+6,1.28
-IEM Atlanta 2026,"Atlanta, GA, US",8243,13/05/26,Vitality,B8,d2,15 - 10,+5,1.15
-IEM Atlanta 2026,"Atlanta, GA, US",8243,13/05/26,Vitality,B8,mrg,19 - 9,+10,1.61
-IEM Atlanta 2026,"Atlanta, GA, US",8243,13/05/26,Vitality,FaZe,d2,22 - 9,+13,1.86
-IEM Atlanta 2026,"Atlanta, GA, US",8243,13/05/26,Vitality,FaZe,nuke,22 - 16,+6,1.27
-IEM Atlanta 2026,"Atlanta, GA, US",8243,12/05/26,Vitality,BetBoom,nuke,15 - 14,+1,1.10
-IEM Atlanta 2026,"Atlanta, GA, US",8243,12/05/26,Vitality,BetBoom,ovp,17 - 12,+5,1.46
-IEM Atlanta 2026,"Atlanta, GA, US",8243,12/05/26,Vitality,BetBoom,anb,16 - 15,+1,1.38
-IEM Atlanta 2026,"Atlanta, GA, US",8243,11/05/26,Vitality,BC.Game,d2,19 - 11,+8,1.28
-IEM Atlanta 2026,"Atlanta, GA, US",8243,11/05/26,Vitality,BC.Game,mrg,19 - 9,+10,1.81
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,03/05/26,Vitality,Natus Vincere,d2,19 - 9,+10,2.18
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,03/05/26,Vitality,Natus Vincere,anb,17 - 19,-2,0.98
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,03/05/26,Vitality,Natus Vincere,nuke,18 - 17,+1,1.20
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,02/05/26,Vitality,GamerLegion,ovp,21 - 18,+3,1.09
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,02/05/26,Vitality,GamerLegion,mrg,21 - 3,+18,2.12
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,30/04/26,Vitality,G2,d2,18 - 9,+9,1.96
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,30/04/26,Vitality,G2,ovp,18 - 15,+3,1.16
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,30/04/26,Vitality,G2,mrg,20 - 18,+2,1.22
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,29/04/26,Vitality,FUT,nuke,23 - 12,+11,1.36
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,29/04/26,Vitality,FUT,d2,30 - 11,+19,1.78
-BLAST Rivals 2026 Season 1,"Fort Worth, TX, US",8250,29/04/26,Vitality,FUT,mrg,16 - 14,+2,0.92
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,19/04/26,Vitality,Spirit,d2,18 - 8,+10,1.62
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,19/04/26,Vitality,Spirit,nuke,20 - 12,+8,1.51
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,19/04/26,Vitality,Spirit,mrg,21 - 19,+2,1.16
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,18/04/26,Vitality,FURIA,anc,27 - 14,+13,1.57
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,18/04/26,Vitality,FURIA,ovp,22 - 13,+9,1.66
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,17/04/26,Vitality,Natus Vincere,d2,14 - 8,+6,1.44
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,17/04/26,Vitality,Natus Vincere,mrg,30 - 7,+23,2.53
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,15/04/26,Vitality,Falcons,nuke,19 - 19,0,0.85
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,15/04/26,Vitality,Falcons,d2,15 - 11,+4,0.98
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,15/04/26,Vitality,Falcons,mrg,19 - 16,+3,1.08
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,14/04/26,Vitality,G2,d2,13 - 14,-1,1.01
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,14/04/26,Vitality,G2,inf,29 - 15,+14,1.65
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,14/04/26,Vitality,G2,mrg,10 - 13,-3,1.00
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,13/04/26,Vitality,RED Canids,ovp,21 - 8,+13,1.86
-IEM Rio 2026,"Rio de Janeiro, Brazil",8242,13/04/26,Vitality,RED Canids,nuke,24 - 10,+14,2.34
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,29/03/26,Vitality,Natus Vincere,d2,16 - 8,+8,1.26
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,29/03/26,Vitality,Natus Vincere,anb,15 - 12,+3,1.04
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,29/03/26,Vitality,Natus Vincere,inf,16 - 12,+4,1.42
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,28/03/26,Vitality,Aurora,nuke,18 - 10,+8,1.83
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,28/03/26,Vitality,Aurora,inf,10 - 8,+2,1.03
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,23/03/26,Vitality,PARIVISION,inf,28 - 15,+13,1.67
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,23/03/26,Vitality,PARIVISION,mrg,17 - 11,+6,1.12
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,21/03/26,Vitality,The MongolZ,ovp,23 - 14,+9,1.42
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,21/03/26,Vitality,The MongolZ,mrg,19 - 9,+10,2.22
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,19/03/26,Vitality,9z,nuke,14 - 7,+7,1.57
-BLAST Open Rotterdam 2026,"CPH, DK & Rotterdam, NL",8248,19/03/26,Vitality,9z,ovp,23 - 8,+15,2.38
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,22/02/26,Vitality,PARIVISION,inf,20 - 19,+1,1.28
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,22/02/26,Vitality,PARIVISION,d2,12 - 5,+7,1.33
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,22/02/26,Vitality,PARIVISION,ovp,16 - 15,+1,1.07
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,21/02/26,Vitality,The MongolZ,d2,10 - 6,+4,1.34
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,21/02/26,Vitality,The MongolZ,mrg,26 - 16,+10,1.44
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,20/02/26,Vitality,Aurora,ovp,25 - 10,+15,1.86
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,20/02/26,Vitality,Aurora,inf,19 - 10,+9,1.46
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,16/02/26,Vitality,MOUZ,inf,22 - 12,+10,1.63
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,16/02/26,Vitality,MOUZ,d2,22 - 10,+12,2.03
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,15/02/26,Vitality,The MongolZ,nuke,12 - 10,+2,1.13
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,15/02/26,Vitality,The MongolZ,d2,11 - 5,+6,1.51
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,15/02/26,Vitality,The MongolZ,mrg,16 - 14,+2,1.06
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,14/02/26,Vitality,G2,anb,18 - 9,+9,1.47
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,14/02/26,Vitality,G2,inf,14 - 13,+1,0.91
-PGL Cluj-Napoca 2026,"Cluj-Napoca, Romania",8047,14/02/26,Vitality,G2,mrg,21 - 13,+8,1.85
-IEM Kraków 2026,"Kraków, Poland",8240,08/02/26,Vitality,FURIA,ovp,25 - 12,+13,1.52
-IEM Kraków 2026,"Kraków, Poland",8240,08/02/26,Vitality,FURIA,nuke,17 - 6,+11,1.83
-IEM Kraków 2026,"Kraków, Poland",8240,08/02/26,Vitality,FURIA,inf,27 - 10,+17,2.22
-IEM Kraków 2026,"Kraków, Poland",8240,08/02/26,Vitality,FURIA,mrg,21 - 13,+8,1.28
-IEM Kraków 2026,"Kraków, Poland",8240,07/02/26,Vitality,MOUZ,d2,18 - 8,+10,1.70
-IEM Kraków 2026,"Kraków, Poland",8240,07/02/26,Vitality,MOUZ,nuke,22 - 11,+11,1.68
-IEM Kraków 2026,"Kraków, Poland",8240,03/02/26,Vitality,Aurora,ovp,23 - 10,+13,2.10
-IEM Kraków 2026,"Kraków, Poland",8240,03/02/26,Vitality,Aurora,anc,53 - 26,+27,1.65
-IEM Kraków 2026,"Kraków, Poland",8240,02/02/26,Vitality,3DMAX,d2,19 - 8,+11,1.81
-IEM Kraków 2026,"Kraków, Poland",8240,02/02/26,Vitality,3DMAX,inf,18 - 10,+8,1.41
-IEM Kraków 2026,"Kraków, Poland",8240,31/01/26,Vitality,BC.Game,ovp,15 - 8,+7,1.26
-IEM Kraków 2026,"Kraków, Poland",8240,31/01/26,Vitality,BC.Game,d2,14 - 10,+4,1.03
-BLAST Bounty 2026 Season 1 Finals,Malta,8246,24/01/26,Vitality,Falcons,mrg,5 - 15,-10,0.56
-BLAST Bounty 2026 Season 1 Finals,Malta,8246,24/01/26,Vitality,Falcons,anb,19 - 8,+11,1.83
-BLAST Bounty 2026 Season 1 Finals,Malta,8246,24/01/26,Vitality,Falcons,inf,13 - 17,-4,0.54
-BLAST Bounty 2026 Season 1 Finals,Malta,8246,23/01/26,Vitality,GamerLegion,d2,20 - 13,+7,1.35
-BLAST Bounty 2026 Season 1 Finals,Malta,8246,23/01/26,Vitality,GamerLegion,inf,15 - 16,-1,1.28
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,14/12/25,Vitality,FaZe,ovp,14 - 6,+8,1.70
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,14/12/25,Vitality,FaZe,inf,16 - 12,+4,1.06
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,14/12/25,Vitality,FaZe,d2,17 - 8,+9,1.60
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,14/12/25,Vitality,FaZe,nuke,11 - 13,-2,0.83
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,13/12/25,Vitality,Spirit,d2,18 - 9,+9,1.42
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,13/12/25,Vitality,Spirit,mrg,25 - 23,+2,1.08
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,11/12/25,Vitality,The MongolZ,d2,21 - 10,+11,1.74
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,11/12/25,Vitality,The MongolZ,mrg,25 - 8,+17,2.47
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,06/12/25,Vitality,Natus Vincere,trn,21 - 15,+6,1.43
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,06/12/25,Vitality,Natus Vincere,inf,19 - 15,+4,1.26
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,05/12/25,Vitality,B8,inf,17 - 8,+9,2.05
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,04/12/25,Vitality,3DMAX,nuke,12 - 7,+5,1.16
-StarLadder Budapest Major 2025,"Budapest, Hungary",8042,04/12/25,Vitality,FaZe,nuke,18 - 17,+1,1.11
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,15/11/25,Vitality,Falcons,nuke,18 - 12,+6,1.68
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,15/11/25,Vitality,Falcons,inf,19 - 16,+3,1.14
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,14/11/25,Vitality,Spirit,mrg,24 - 13,+11,1.62
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,14/11/25,Vitality,Spirit,nuke,33 - 25,+8,1.41
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,14/11/25,Vitality,Spirit,d2,13 - 15,-2,0.78
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,13/11/25,Vitality,FURIA,inf,7 - 13,-6,0.96
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,13/11/25,Vitality,FURIA,ovp,20 - 17,+3,1.03
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,13/11/25,Vitality,FURIA,nuke,20 - 16,+4,1.19
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,12/11/25,Vitality,TYLOO,inf,19 - 16,+3,1.38
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,12/11/25,Vitality,TYLOO,nuke,9 - 15,-6,0.86
-BLAST Rivals 2025 Season 2,"Chek Lap Kok, Hong Kong",7908,12/11/25,Vitality,TYLOO,ovp,14 - 7,+7,1.69
-IEM Chengdu 2025,"Chengdu, China",8041,09/11/25,Vitality,FURIA,ovp,16 - 17,-1,1.08
-IEM Chengdu 2025,"Chengdu, China",8041,09/11/25,Vitality,FURIA,inf,21 - 16,+5,1.36
-IEM Chengdu 2025,"Chengdu, China",8041,09/11/25,Vitality,FURIA,anc,15 - 16,-1,1.05
-IEM Chengdu 2025,"Chengdu, China",8041,08/11/25,Vitality,MOUZ,inf,19 - 14,+5,1.48
-IEM Chengdu 2025,"Chengdu, China",8041,08/11/25,Vitality,MOUZ,trn,14 - 16,-2,0.93
-IEM Chengdu 2025,"Chengdu, China",8041,08/11/25,Vitality,MOUZ,nuke,30 - 16,+14,1.75
-IEM Chengdu 2025,"Chengdu, China",8041,07/11/25,Vitality,Astralis,mrg,19 - 11,+8,1.64
-IEM Chengdu 2025,"Chengdu, China",8041,07/11/25,Vitality,Astralis,nuke,19 - 19,0,0.94
-IEM Chengdu 2025,"Chengdu, China",8041,07/11/25,Vitality,Astralis,inf,15 - 11,+4,1.33
-IEM Chengdu 2025,"Chengdu, China",8041,05/11/25,Vitality,G2,mrg,16 - 14,+2,1.02
-IEM Chengdu 2025,"Chengdu, China",8041,05/11/25,Vitality,G2,trn,25 - 7,+18,2.43
-IEM Chengdu 2025,"Chengdu, China",8041,05/11/25,Vitality,Lynn Vision,nuke,14 - 11,+3,1.39
-IEM Chengdu 2025,"Chengdu, China",8041,05/11/25,Vitality,Lynn Vision,d2,12 - 5,+7,1.38
-IEM Chengdu 2025,"Chengdu, China",8041,04/11/25,Vitality,MOUZ,inf,36 - 29,+7,1.38
-IEM Chengdu 2025,"Chengdu, China",8041,04/11/25,Vitality,MOUZ,nuke,21 - 10,+11,1.82
-IEM Chengdu 2025,"Chengdu, China",8041,04/11/25,Vitality,MOUZ,trn,10 - 13,-3,0.95
-IEM Chengdu 2025,"Chengdu, China",8041,03/11/25,Vitality,Virtus.pro,mrg,18 - 3,+15,2.02
-IEM Chengdu 2025,"Chengdu, China",8041,03/11/25,Vitality,Virtus.pro,d2,12 - 12,0,1.13
-IEM Chengdu 2025,"Chengdu, China",8041,03/11/25,Vitality,Virtus.pro,ovp,8 - 15,-7,0.62
-ESL Pro League Season 22,"Stockholm, Sweden",8040,12/10/25,Vitality,Falcons,d2,12 - 10,+2,1.17
-ESL Pro League Season 22,"Stockholm, Sweden",8040,12/10/25,Vitality,Falcons,trn,17 - 9,+8,1.12
-ESL Pro League Season 22,"Stockholm, Sweden",8040,12/10/25,Vitality,Falcons,inf,13 - 8,+5,0.99
-ESL Pro League Season 22,"Stockholm, Sweden",8040,11/10/25,Vitality,FaZe,d2,22 - 8,+14,1.88
-ESL Pro League Season 22,"Stockholm, Sweden",8040,11/10/25,Vitality,FaZe,inf,16 - 15,+1,1.33
-ESL Pro League Season 22,"Stockholm, Sweden",8040,11/10/25,Vitality,FaZe,mrg,39 - 25,+14,1.51
-ESL Pro League Season 22,"Stockholm, Sweden",8040,10/10/25,Vitality,FURIA,nuke,23 - 11,+12,1.68
-ESL Pro League Season 22,"Stockholm, Sweden",8040,10/10/25,Vitality,FURIA,inf,18 - 13,+5,1.35
-ESL Pro League Season 22,"Stockholm, Sweden",8040,10/10/25,Vitality,FURIA,ovp,19 - 19,0,1.10
-ESL Pro League Season 22,"Stockholm, Sweden",8040,07/10/25,Vitality,G2,mrg,25 - 22,+3,1.14
-ESL Pro League Season 22,"Stockholm, Sweden",8040,07/10/25,Vitality,G2,inf,12 - 4,+8,1.51
-ESL Pro League Season 22,"Stockholm, Sweden",8040,06/10/25,Vitality,HOTU,d2,9 - 9,0,0.90
-ESL Pro League Season 22,"Stockholm, Sweden",8040,06/10/25,Vitality,HOTU,ovp,20 - 10,+10,1.59
-ESL Pro League Season 22,"Stockholm, Sweden",8040,05/10/25,Vitality,GamerLegion,d2,21 - 8,+13,2.47
-ESL Pro League Season 22,"Stockholm, Sweden",8040,05/10/25,Vitality,GamerLegion,ovp,19 - 5,+14,1.77
-ESL Pro League Season 22,"Stockholm, Sweden",8040,04/10/25,Vitality,Gentle Mates,trn,15 - 13,+2,0.98
-ESL Pro League Season 22,"Stockholm, Sweden",8040,04/10/25,Vitality,Gentle Mates,nuke,14 - 14,0,0.91
-BLAST Open London 2025 Finals,"London, United Kingdom",7912,07/09/25,Vitality,G2,trn,11 - 16,-5,0.85
-BLAST Open London 2025 Finals,"London, United Kingdom",7912,07/09/25,Vitality,G2,inf,17 - 22,-5,0.72
-BLAST Open London 2025 Finals,"London, United Kingdom",7912,07/09/25,Vitality,G2,ovp,20 - 10,+10,1.90
-BLAST Open London 2025 Finals,"London, United Kingdom",7912,07/09/25,Vitality,G2,mrg,30 - 6,+24,2.61
-BLAST Open London 2025 Finals,"London, United Kingdom",7912,07/09/25,Vitality,G2,d2,9 - 13,-4,1.03
-BLAST Open London 2025 Finals,"London, United Kingdom",7912,06/09/25,Vitality,MOUZ,inf,19 - 12,+7,1.56
-BLAST Open London 2025 Finals,"London, United Kingdom",7912,06/09/25,Vitality,MOUZ,mrg,16 - 9,+7,1.32
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,24/08/25,Vitality,Falcons,nuke,12 - 15,-3,0.97
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,24/08/25,Vitality,Falcons,trn,10 - 14,-4,0.87
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,24/08/25,Vitality,Falcons,inf,9 - 13,-4,0.72
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,23/08/25,Vitality,The MongolZ,nuke,14 - 14,0,1.20
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,23/08/25,Vitality,The MongolZ,d2,11 - 14,-3,0.81
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,23/08/25,Vitality,The MongolZ,mrg,17 - 15,+2,1.33
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,21/08/25,Vitality,TYLOO,nuke,20 - 12,+8,1.45
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,21/08/25,Vitality,TYLOO,inf,24 - 7,+17,2.73
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,20/08/25,Vitality,Liquid,d2,24 - 20,+4,1.18
-Esports World Cup 2025,"Riyadh, Saudi Arabia",8039,20/08/25,Vitality,Liquid,mrg,27 - 14,+13,1.95
-BLAST Bounty 2025 Season 2 Finals,Malta,7910,16/08/25,Vitality,The MongolZ,inf,17 - 16,+1,0.96
-BLAST Bounty 2025 Season 2 Finals,Malta,7910,16/08/25,Vitality,The MongolZ,mrg,15 - 13,+2,1.13
-BLAST Bounty 2025 Season 2 Finals,Malta,7910,15/08/25,Vitality,Liquid,nuke,30 - 21,+9,1.34
-BLAST Bounty 2025 Season 2 Finals,Malta,7910,15/08/25,Vitality,Liquid,trn,25 - 17,+8,1.13
-IEM Cologne 2025,"Cologne, Germany",8038,02/08/25,Vitality,MOUZ,trn,13 - 18,-5,0.79
-IEM Cologne 2025,"Cologne, Germany",8038,02/08/25,Vitality,MOUZ,mrg,8 - 19,-11,0.45
-IEM Cologne 2025,"Cologne, Germany",8038,29/07/25,Vitality,The MongolZ,inf,20 - 12,+8,1.64
-IEM Cologne 2025,"Cologne, Germany",8038,29/07/25,Vitality,The MongolZ,mrg,23 - 9,+14,1.78
-IEM Cologne 2025,"Cologne, Germany",8038,27/07/25,Vitality,G2,trn,23 - 15,+8,1.45
-IEM Cologne 2025,"Cologne, Germany",8038,27/07/25,Vitality,G2,inf,10 - 10,0,0.90
-IEM Cologne 2025,"Cologne, Germany",8038,26/07/25,Vitality,Astralis,ovp,12 - 12,0,1.01
-IEM Cologne 2025,"Cologne, Germany",8038,26/07/25,Vitality,Astralis,nuke,19 - 19,0,1.12
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,22/06/25,Vitality,The MongolZ,inf,10 - 10,0,0.97
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,22/06/25,Vitality,The MongolZ,d2,18 - 8,+10,1.97
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,22/06/25,Vitality,The MongolZ,mrg,9 - 16,-7,0.69
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,21/06/25,Vitality,MOUZ,trn,21 - 10,+11,1.77
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,21/06/25,Vitality,MOUZ,inf,18 - 15,+3,1.51
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,21/06/25,Vitality,MOUZ,mrg,14 - 7,+7,1.15
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,20/06/25,Vitality,Natus Vincere,nuke,24 - 16,+8,1.49
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,20/06/25,Vitality,Natus Vincere,mrg,17 - 11,+6,1.40
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,14/06/25,Vitality,Virtus.pro,d2,22 - 6,+16,1.81
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,14/06/25,Vitality,Virtus.pro,trn,16 - 9,+7,1.51
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,13/06/25,Vitality,3DMAX,nuke,15 - 4,+11,1.98
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,13/06/25,Vitality,Nemiga,d2,22 - 11,+11,1.46
-BLAST.tv Austin Major 2025,"Austin, TX, US",7902,12/06/25,Vitality,Legacy,inf,11 - 10,+1,0.89
-IEM Dallas 2025,"Dallas, TX, US",8037,25/05/25,Vitality,MOUZ,inf,13 - 11,+2,1.30
-IEM Dallas 2025,"Dallas, TX, US",8037,25/05/25,Vitality,MOUZ,mrg,25 - 12,+13,1.80
-IEM Dallas 2025,"Dallas, TX, US",8037,25/05/25,Vitality,MOUZ,d2,21 - 12,+9,1.45
-IEM Dallas 2025,"Dallas, TX, US",8037,25/05/25,Vitality,Falcons,inf,22 - 17,+5,1.22
-IEM Dallas 2025,"Dallas, TX, US",8037,25/05/25,Vitality,Falcons,trn,12 - 16,-4,1.05
-IEM Dallas 2025,"Dallas, TX, US",8037,25/05/25,Vitality,Falcons,d2,16 - 12,+4,1.18
-IEM Dallas 2025,"Dallas, TX, US",8037,22/05/25,Vitality,The MongolZ,mrg,17 - 17,0,1.09
-IEM Dallas 2025,"Dallas, TX, US",8037,22/05/25,Vitality,The MongolZ,nuke,19 - 14,+5,1.65
-IEM Dallas 2025,"Dallas, TX, US",8037,22/05/25,Vitality,The MongolZ,inf,20 - 13,+7,1.24
-IEM Dallas 2025,"Dallas, TX, US",8037,20/05/25,Vitality,GamerLegion,nuke,17 - 12,+5,1.23
-IEM Dallas 2025,"Dallas, TX, US",8037,20/05/25,Vitality,GamerLegion,mrg,16 - 11,+5,1.12
-IEM Dallas 2025,"Dallas, TX, US",8037,19/05/25,Vitality,Legacy,d2,15 - 13,+2,1.11
-IEM Dallas 2025,"Dallas, TX, US",8037,19/05/25,Vitality,Legacy,inf,13 - 8,+5,1.34
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,04/05/25,Vitality,Falcons,nuke,20 - 11,+9,1.79
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,04/05/25,Vitality,Falcons,mrg,25 - 21,+4,1.47
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,04/05/25,Vitality,Falcons,trn,10 - 9,+1,0.98
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,04/05/25,Vitality,Falcons,d2,17 - 10,+7,1.72
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,04/05/25,Vitality,Falcons,inf,18 - 15,+3,1.26
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,03/05/25,Vitality,Spirit,nuke,16 - 17,-1,0.89
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,03/05/25,Vitality,Spirit,mrg,25 - 13,+12,2.06
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,01/05/25,Vitality,MOUZ,trn,20 - 15,+5,1.54
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,01/05/25,Vitality,MOUZ,inf,13 - 14,-1,0.96
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,01/05/25,Vitality,MOUZ,mrg,18 - 17,+1,1.05
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,30/04/25,Vitality,Wildcard,d2,14 - 11,+3,1.12
-BLAST Rivals 2025 Season 1,"Copenhagen, Denmark",7905,30/04/25,Vitality,Wildcard,inf,13 - 12,+1,1.08
-IEM Melbourne 2025,"Melbourne, Australia",8036,27/04/25,Vitality,Falcons,nuke,35 - 31,+4,1.38
-IEM Melbourne 2025,"Melbourne, Australia",8036,27/04/25,Vitality,Falcons,mrg,18 - 15,+3,1.09
-IEM Melbourne 2025,"Melbourne, Australia",8036,27/04/25,Vitality,Falcons,trn,24 - 14,+10,1.54
-IEM Melbourne 2025,"Melbourne, Australia",8036,27/04/25,Vitality,Falcons,d2,16 - 17,-1,0.92
-IEM Melbourne 2025,"Melbourne, Australia",8036,27/04/25,Vitality,Falcons,inf,17 - 5,+12,2.36
-IEM Melbourne 2025,"Melbourne, Australia",8036,26/04/25,Vitality,The MongolZ,nuke,22 - 6,+16,2.33
-IEM Melbourne 2025,"Melbourne, Australia",8036,26/04/25,Vitality,The MongolZ,mrg,16 - 5,+11,1.75
-IEM Melbourne 2025,"Melbourne, Australia",8036,23/04/25,Vitality,Falcons,inf,18 - 11,+7,1.52
-IEM Melbourne 2025,"Melbourne, Australia",8036,23/04/25,Vitality,Falcons,mrg,18 - 17,+1,0.99
-IEM Melbourne 2025,"Melbourne, Australia",8036,22/04/25,Vitality,Liquid,nuke,13 - 16,-3,0.84
-IEM Melbourne 2025,"Melbourne, Australia",8036,22/04/25,Vitality,Liquid,mrg,16 - 10,+6,1.69
-IEM Melbourne 2025,"Melbourne, Australia",8036,21/04/25,Vitality,FlyQuest,nuke,17 - 12,+5,1.42
-IEM Melbourne 2025,"Melbourne, Australia",8036,21/04/25,Vitality,FlyQuest,anb,10 - 10,0,1.35
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,30/03/25,Vitality,MOUZ,trn,18 - 12,+6,1.48
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,30/03/25,Vitality,MOUZ,nuke,21 - 13,+8,1.65
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,30/03/25,Vitality,MOUZ,d2,19 - 12,+7,1.40
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,30/03/25,Vitality,MOUZ,mrg,12 - 16,-4,0.86
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,30/03/25,Vitality,MOUZ,inf,13 - 2,+11,2.57
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,29/03/25,Vitality,Spirit,mrg,26 - 14,+12,1.75
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,29/03/25,Vitality,Spirit,nuke,12 - 16,-4,1.08
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,29/03/25,Vitality,Spirit,anb,15 - 11,+4,1.54
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,24/03/25,Vitality,MOUZ,d2,22 - 14,+8,1.76
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,24/03/25,Vitality,MOUZ,mrg,20 - 14,+6,1.36
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,21/03/25,Vitality,Virtus.pro,inf,17 - 12,+5,1.39
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,21/03/25,Vitality,Virtus.pro,anb,19 - 6,+13,1.97
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,19/03/25,Vitality,Astralis,d2,17 - 8,+9,1.57
-BLAST Open Lisbon 2025,"CPH, DK & Lisbon, PT",7904,19/03/25,Vitality,Astralis,inf,13 - 6,+7,1.47
-ESL Pro League Season 21,"Stockholm, Sweden",8292,16/03/25,Vitality,MOUZ,inf,16 - 8,+8,1.80
-ESL Pro League Season 21,"Stockholm, Sweden",8292,16/03/25,Vitality,MOUZ,nuke,17 - 11,+6,1.68
-ESL Pro League Season 21,"Stockholm, Sweden",8292,16/03/25,Vitality,MOUZ,d2,10 - 15,-5,0.77
-ESL Pro League Season 21,"Stockholm, Sweden",8292,15/03/25,Vitality,The MongolZ,inf,12 - 6,+6,1.40
-ESL Pro League Season 21,"Stockholm, Sweden",8292,15/03/25,Vitality,The MongolZ,nuke,25 - 18,+7,1.33
-ESL Pro League Season 21,"Stockholm, Sweden",8292,15/03/25,Vitality,The MongolZ,anb,17 - 6,+11,1.80
-ESL Pro League Season 21,"Stockholm, Sweden",8292,14/03/25,Vitality,Liquid,d2,20 - 11,+9,1.26
-ESL Pro League Season 21,"Stockholm, Sweden",8292,14/03/25,Vitality,Liquid,anb,18 - 13,+5,1.45
-ESL Pro League Season 21,"Stockholm, Sweden",8292,09/03/25,Vitality,MOUZ,d2,26 - 8,+18,2.38
-ESL Pro League Season 21,"Stockholm, Sweden",8292,09/03/25,Vitality,MOUZ,inf,17 - 10,+7,1.34
-ESL Pro League Season 21,"Stockholm, Sweden",8292,08/03/25,Vitality,3DMAX,d2,17 - 11,+6,1.32
-ESL Pro League Season 21,"Stockholm, Sweden",8292,08/03/25,Vitality,3DMAX,trn,21 - 11,+10,2.13
-ESL Pro League Season 21,"Stockholm, Sweden",8292,07/03/25,Vitality,MIBR,trn,17 - 12,+5,1.34
-ESL Pro League Season 21,"Stockholm, Sweden",8292,07/03/25,Vitality,MIBR,inf,19 - 6,+13,2.12
-ESL Pro League Season 21,"Stockholm, Sweden",8292,07/03/25,Vitality,MIBR,anb,9 - 14,-5,0.70
-IEM Katowice 2025,"Katowice, Poland",8034,09/02/25,Vitality,Spirit,mrg,22 - 13,+9,1.26
-IEM Katowice 2025,"Katowice, Poland",8034,09/02/25,Vitality,Spirit,nuke,26 - 6,+20,2.26
-IEM Katowice 2025,"Katowice, Poland",8034,09/02/25,Vitality,Spirit,d2,19 - 10,+9,1.30
-IEM Katowice 2025,"Katowice, Poland",8034,08/02/25,Vitality,The MongolZ,nuke,18 - 13,+5,1.42
-IEM Katowice 2025,"Katowice, Poland",8034,08/02/25,Vitality,The MongolZ,mrg,23 - 10,+13,1.63
-IEM Katowice 2025,"Katowice, Poland",8034,04/02/25,Vitality,Virtus.pro,inf,16 - 10,+6,1.34
-IEM Katowice 2025,"Katowice, Poland",8034,04/02/25,Vitality,Virtus.pro,anb,16 - 9,+7,1.49
-IEM Katowice 2025,"Katowice, Poland",8034,02/02/25,Vitality,FaZe,d2,37 - 23,+14,1.60
-IEM Katowice 2025,"Katowice, Poland",8034,02/02/25,Vitality,FaZe,anb,17 - 15,+2,1.02
-IEM Katowice 2025,"Katowice, Poland",8034,02/02/25,Vitality,FaZe,nuke,9 - 11,-2,0.93
-IEM Katowice 2025,"Katowice, Poland",8034,01/02/25,Vitality,3DMAX,nuke,19 - 12,+7,1.25
-IEM Katowice 2025,"Katowice, Poland",8034,01/02/25,Vitality,3DMAX,inf,26 - 23,+3,1.28
-BLAST Bounty 2025 Season 1 Finals,"Copenhagen, Denmark",7909,24/01/25,Vitality,Eternal Fire,mrg,20 - 17,+3,1.32
-BLAST Bounty 2025 Season 1 Finals,"Copenhagen, Denmark",7909,24/01/25,Vitality,Eternal Fire,anb,12 - 15,-3,0.80
-Perfect World Shanghai Major 2024,"Shanghai, China",7524,13/12/24,Vitality,FaZe,anb,21 - 15,+6,1.53
-Perfect World Shanghai Major 2024,"Shanghai, China",7524,13/12/24,Vitality,FaZe,mrg,12 - 12,0,0.94
-Perfect World Shanghai Major 2024,"Shanghai, China",7524,13/12/24,Vitality,FaZe,nuke,15 - 7,+8,1.40
-Perfect World Shanghai Major 2024,"Shanghai, China",7524,06/12/24,Vitality,MIBR,anb,14 - 9,+5,1.38
-Perfect World Shanghai Major 2024,"Shanghai, China",7524,06/12/24,Vitality,MIBR,mrg,11 - 8,+3,1.38
-Perfect World Shanghai Major 2024,"Shanghai, China",7524,05/12/24,Vitality,FURIA,mrg,24 - 11,+13,1.46
-Perfect World Shanghai Major 2024,"Shanghai, China",7524,05/12/24,Vitality,GamerLegion,mrg,24 - 9,+15,1.90
-Perfect World Shanghai Major 2024 Europe RMR A,"Shanghai, China",7864,18/11/24,Vitality,FaZe,d2,21 - 13,+8,1.53
-Perfect World Shanghai Major 2024 Europe RMR A,"Shanghai, China",7864,18/11/24,Vitality,FaZe,mrg,15 - 10,+5,1.22
-Perfect World Shanghai Major 2024 Europe RMR A,"Shanghai, China",7864,17/11/24,Vitality,BetBoom,nuke,10 - 10,0,0.83
-Perfect World Shanghai Major 2024 Europe RMR A,"Shanghai, China",7864,17/11/24,Vitality,GamerLegion,inf,21 - 9,+12,1.82
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,02/11/24,Vitality,G2,mrg,13 - 14,-1,1.11
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,02/11/24,Vitality,G2,inf,15 - 11,+4,1.46
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,02/11/24,Vitality,G2,d2,21 - 16,+5,1.35
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,01/11/24,Vitality,MOUZ,mrg,15 - 9,+6,1.33
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,01/11/24,Vitality,MOUZ,d2,19 - 9,+10,1.57
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,31/10/24,Vitality,Liquid,nuke,23 - 11,+12,1.74
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,31/10/24,Vitality,Liquid,d2,7 - 7,0,1.04
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,31/10/24,Vitality,Liquid,anb,23 - 13,+10,1.66
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,30/10/24,Vitality,Spirit,mrg,22 - 17,+5,1.36
-BLAST Premier World Final 2024,"Sentosa, Singapore",7557,30/10/24,Vitality,Spirit,anb,17 - 15,+2,1.41
-IEM Rio 2024,"Rio de Janeiro, Brazil",7439,11/10/24,Vitality,MOUZ,inf,15 - 15,0,1.08
-IEM Rio 2024,"Rio de Janeiro, Brazil",7439,11/10/24,Vitality,MOUZ,nuke,23 - 14,+9,1.18
-IEM Rio 2024,"Rio de Janeiro, Brazil",7439,11/10/24,Vitality,MOUZ,mrg,19 - 10,+9,1.48
-IEM Rio 2024,"Rio de Janeiro, Brazil",7439,09/10/24,Vitality,HEROIC,anb,11 - 12,-1,1.01
-IEM Rio 2024,"Rio de Janeiro, Brazil",7439,09/10/24,Vitality,HEROIC,mrg,17 - 15,+2,1.14
-IEM Rio 2024,"Rio de Janeiro, Brazil",7439,08/10/24,Vitality,The MongolZ,nuke,28 - 11,+17,2.22
-IEM Rio 2024,"Rio de Janeiro, Brazil",7439,08/10/24,Vitality,The MongolZ,inf,41 - 18,+23,1.90
-IEM Rio 2024,"Rio de Janeiro, Brazil",7439,07/10/24,Vitality,9z,mrg,12 - 8,+4,1.80
-BLAST Premier Fall Final 2024,"Copenhagen, Denmark",7556,28/09/24,Vitality,G2,mrg,27 - 22,+5,1.37
-BLAST Premier Fall Final 2024,"Copenhagen, Denmark",7556,28/09/24,Vitality,G2,d2,11 - 13,-2,0.90
-BLAST Premier Fall Final 2024,"Copenhagen, Denmark",7556,28/09/24,Vitality,G2,anb,19 - 15,+4,1.22
-BLAST Premier Fall Final 2024,"Copenhagen, Denmark",7556,26/09/24,Vitality,Liquid,nuke,22 - 11,+11,1.72
-BLAST Premier Fall Final 2024,"Copenhagen, Denmark",7556,26/09/24,Vitality,Liquid,anb,27 - 15,+12,1.57
-BLAST Premier Fall Final 2024,"Copenhagen, Denmark",7556,25/09/24,Vitality,Astralis,d2,16 - 8,+8,1.57
-BLAST Premier Fall Final 2024,"Copenhagen, Denmark",7556,25/09/24,Vitality,Astralis,inf,15 - 3,+12,2.27
-ESL Pro League Season 20,Malta,7441,19/09/24,Vitality,Eternal Fire,inf,37 - 27,+10,1.40
-ESL Pro League Season 20,Malta,7441,19/09/24,Vitality,Eternal Fire,nuke,18 - 10,+8,1.43
-ESL Pro League Season 20,Malta,7441,19/09/24,Vitality,Eternal Fire,anb,30 - 18,+12,1.54
-ESL Pro League Season 20,Malta,7441,15/09/24,Vitality,Liquid,d2,13 - 14,-1,1.14
-ESL Pro League Season 20,Malta,7441,15/09/24,Vitality,Liquid,nuke,21 - 8,+13,1.90
-ESL Pro League Season 20,Malta,7441,15/09/24,Vitality,Liquid,anb,12 - 16,-4,0.94
-ESL Pro League Season 20,Malta,7441,12/09/24,Vitality,FURIA,d2,16 - 6,+10,1.87
-ESL Pro League Season 20,Malta,7441,12/09/24,Vitality,FURIA,vtg,15 - 11,+4,1.40
-ESL Pro League Season 20,Malta,7441,11/09/24,Vitality,ATOX,nuke,21 - 13,+8,1.54
-ESL Pro League Season 20,Malta,7441,11/09/24,Vitality,ATOX,inf,23 - 15,+8,1.41
-IEM Cologne 2024,"Cologne, Germany",7436,18/08/24,Vitality,Natus Vincere,inf,21 - 14,+7,1.67
-IEM Cologne 2024,"Cologne, Germany",7436,18/08/24,Vitality,Natus Vincere,mrg,36 - 27,+9,1.32
-IEM Cologne 2024,"Cologne, Germany",7436,18/08/24,Vitality,Natus Vincere,d2,22 - 15,+7,1.60
-IEM Cologne 2024,"Cologne, Germany",7436,18/08/24,Vitality,Natus Vincere,nuke,21 - 22,-1,1.10
-IEM Cologne 2024,"Cologne, Germany",7436,17/08/24,Vitality,SAW,d2,21 - 8,+13,1.66
-IEM Cologne 2024,"Cologne, Germany",7436,17/08/24,Vitality,SAW,nuke,14 - 10,+4,1.33
-IEM Cologne 2024,"Cologne, Germany",7436,13/08/24,Vitality,MOUZ,vtg,17 - 17,0,0.92
-IEM Cologne 2024,"Cologne, Germany",7436,13/08/24,Vitality,MOUZ,d2,21 - 8,+13,1.94
-IEM Cologne 2024,"Cologne, Germany",7436,12/08/24,Vitality,FaZe,anb,14 - 12,+2,0.81
-IEM Cologne 2024,"Cologne, Germany",7436,12/08/24,Vitality,FaZe,d2,16 - 17,-1,0.94
-IEM Cologne 2024,"Cologne, Germany",7436,12/08/24,Vitality,FaZe,inf,13 - 15,-2,0.93
-IEM Cologne 2024,"Cologne, Germany",7436,11/08/24,Vitality,FURIA,mrg,14 - 6,+8,1.69
-IEM Cologne 2024,"Cologne, Germany",7436,11/08/24,Vitality,FURIA,inf,18 - 4,+14,2.03
-BLAST Premier Fall Groups 2024,"Copenhagen, Denmark",7554,03/08/24,Vitality,Astralis,nuke,24 - 9,+15,1.95
-BLAST Premier Fall Groups 2024,"Copenhagen, Denmark",7554,03/08/24,Vitality,Astralis,mrg,20 - 13,+7,1.32
-BLAST Premier Fall Groups 2024,"Copenhagen, Denmark",7554,03/08/24,Vitality,Astralis,vtg,22 - 15,+7,1.43
-BLAST Premier Fall Groups 2024,"Copenhagen, Denmark",7554,30/07/24,Vitality,Astralis,d2,13 - 16,-3,0.79
-BLAST Premier Fall Groups 2024,"Copenhagen, Denmark",7554,30/07/24,Vitality,Astralis,nuke,14 - 13,+1,1.30
-BLAST Premier Fall Groups 2024,"Copenhagen, Denmark",7554,29/07/24,Vitality,GamerLegion,d2,25 - 6,+19,2.14
-BLAST Premier Fall Groups 2024,"Copenhagen, Denmark",7554,29/07/24,Vitality,GamerLegion,mrg,20 - 25,-5,0.96
-BLAST Premier Fall Groups 2024,"Copenhagen, Denmark",7554,29/07/24,Vitality,GamerLegion,anb,22 - 18,+4,1.14
-Esports World Cup 2024,"Riyadh, Saudi Arabia",7732,19/07/24,Vitality,Virtus.pro,d2,13 - 15,-2,1.09
-Esports World Cup 2024,"Riyadh, Saudi Arabia",7732,19/07/24,Vitality,Virtus.pro,inf,20 - 15,+5,1.61
-Esports World Cup 2024,"Riyadh, Saudi Arabia",7732,19/07/24,Vitality,Virtus.pro,mrg,37 - 31,+6,1.26
-Esports World Cup 2024,"Riyadh, Saudi Arabia",7732,17/07/24,Vitality,M80,d2,19 - 10,+9,1.69
-Esports World Cup 2024,"Riyadh, Saudi Arabia",7732,17/07/24,Vitality,M80,vtg,24 - 11,+13,1.51
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,15/06/24,Vitality,Spirit,anb,15 - 15,0,1.17
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,15/06/24,Vitality,Spirit,d2,16 - 15,+1,1.00
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,15/06/24,Vitality,Spirit,mrg,23 - 15,+8,1.34
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,14/06/24,Vitality,FaZe,mrg,19 - 12,+7,1.72
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,14/06/24,Vitality,FaZe,d2,14 - 15,-1,0.96
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,14/06/24,Vitality,FaZe,inf,15 - 13,+2,1.16
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,13/06/24,Vitality,G2,mrg,15 - 9,+6,1.41
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,13/06/24,Vitality,G2,anb,21 - 14,+7,1.39
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,13/06/24,Vitality,G2,inf,14 - 8,+6,1.28
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,12/06/24,Vitality,Virtus.pro,anb,14 - 16,-2,0.99
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,12/06/24,Vitality,Virtus.pro,d2,25 - 16,+9,1.32
-BLAST Premier Spring Final 2024,"London, United Kingdom",7485,12/06/24,Vitality,Virtus.pro,inf,19 - 8,+11,1.69
-IEM Dallas 2024,"Dallas, TX, US",7438,02/06/24,Vitality,G2,nuke,9 - 16,-7,0.56
-IEM Dallas 2024,"Dallas, TX, US",7438,02/06/24,Vitality,G2,anb,22 - 20,+2,1.07
-IEM Dallas 2024,"Dallas, TX, US",7438,02/06/24,Vitality,G2,inf,35 - 23,+12,1.38
-IEM Dallas 2024,"Dallas, TX, US",7438,01/06/24,Vitality,Spirit,mrg,22 - 14,+8,1.54
-IEM Dallas 2024,"Dallas, TX, US",7438,01/06/24,Vitality,Spirit,d2,22 - 10,+12,1.56
-IEM Dallas 2024,"Dallas, TX, US",7438,31/05/24,Vitality,HEROIC,d2,16 - 4,+12,2.02
-IEM Dallas 2024,"Dallas, TX, US",7438,31/05/24,Vitality,HEROIC,nuke,14 - 13,+1,0.94
-IEM Dallas 2024,"Dallas, TX, US",7438,29/05/24,Vitality,9z,anb,28 - 21,+7,1.76
-IEM Dallas 2024,"Dallas, TX, US",7438,29/05/24,Vitality,9z,d2,12 - 14,-2,0.80
-IEM Dallas 2024,"Dallas, TX, US",7438,28/05/24,Vitality,G2,anb,11 - 11,0,1.06
-IEM Dallas 2024,"Dallas, TX, US",7438,28/05/24,Vitality,G2,d2,17 - 10,+7,1.17
-IEM Dallas 2024,"Dallas, TX, US",7438,27/05/24,Vitality,Monte,nuke,26 - 20,+6,1.66
-ESL Pro League Season 19,Malta,7440,12/05/24,Vitality,MOUZ,nuke,12 - 15,-3,1.15
-ESL Pro League Season 19,Malta,7440,12/05/24,Vitality,MOUZ,mrg,14 - 14,0,1.09
-ESL Pro League Season 19,Malta,7440,12/05/24,Vitality,MOUZ,inf,15 - 16,-1,1.06
-ESL Pro League Season 19,Malta,7440,11/05/24,Vitality,Astralis,inf,24 - 12,+12,1.68
-ESL Pro League Season 19,Malta,7440,11/05/24,Vitality,Astralis,vtg,28 - 17,+11,1.45
-ESL Pro League Season 19,Malta,7440,11/05/24,Vitality,Astralis,mrg,18 - 15,+3,1.14
-ESL Pro League Season 19,Malta,7440,10/05/24,Vitality,FaZe,vtg,30 - 15,+15,2.29
-ESL Pro League Season 19,Malta,7440,10/05/24,Vitality,FaZe,nuke,24 - 6,+18,2.69
-ESL Pro League Season 19,Malta,7440,28/04/24,Vitality,The MongolZ,nuke,18 - 11,+7,1.62
-ESL Pro League Season 19,Malta,7440,28/04/24,Vitality,The MongolZ,mrg,30 - 12,+18,2.03
-ESL Pro League Season 19,Malta,7440,25/04/24,Vitality,BetBoom,anb,28 - 12,+16,2.09
-ESL Pro League Season 19,Malta,7440,25/04/24,Vitality,BetBoom,mrg,22 - 6,+16,2.22
-ESL Pro League Season 19,Malta,7440,23/04/24,Vitality,Sharks,mrg,12 - 8,+4,1.32
-ESL Pro League Season 19,Malta,7440,23/04/24,Vitality,Sharks,vtg,16 - 12,+4,1.33
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,30/03/24,Vitality,FaZe,inf,16 - 15,+1,1.05
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,30/03/24,Vitality,FaZe,vtg,14 - 9,+5,1.69
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,30/03/24,Vitality,FaZe,nuke,8 - 16,-8,0.82
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,28/03/24,Vitality,Cloud9,anb,10 - 8,+2,1.53
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,28/03/24,Vitality,Cloud9,inf,16 - 7,+9,1.25
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,23/03/24,Vitality,Complexity,anb,8 - 17,-9,0.60
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,23/03/24,Vitality,Complexity,vtg,16 - 13,+3,1.06
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,23/03/24,Vitality,Complexity,inf,26 - 22,+4,1.14
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,22/03/24,Vitality,Imperial,ovp,14 - 13,+1,1.21
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,21/03/24,Vitality,The MongolZ,nuke,17 - 14,+3,1.14
-PGL CS2 Major Copenhagen 2024,"Copenhagen, Denmark",7148,21/03/24,Vitality,Eternal Fire,inf,17 - 15,+2,1.34
-PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest, Romania",7577,21/02/24,Vitality,ENCE,nuke,12 - 10,+2,1.36
-PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest, Romania",7577,21/02/24,Vitality,ENCE,vtg,22 - 10,+12,1.70
-PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest, Romania",7577,20/02/24,Vitality,Cloud9,anb,13 - 15,-2,1.00
-PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest, Romania",7577,20/02/24,Vitality,Cloud9,inf,14 - 12,+2,1.16
-PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest, Romania",7577,20/02/24,Vitality,Cloud9,ovp,19 - 13,+6,1.50
-PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest, Romania",7577,19/02/24,Vitality,HEROIC,ovp,25 - 6,+19,2.18
-PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest, Romania",7577,19/02/24,Vitality,GamerLegion,nuke,24 - 4,+20,3.08
-IEM Katowice 2024,"Katowice, Poland",7435,05/02/24,Vitality,HEROIC,vtg,21 - 16,+5,1.20
-IEM Katowice 2024,"Katowice, Poland",7435,05/02/24,Vitality,HEROIC,anb,19 - 14,+5,1.21
-IEM Katowice 2024,"Katowice, Poland",7435,05/02/24,Vitality,HEROIC,mrg,20 - 20,0,1.07
-IEM Katowice 2024,"Katowice, Poland",7435,03/02/24,Vitality,ENCE,nuke,19 - 14,+5,1.47
-IEM Katowice 2024,"Katowice, Poland",7435,03/02/24,Vitality,ENCE,anb,13 - 9,+4,1.63
-IEM Katowice 2024,"Katowice, Poland",7435,03/02/24,Vitality,ENCE,vtg,13 - 14,-1,1.02
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,27/01/24,Vitality,Astralis,nuke,22 - 7,+15,2.02
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,27/01/24,Vitality,Astralis,mrg,30 - 18,+12,1.71
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,27/01/24,Vitality,Astralis,inf,13 - 14,-1,0.98
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,26/01/24,Vitality,Falcons,anb,19 - 12,+7,1.27
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,26/01/24,Vitality,Falcons,vtg,24 - 11,+13,2.07
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,26/01/24,Vitality,Falcons,nuke,31 - 25,+6,1.25
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,23/01/24,Vitality,Astralis,ovp,17 - 13,+4,1.78
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,23/01/24,Vitality,Astralis,vtg,23 - 8,+15,2.18
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,23/01/24,Vitality,Astralis,mrg,17 - 13,+4,1.08
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,22/01/24,Vitality,OG,inf,16 - 12,+4,1.10
-BLAST Premier Spring Groups 2024,"Copenhagen, Denmark",7552,22/01/24,Vitality,OG,mrg,17 - 4,+13,2.21
+BLAST Open Porto 2026,"Copenhagen",8249,27/08/26,Vitality,Inner Circle,cch,16 - 21,-5,0.69
+BLAST Open Porto 2026,"Copenhagen",8249,27/08/26,Vitality,Inner Circle,anb,11 - 15,-4,0.93
+Esports World Cup 2026,"Paris",8261,21/08/26,Vitality,Spirit,mrg,5 - 14,-9,0.73
+Esports World Cup 2026,"Paris",8261,21/08/26,Vitality,Spirit,nuke,25 - 17,+8,1.29
+Esports World Cup 2026,"Paris",8261,21/08/26,Vitality,Spirit,anb,21 - 17,+4,1.02
+Esports World Cup 2026,"Paris",8261,20/08/26,Vitality,FaZe,cch,25 - 10,+15,2.21
+Esports World Cup 2026,"Paris",8261,20/08/26,Vitality,FaZe,d2,17 - 15,+2,1.17
+Esports World Cup 2026,"Paris",8261,16/08/26,Vitality,Lynn Vision,inf,22 - 9,+13,2.18
+Esports World Cup 2026,"Paris",8261,16/08/26,Vitality,Lynn Vision,d2,18 - 8,+10,2.22
+Esports World Cup 2026,"Paris",8261,14/08/26,Vitality,B8,d2,9 - 12,-3,0.84
+Esports World Cup 2026,"Paris",8261,14/08/26,Vitality,B8,inf,17 - 17,0,0.99
+Esports World Cup 2026,"Paris",8261,14/08/26,Vitality,B8,mrg,23 - 17,+6,1.58
+Esports World Cup 2026,"Paris",8261,12/08/26,Vitality,100 Thieves,nuke,15 - 7,+8,1.28
+IEM Cologne Major 2026,"Cologne",8301,19/06/26,Vitality,Falcons,d2,13 - 15,-2,0.91
+IEM Cologne Major 2026,"Cologne",8301,19/06/26,Vitality,Falcons,inf,26 - 13,+13,1.67
+IEM Cologne Major 2026,"Cologne",8301,19/06/26,Vitality,Falcons,anb,15 - 14,+1,0.95
+IEM Cologne Major 2026,"Cologne",8301,14/06/26,Vitality,BetBoom,nuke,30 - 14,+16,1.70
+IEM Cologne Major 2026,"Cologne",8301,14/06/26,Vitality,BetBoom,ovp,23 - 10,+13,1.62
+IEM Cologne Major 2026,"Cologne",8301,13/06/26,Vitality,MOUZ,inf,23 - 8,+15,2.32
+IEM Cologne Major 2026,"Cologne",8301,13/06/26,Vitality,MOUZ,d2,15 - 14,+1,1.22
+IEM Cologne Major 2026,"Cologne",8301,13/06/26,Vitality,MOUZ,mrg,19 - 9,+10,1.56
+IEM Cologne Major 2026,"Cologne",8301,12/06/26,Vitality,9z,d2,20 - 16,+4,1.27
+IEM Cologne Major 2026,"Cologne",8301,12/06/26,Vitality,9z,mrg,15 - 13,+2,1.27
+IEM Cologne Major 2026,"Cologne",8301,12/06/26,Vitality,9z,inf,10 - 9,+1,1.03
+IEM Cologne Major 2026,"Cologne",8301,11/06/26,Vitality,FUT,nuke,27 - 10,+17,2.14
+IEM Cologne Major 2026,"Cologne",8301,11/06/26,Vitality,FUT,ovp,19 - 5,+14,2.38
+IEM Cologne Major 2026,"Cologne",8301,11/06/26,Vitality,FUT,anb,7 - 15,-8,0.68
+IEM Atlanta 2026,"Atlanta",8243,16/05/26,Vitality,Natus Vincere,inf,5 - 13,-8,0.54
+IEM Atlanta 2026,"Atlanta",8243,16/05/26,Vitality,Natus Vincere,anb,15 - 14,+1,1.04
+IEM Atlanta 2026,"Atlanta",8243,16/05/26,Vitality,Natus Vincere,d2,19 - 13,+6,1.28
+IEM Atlanta 2026,"Atlanta",8243,13/05/26,Vitality,B8,d2,15 - 10,+5,1.15
+IEM Atlanta 2026,"Atlanta",8243,13/05/26,Vitality,B8,mrg,19 - 9,+10,1.61
+IEM Atlanta 2026,"Atlanta",8243,13/05/26,Vitality,FaZe,d2,22 - 9,+13,1.86
+IEM Atlanta 2026,"Atlanta",8243,13/05/26,Vitality,FaZe,nuke,22 - 16,+6,1.27
+IEM Atlanta 2026,"Atlanta",8243,12/05/26,Vitality,BetBoom,nuke,15 - 14,+1,1.10
+IEM Atlanta 2026,"Atlanta",8243,12/05/26,Vitality,BetBoom,ovp,17 - 12,+5,1.46
+IEM Atlanta 2026,"Atlanta",8243,12/05/26,Vitality,BetBoom,anb,16 - 15,+1,1.38
+IEM Atlanta 2026,"Atlanta",8243,11/05/26,Vitality,BC.Game,d2,19 - 11,+8,1.28
+IEM Atlanta 2026,"Atlanta",8243,11/05/26,Vitality,BC.Game,mrg,19 - 9,+10,1.81
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,03/05/26,Vitality,Natus Vincere,d2,19 - 9,+10,2.18
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,03/05/26,Vitality,Natus Vincere,anb,17 - 19,-2,0.98
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,03/05/26,Vitality,Natus Vincere,nuke,18 - 17,+1,1.20
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,02/05/26,Vitality,GamerLegion,ovp,21 - 18,+3,1.09
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,02/05/26,Vitality,GamerLegion,mrg,21 - 3,+18,2.12
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,30/04/26,Vitality,G2,d2,18 - 9,+9,1.96
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,30/04/26,Vitality,G2,ovp,18 - 15,+3,1.16
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,30/04/26,Vitality,G2,mrg,20 - 18,+2,1.22
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,29/04/26,Vitality,FUT,nuke,23 - 12,+11,1.36
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,29/04/26,Vitality,FUT,d2,30 - 11,+19,1.78
+BLAST Rivals 2026 Season 1,"Fort Worth",8250,29/04/26,Vitality,FUT,mrg,16 - 14,+2,0.92
+IEM Rio 2026,"Rio de Janeiro",8242,19/04/26,Vitality,Spirit,d2,18 - 8,+10,1.62
+IEM Rio 2026,"Rio de Janeiro",8242,19/04/26,Vitality,Spirit,nuke,20 - 12,+8,1.51
+IEM Rio 2026,"Rio de Janeiro",8242,19/04/26,Vitality,Spirit,mrg,21 - 19,+2,1.16
+IEM Rio 2026,"Rio de Janeiro",8242,18/04/26,Vitality,FURIA,anc,27 - 14,+13,1.57
+IEM Rio 2026,"Rio de Janeiro",8242,18/04/26,Vitality,FURIA,ovp,22 - 13,+9,1.66
+IEM Rio 2026,"Rio de Janeiro",8242,17/04/26,Vitality,Natus Vincere,d2,14 - 8,+6,1.44
+IEM Rio 2026,"Rio de Janeiro",8242,17/04/26,Vitality,Natus Vincere,mrg,30 - 7,+23,2.53
+IEM Rio 2026,"Rio de Janeiro",8242,15/04/26,Vitality,Falcons,nuke,19 - 19,0,0.85
+IEM Rio 2026,"Rio de Janeiro",8242,15/04/26,Vitality,Falcons,d2,15 - 11,+4,0.98
+IEM Rio 2026,"Rio de Janeiro",8242,15/04/26,Vitality,Falcons,mrg,19 - 16,+3,1.08
+IEM Rio 2026,"Rio de Janeiro",8242,14/04/26,Vitality,G2,d2,13 - 14,-1,1.01
+IEM Rio 2026,"Rio de Janeiro",8242,14/04/26,Vitality,G2,inf,29 - 15,+14,1.65
+IEM Rio 2026,"Rio de Janeiro",8242,14/04/26,Vitality,G2,mrg,10 - 13,-3,1.00
+IEM Rio 2026,"Rio de Janeiro",8242,13/04/26,Vitality,RED Canids,ovp,21 - 8,+13,1.86
+IEM Rio 2026,"Rio de Janeiro",8242,13/04/26,Vitality,RED Canids,nuke,24 - 10,+14,2.34
+BLAST Open Rotterdam 2026,"Rotterdam",8248,29/03/26,Vitality,Natus Vincere,d2,16 - 8,+8,1.26
+BLAST Open Rotterdam 2026,"Rotterdam",8248,29/03/26,Vitality,Natus Vincere,anb,15 - 12,+3,1.04
+BLAST Open Rotterdam 2026,"Rotterdam",8248,29/03/26,Vitality,Natus Vincere,inf,16 - 12,+4,1.42
+BLAST Open Rotterdam 2026,"Rotterdam",8248,28/03/26,Vitality,Aurora,nuke,18 - 10,+8,1.83
+BLAST Open Rotterdam 2026,"Rotterdam",8248,28/03/26,Vitality,Aurora,inf,10 - 8,+2,1.03
+BLAST Open Rotterdam 2026,"Rotterdam",8248,23/03/26,Vitality,PARIVISION,inf,28 - 15,+13,1.67
+BLAST Open Rotterdam 2026,"Copenhagen",8248,23/03/26,Vitality,PARIVISION,mrg,17 - 11,+6,1.12
+BLAST Open Rotterdam 2026,"Copenhagen",8248,21/03/26,Vitality,The MongolZ,ovp,23 - 14,+9,1.42
+BLAST Open Rotterdam 2026,"Copenhagen",8248,21/03/26,Vitality,The MongolZ,mrg,19 - 9,+10,2.22
+BLAST Open Rotterdam 2026,"Copenhagen",8248,19/03/26,Vitality,9z,nuke,14 - 7,+7,1.57
+BLAST Open Rotterdam 2026,"Copenhagen",8248,19/03/26,Vitality,9z,ovp,23 - 8,+15,2.38
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,22/02/26,Vitality,PARIVISION,inf,20 - 19,+1,1.28
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,22/02/26,Vitality,PARIVISION,d2,12 - 5,+7,1.33
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,22/02/26,Vitality,PARIVISION,ovp,16 - 15,+1,1.07
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,21/02/26,Vitality,The MongolZ,d2,10 - 6,+4,1.34
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,21/02/26,Vitality,The MongolZ,mrg,26 - 16,+10,1.44
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,20/02/26,Vitality,Aurora,ovp,25 - 10,+15,1.86
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,20/02/26,Vitality,Aurora,inf,19 - 10,+9,1.46
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,16/02/26,Vitality,MOUZ,inf,22 - 12,+10,1.63
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,16/02/26,Vitality,MOUZ,d2,22 - 10,+12,2.03
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,15/02/26,Vitality,The MongolZ,nuke,12 - 10,+2,1.13
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,15/02/26,Vitality,The MongolZ,d2,11 - 5,+6,1.51
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,15/02/26,Vitality,The MongolZ,mrg,16 - 14,+2,1.06
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,14/02/26,Vitality,G2,anb,18 - 9,+9,1.47
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,14/02/26,Vitality,G2,inf,14 - 13,+1,0.91
+PGL Cluj-Napoca 2026,"Cluj-Napoca",8047,14/02/26,Vitality,G2,mrg,21 - 13,+8,1.85
+IEM Kraków 2026,"Kraków",8240,08/02/26,Vitality,FURIA,ovp,25 - 12,+13,1.52
+IEM Kraków 2026,"Kraków",8240,08/02/26,Vitality,FURIA,nuke,17 - 6,+11,1.83
+IEM Kraków 2026,"Kraków",8240,08/02/26,Vitality,FURIA,inf,27 - 10,+17,2.22
+IEM Kraków 2026,"Kraków",8240,08/02/26,Vitality,FURIA,mrg,21 - 13,+8,1.28
+IEM Kraków 2026,"Kraków",8240,07/02/26,Vitality,MOUZ,d2,18 - 8,+10,1.70
+IEM Kraków 2026,"Kraków",8240,07/02/26,Vitality,MOUZ,nuke,22 - 11,+11,1.68
+IEM Kraków 2026,"Kraków",8240,03/02/26,Vitality,Aurora,ovp,23 - 10,+13,2.10
+IEM Kraków 2026,"Kraków",8240,03/02/26,Vitality,Aurora,anc,53 - 26,+27,1.65
+IEM Kraków 2026,"Kraków",8240,02/02/26,Vitality,3DMAX,d2,19 - 8,+11,1.81
+IEM Kraków 2026,"Kraków",8240,02/02/26,Vitality,3DMAX,inf,18 - 10,+8,1.41
+IEM Kraków 2026,"Kraków",8240,31/01/26,Vitality,BC.Game,ovp,15 - 8,+7,1.26
+IEM Kraków 2026,"Kraków",8240,31/01/26,Vitality,BC.Game,d2,14 - 10,+4,1.03
+BLAST Bounty 2026 Season 1 Finals,"Valletta",8246,24/01/26,Vitality,Falcons,mrg,5 - 15,-10,0.56
+BLAST Bounty 2026 Season 1 Finals,"Valletta",8246,24/01/26,Vitality,Falcons,anb,19 - 8,+11,1.83
+BLAST Bounty 2026 Season 1 Finals,"Valletta",8246,24/01/26,Vitality,Falcons,inf,13 - 17,-4,0.54
+BLAST Bounty 2026 Season 1 Finals,"Valletta",8246,23/01/26,Vitality,GamerLegion,d2,20 - 13,+7,1.35
+BLAST Bounty 2026 Season 1 Finals,"Valletta",8246,23/01/26,Vitality,GamerLegion,inf,15 - 16,-1,1.28
+StarLadder Budapest Major 2025,"Budapest",8042,14/12/25,Vitality,FaZe,ovp,14 - 6,+8,1.70
+StarLadder Budapest Major 2025,"Budapest",8042,14/12/25,Vitality,FaZe,inf,16 - 12,+4,1.06
+StarLadder Budapest Major 2025,"Budapest",8042,14/12/25,Vitality,FaZe,d2,17 - 8,+9,1.60
+StarLadder Budapest Major 2025,"Budapest",8042,14/12/25,Vitality,FaZe,nuke,11 - 13,-2,0.83
+StarLadder Budapest Major 2025,"Budapest",8042,13/12/25,Vitality,Spirit,d2,18 - 9,+9,1.42
+StarLadder Budapest Major 2025,"Budapest",8042,13/12/25,Vitality,Spirit,mrg,25 - 23,+2,1.08
+StarLadder Budapest Major 2025,"Budapest",8042,11/12/25,Vitality,The MongolZ,d2,21 - 10,+11,1.74
+StarLadder Budapest Major 2025,"Budapest",8042,11/12/25,Vitality,The MongolZ,mrg,25 - 8,+17,2.47
+StarLadder Budapest Major 2025,"Budapest",8042,06/12/25,Vitality,Natus Vincere,trn,21 - 15,+6,1.43
+StarLadder Budapest Major 2025,"Budapest",8042,06/12/25,Vitality,Natus Vincere,inf,19 - 15,+4,1.26
+StarLadder Budapest Major 2025,"Budapest",8042,05/12/25,Vitality,B8,inf,17 - 8,+9,2.05
+StarLadder Budapest Major 2025,"Budapest",8042,04/12/25,Vitality,3DMAX,nuke,12 - 7,+5,1.16
+StarLadder Budapest Major 2025,"Budapest",8042,04/12/25,Vitality,FaZe,nuke,18 - 17,+1,1.11
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,15/11/25,Vitality,Falcons,nuke,18 - 12,+6,1.68
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,15/11/25,Vitality,Falcons,inf,19 - 16,+3,1.14
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,14/11/25,Vitality,Spirit,mrg,24 - 13,+11,1.62
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,14/11/25,Vitality,Spirit,nuke,33 - 25,+8,1.41
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,14/11/25,Vitality,Spirit,d2,13 - 15,-2,0.78
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,13/11/25,Vitality,FURIA,inf,7 - 13,-6,0.96
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,13/11/25,Vitality,FURIA,ovp,20 - 17,+3,1.03
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,13/11/25,Vitality,FURIA,nuke,20 - 16,+4,1.19
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,12/11/25,Vitality,TYLOO,inf,19 - 16,+3,1.38
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,12/11/25,Vitality,TYLOO,nuke,9 - 15,-6,0.86
+BLAST Rivals 2025 Season 2,"Chek Lap Kok",7908,12/11/25,Vitality,TYLOO,ovp,14 - 7,+7,1.69
+IEM Chengdu 2025,"Chengdu",8041,09/11/25,Vitality,FURIA,ovp,16 - 17,-1,1.08
+IEM Chengdu 2025,"Chengdu",8041,09/11/25,Vitality,FURIA,inf,21 - 16,+5,1.36
+IEM Chengdu 2025,"Chengdu",8041,09/11/25,Vitality,FURIA,anc,15 - 16,-1,1.05
+IEM Chengdu 2025,"Chengdu",8041,08/11/25,Vitality,MOUZ,inf,19 - 14,+5,1.48
+IEM Chengdu 2025,"Chengdu",8041,08/11/25,Vitality,MOUZ,trn,14 - 16,-2,0.93
+IEM Chengdu 2025,"Chengdu",8041,08/11/25,Vitality,MOUZ,nuke,30 - 16,+14,1.75
+IEM Chengdu 2025,"Chengdu",8041,07/11/25,Vitality,Astralis,mrg,19 - 11,+8,1.64
+IEM Chengdu 2025,"Chengdu",8041,07/11/25,Vitality,Astralis,nuke,19 - 19,0,0.94
+IEM Chengdu 2025,"Chengdu",8041,07/11/25,Vitality,Astralis,inf,15 - 11,+4,1.33
+IEM Chengdu 2025,"Chengdu",8041,05/11/25,Vitality,G2,mrg,16 - 14,+2,1.02
+IEM Chengdu 2025,"Chengdu",8041,05/11/25,Vitality,G2,trn,25 - 7,+18,2.43
+IEM Chengdu 2025,"Chengdu",8041,05/11/25,Vitality,Lynn Vision,nuke,14 - 11,+3,1.39
+IEM Chengdu 2025,"Chengdu",8041,05/11/25,Vitality,Lynn Vision,d2,12 - 5,+7,1.38
+IEM Chengdu 2025,"Chengdu",8041,04/11/25,Vitality,MOUZ,inf,36 - 29,+7,1.38
+IEM Chengdu 2025,"Chengdu",8041,04/11/25,Vitality,MOUZ,nuke,21 - 10,+11,1.82
+IEM Chengdu 2025,"Chengdu",8041,04/11/25,Vitality,MOUZ,trn,10 - 13,-3,0.95
+IEM Chengdu 2025,"Chengdu",8041,03/11/25,Vitality,Virtus.pro,mrg,18 - 3,+15,2.02
+IEM Chengdu 2025,"Chengdu",8041,03/11/25,Vitality,Virtus.pro,d2,12 - 12,0,1.13
+IEM Chengdu 2025,"Chengdu",8041,03/11/25,Vitality,Virtus.pro,ovp,8 - 15,-7,0.62
+ESL Pro League Season 22,"Stockholm",8040,12/10/25,Vitality,Falcons,d2,12 - 10,+2,1.17
+ESL Pro League Season 22,"Stockholm",8040,12/10/25,Vitality,Falcons,trn,17 - 9,+8,1.12
+ESL Pro League Season 22,"Stockholm",8040,12/10/25,Vitality,Falcons,inf,13 - 8,+5,0.99
+ESL Pro League Season 22,"Stockholm",8040,11/10/25,Vitality,FaZe,d2,22 - 8,+14,1.88
+ESL Pro League Season 22,"Stockholm",8040,11/10/25,Vitality,FaZe,inf,16 - 15,+1,1.33
+ESL Pro League Season 22,"Stockholm",8040,11/10/25,Vitality,FaZe,mrg,39 - 25,+14,1.51
+ESL Pro League Season 22,"Stockholm",8040,10/10/25,Vitality,FURIA,nuke,23 - 11,+12,1.68
+ESL Pro League Season 22,"Stockholm",8040,10/10/25,Vitality,FURIA,inf,18 - 13,+5,1.35
+ESL Pro League Season 22,"Stockholm",8040,10/10/25,Vitality,FURIA,ovp,19 - 19,0,1.10
+ESL Pro League Season 22,"Stockholm",8040,07/10/25,Vitality,G2,mrg,25 - 22,+3,1.14
+ESL Pro League Season 22,"Stockholm",8040,07/10/25,Vitality,G2,inf,12 - 4,+8,1.51
+ESL Pro League Season 22,"Stockholm",8040,06/10/25,Vitality,HOTU,d2,9 - 9,0,0.90
+ESL Pro League Season 22,"Stockholm",8040,06/10/25,Vitality,HOTU,ovp,20 - 10,+10,1.59
+ESL Pro League Season 22,"Stockholm",8040,05/10/25,Vitality,GamerLegion,d2,21 - 8,+13,2.47
+ESL Pro League Season 22,"Stockholm",8040,05/10/25,Vitality,GamerLegion,ovp,19 - 5,+14,1.77
+ESL Pro League Season 22,"Stockholm",8040,04/10/25,Vitality,Gentle Mates,trn,15 - 13,+2,0.98
+ESL Pro League Season 22,"Stockholm",8040,04/10/25,Vitality,Gentle Mates,nuke,14 - 14,0,0.91
+BLAST Open London 2025 Finals,"London",7912,07/09/25,Vitality,G2,trn,11 - 16,-5,0.85
+BLAST Open London 2025 Finals,"London",7912,07/09/25,Vitality,G2,inf,17 - 22,-5,0.72
+BLAST Open London 2025 Finals,"London",7912,07/09/25,Vitality,G2,ovp,20 - 10,+10,1.90
+BLAST Open London 2025 Finals,"London",7912,07/09/25,Vitality,G2,mrg,30 - 6,+24,2.61
+BLAST Open London 2025 Finals,"London",7912,07/09/25,Vitality,G2,d2,9 - 13,-4,1.03
+BLAST Open London 2025 Finals,"London",7912,06/09/25,Vitality,MOUZ,inf,19 - 12,+7,1.56
+BLAST Open London 2025 Finals,"London",7912,06/09/25,Vitality,MOUZ,mrg,16 - 9,+7,1.32
+Esports World Cup 2025,"Riyadh",8039,24/08/25,Vitality,Falcons,nuke,12 - 15,-3,0.97
+Esports World Cup 2025,"Riyadh",8039,24/08/25,Vitality,Falcons,trn,10 - 14,-4,0.87
+Esports World Cup 2025,"Riyadh",8039,24/08/25,Vitality,Falcons,inf,9 - 13,-4,0.72
+Esports World Cup 2025,"Riyadh",8039,23/08/25,Vitality,The MongolZ,nuke,14 - 14,0,1.20
+Esports World Cup 2025,"Riyadh",8039,23/08/25,Vitality,The MongolZ,d2,11 - 14,-3,0.81
+Esports World Cup 2025,"Riyadh",8039,23/08/25,Vitality,The MongolZ,mrg,17 - 15,+2,1.33
+Esports World Cup 2025,"Riyadh",8039,21/08/25,Vitality,TYLOO,nuke,20 - 12,+8,1.45
+Esports World Cup 2025,"Riyadh",8039,21/08/25,Vitality,TYLOO,inf,24 - 7,+17,2.73
+Esports World Cup 2025,"Riyadh",8039,20/08/25,Vitality,Liquid,d2,24 - 20,+4,1.18
+Esports World Cup 2025,"Riyadh",8039,20/08/25,Vitality,Liquid,mrg,27 - 14,+13,1.95
+BLAST Bounty 2025 Season 2 Finals,"Valletta",7910,16/08/25,Vitality,The MongolZ,inf,17 - 16,+1,0.96
+BLAST Bounty 2025 Season 2 Finals,"Valletta",7910,16/08/25,Vitality,The MongolZ,mrg,15 - 13,+2,1.13
+BLAST Bounty 2025 Season 2 Finals,"Valletta",7910,15/08/25,Vitality,Liquid,nuke,30 - 21,+9,1.34
+BLAST Bounty 2025 Season 2 Finals,"Valletta",7910,15/08/25,Vitality,Liquid,trn,25 - 17,+8,1.13
+IEM Cologne 2025,"Cologne",8038,02/08/25,Vitality,MOUZ,trn,13 - 18,-5,0.79
+IEM Cologne 2025,"Cologne",8038,02/08/25,Vitality,MOUZ,mrg,8 - 19,-11,0.45
+IEM Cologne 2025,"Cologne",8038,29/07/25,Vitality,The MongolZ,inf,20 - 12,+8,1.64
+IEM Cologne 2025,"Cologne",8038,29/07/25,Vitality,The MongolZ,mrg,23 - 9,+14,1.78
+IEM Cologne 2025,"Cologne",8038,27/07/25,Vitality,G2,trn,23 - 15,+8,1.45
+IEM Cologne 2025,"Cologne",8038,27/07/25,Vitality,G2,inf,10 - 10,0,0.90
+IEM Cologne 2025,"Cologne",8038,26/07/25,Vitality,Astralis,ovp,12 - 12,0,1.01
+IEM Cologne 2025,"Cologne",8038,26/07/25,Vitality,Astralis,nuke,19 - 19,0,1.12
+BLAST.tv Austin Major 2025,"Austin",7902,22/06/25,Vitality,The MongolZ,inf,10 - 10,0,0.97
+BLAST.tv Austin Major 2025,"Austin",7902,22/06/25,Vitality,The MongolZ,d2,18 - 8,+10,1.97
+BLAST.tv Austin Major 2025,"Austin",7902,22/06/25,Vitality,The MongolZ,mrg,9 - 16,-7,0.69
+BLAST.tv Austin Major 2025,"Austin",7902,21/06/25,Vitality,MOUZ,trn,21 - 10,+11,1.77
+BLAST.tv Austin Major 2025,"Austin",7902,21/06/25,Vitality,MOUZ,inf,18 - 15,+3,1.51
+BLAST.tv Austin Major 2025,"Austin",7902,21/06/25,Vitality,MOUZ,mrg,14 - 7,+7,1.15
+BLAST.tv Austin Major 2025,"Austin",7902,20/06/25,Vitality,Natus Vincere,nuke,24 - 16,+8,1.49
+BLAST.tv Austin Major 2025,"Austin",7902,20/06/25,Vitality,Natus Vincere,mrg,17 - 11,+6,1.40
+BLAST.tv Austin Major 2025,"Austin",7902,14/06/25,Vitality,Virtus.pro,d2,22 - 6,+16,1.81
+BLAST.tv Austin Major 2025,"Austin",7902,14/06/25,Vitality,Virtus.pro,trn,16 - 9,+7,1.51
+BLAST.tv Austin Major 2025,"Austin",7902,13/06/25,Vitality,3DMAX,nuke,15 - 4,+11,1.98
+BLAST.tv Austin Major 2025,"Austin",7902,13/06/25,Vitality,Nemiga,d2,22 - 11,+11,1.46
+BLAST.tv Austin Major 2025,"Austin",7902,12/06/25,Vitality,Legacy,inf,11 - 10,+1,0.89
+IEM Dallas 2025,"Dallas",8037,25/05/25,Vitality,MOUZ,inf,13 - 11,+2,1.30
+IEM Dallas 2025,"Dallas",8037,25/05/25,Vitality,MOUZ,mrg,25 - 12,+13,1.80
+IEM Dallas 2025,"Dallas",8037,25/05/25,Vitality,MOUZ,d2,21 - 12,+9,1.45
+IEM Dallas 2025,"Dallas",8037,25/05/25,Vitality,Falcons,inf,22 - 17,+5,1.22
+IEM Dallas 2025,"Dallas",8037,25/05/25,Vitality,Falcons,trn,12 - 16,-4,1.05
+IEM Dallas 2025,"Dallas",8037,25/05/25,Vitality,Falcons,d2,16 - 12,+4,1.18
+IEM Dallas 2025,"Dallas",8037,22/05/25,Vitality,The MongolZ,mrg,17 - 17,0,1.09
+IEM Dallas 2025,"Dallas",8037,22/05/25,Vitality,The MongolZ,nuke,19 - 14,+5,1.65
+IEM Dallas 2025,"Dallas",8037,22/05/25,Vitality,The MongolZ,inf,20 - 13,+7,1.24
+IEM Dallas 2025,"Dallas",8037,20/05/25,Vitality,GamerLegion,nuke,17 - 12,+5,1.23
+IEM Dallas 2025,"Dallas",8037,20/05/25,Vitality,GamerLegion,mrg,16 - 11,+5,1.12
+IEM Dallas 2025,"Dallas",8037,19/05/25,Vitality,Legacy,d2,15 - 13,+2,1.11
+IEM Dallas 2025,"Dallas",8037,19/05/25,Vitality,Legacy,inf,13 - 8,+5,1.34
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,04/05/25,Vitality,Falcons,nuke,20 - 11,+9,1.79
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,04/05/25,Vitality,Falcons,mrg,25 - 21,+4,1.47
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,04/05/25,Vitality,Falcons,trn,10 - 9,+1,0.98
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,04/05/25,Vitality,Falcons,d2,17 - 10,+7,1.72
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,04/05/25,Vitality,Falcons,inf,18 - 15,+3,1.26
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,03/05/25,Vitality,Spirit,nuke,16 - 17,-1,0.89
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,03/05/25,Vitality,Spirit,mrg,25 - 13,+12,2.06
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,01/05/25,Vitality,MOUZ,trn,20 - 15,+5,1.54
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,01/05/25,Vitality,MOUZ,inf,13 - 14,-1,0.96
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,01/05/25,Vitality,MOUZ,mrg,18 - 17,+1,1.05
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,30/04/25,Vitality,Wildcard,d2,14 - 11,+3,1.12
+BLAST Rivals 2025 Season 1,"Copenhagen",7905,30/04/25,Vitality,Wildcard,inf,13 - 12,+1,1.08
+IEM Melbourne 2025,"Melbourne",8036,27/04/25,Vitality,Falcons,nuke,35 - 31,+4,1.38
+IEM Melbourne 2025,"Melbourne",8036,27/04/25,Vitality,Falcons,mrg,18 - 15,+3,1.09
+IEM Melbourne 2025,"Melbourne",8036,27/04/25,Vitality,Falcons,trn,24 - 14,+10,1.54
+IEM Melbourne 2025,"Melbourne",8036,27/04/25,Vitality,Falcons,d2,16 - 17,-1,0.92
+IEM Melbourne 2025,"Melbourne",8036,27/04/25,Vitality,Falcons,inf,17 - 5,+12,2.36
+IEM Melbourne 2025,"Melbourne",8036,26/04/25,Vitality,The MongolZ,nuke,22 - 6,+16,2.33
+IEM Melbourne 2025,"Melbourne",8036,26/04/25,Vitality,The MongolZ,mrg,16 - 5,+11,1.75
+IEM Melbourne 2025,"Melbourne",8036,23/04/25,Vitality,Falcons,inf,18 - 11,+7,1.52
+IEM Melbourne 2025,"Melbourne",8036,23/04/25,Vitality,Falcons,mrg,18 - 17,+1,0.99
+IEM Melbourne 2025,"Melbourne",8036,22/04/25,Vitality,Liquid,nuke,13 - 16,-3,0.84
+IEM Melbourne 2025,"Melbourne",8036,22/04/25,Vitality,Liquid,mrg,16 - 10,+6,1.69
+IEM Melbourne 2025,"Melbourne",8036,21/04/25,Vitality,FlyQuest,nuke,17 - 12,+5,1.42
+IEM Melbourne 2025,"Melbourne",8036,21/04/25,Vitality,FlyQuest,anb,10 - 10,0,1.35
+BLAST Open Lisbon 2025,"Lisbon",7904,30/03/25,Vitality,MOUZ,trn,18 - 12,+6,1.48
+BLAST Open Lisbon 2025,"Lisbon",7904,30/03/25,Vitality,MOUZ,nuke,21 - 13,+8,1.65
+BLAST Open Lisbon 2025,"Lisbon",7904,30/03/25,Vitality,MOUZ,d2,19 - 12,+7,1.40
+BLAST Open Lisbon 2025,"Lisbon",7904,30/03/25,Vitality,MOUZ,mrg,12 - 16,-4,0.86
+BLAST Open Lisbon 2025,"Lisbon",7904,30/03/25,Vitality,MOUZ,inf,13 - 2,+11,2.57
+BLAST Open Lisbon 2025,"Lisbon",7904,29/03/25,Vitality,Spirit,mrg,26 - 14,+12,1.75
+BLAST Open Lisbon 2025,"Lisbon",7904,29/03/25,Vitality,Spirit,nuke,12 - 16,-4,1.08
+BLAST Open Lisbon 2025,"Lisbon",7904,29/03/25,Vitality,Spirit,anb,15 - 11,+4,1.54
+BLAST Open Lisbon 2025,"Copenhagen",7904,24/03/25,Vitality,MOUZ,d2,22 - 14,+8,1.76
+BLAST Open Lisbon 2025,"Copenhagen",7904,24/03/25,Vitality,MOUZ,mrg,20 - 14,+6,1.36
+BLAST Open Lisbon 2025,"Copenhagen",7904,21/03/25,Vitality,Virtus.pro,inf,17 - 12,+5,1.39
+BLAST Open Lisbon 2025,"Copenhagen",7904,21/03/25,Vitality,Virtus.pro,anb,19 - 6,+13,1.97
+BLAST Open Lisbon 2025,"Copenhagen",7904,19/03/25,Vitality,Astralis,d2,17 - 8,+9,1.57
+BLAST Open Lisbon 2025,"Copenhagen",7904,19/03/25,Vitality,Astralis,inf,13 - 6,+7,1.47
+ESL Pro League Season 21,"Stockholm",8292,16/03/25,Vitality,MOUZ,inf,16 - 8,+8,1.80
+ESL Pro League Season 21,"Stockholm",8292,16/03/25,Vitality,MOUZ,nuke,17 - 11,+6,1.68
+ESL Pro League Season 21,"Stockholm",8292,16/03/25,Vitality,MOUZ,d2,10 - 15,-5,0.77
+ESL Pro League Season 21,"Stockholm",8292,15/03/25,Vitality,The MongolZ,inf,12 - 6,+6,1.40
+ESL Pro League Season 21,"Stockholm",8292,15/03/25,Vitality,The MongolZ,nuke,25 - 18,+7,1.33
+ESL Pro League Season 21,"Stockholm",8292,15/03/25,Vitality,The MongolZ,anb,17 - 6,+11,1.80
+ESL Pro League Season 21,"Stockholm",8292,14/03/25,Vitality,Liquid,d2,20 - 11,+9,1.26
+ESL Pro League Season 21,"Stockholm",8292,14/03/25,Vitality,Liquid,anb,18 - 13,+5,1.45
+ESL Pro League Season 21,"Stockholm",8292,09/03/25,Vitality,MOUZ,d2,26 - 8,+18,2.38
+ESL Pro League Season 21,"Stockholm",8292,09/03/25,Vitality,MOUZ,inf,17 - 10,+7,1.34
+ESL Pro League Season 21,"Stockholm",8292,08/03/25,Vitality,3DMAX,d2,17 - 11,+6,1.32
+ESL Pro League Season 21,"Stockholm",8292,08/03/25,Vitality,3DMAX,trn,21 - 11,+10,2.13
+ESL Pro League Season 21,"Stockholm",8292,07/03/25,Vitality,MIBR,trn,17 - 12,+5,1.34
+ESL Pro League Season 21,"Stockholm",8292,07/03/25,Vitality,MIBR,inf,19 - 6,+13,2.12
+ESL Pro League Season 21,"Stockholm",8292,07/03/25,Vitality,MIBR,anb,9 - 14,-5,0.70
+IEM Katowice 2025,"Katowice",8034,09/02/25,Vitality,Spirit,mrg,22 - 13,+9,1.26
+IEM Katowice 2025,"Katowice",8034,09/02/25,Vitality,Spirit,nuke,26 - 6,+20,2.26
+IEM Katowice 2025,"Katowice",8034,09/02/25,Vitality,Spirit,d2,19 - 10,+9,1.30
+IEM Katowice 2025,"Katowice",8034,08/02/25,Vitality,The MongolZ,nuke,18 - 13,+5,1.42
+IEM Katowice 2025,"Katowice",8034,08/02/25,Vitality,The MongolZ,mrg,23 - 10,+13,1.63
+IEM Katowice 2025,"Katowice",8034,04/02/25,Vitality,Virtus.pro,inf,16 - 10,+6,1.34
+IEM Katowice 2025,"Katowice",8034,04/02/25,Vitality,Virtus.pro,anb,16 - 9,+7,1.49
+IEM Katowice 2025,"Katowice",8034,02/02/25,Vitality,FaZe,d2,37 - 23,+14,1.60
+IEM Katowice 2025,"Katowice",8034,02/02/25,Vitality,FaZe,anb,17 - 15,+2,1.02
+IEM Katowice 2025,"Katowice",8034,02/02/25,Vitality,FaZe,nuke,9 - 11,-2,0.93
+IEM Katowice 2025,"Katowice",8034,01/02/25,Vitality,3DMAX,nuke,19 - 12,+7,1.25
+IEM Katowice 2025,"Katowice",8034,01/02/25,Vitality,3DMAX,inf,26 - 23,+3,1.28
+BLAST Bounty 2025 Season 1 Finals,"Copenhagen",7909,24/01/25,Vitality,Eternal Fire,mrg,20 - 17,+3,1.32
+BLAST Bounty 2025 Season 1 Finals,"Copenhagen",7909,24/01/25,Vitality,Eternal Fire,anb,12 - 15,-3,0.80
+Perfect World Shanghai Major 2024,"Shanghai",7524,13/12/24,Vitality,FaZe,anb,21 - 15,+6,1.53
+Perfect World Shanghai Major 2024,"Shanghai",7524,13/12/24,Vitality,FaZe,mrg,12 - 12,0,0.94
+Perfect World Shanghai Major 2024,"Shanghai",7524,13/12/24,Vitality,FaZe,nuke,15 - 7,+8,1.40
+Perfect World Shanghai Major 2024,"Shanghai",7524,06/12/24,Vitality,MIBR,anb,14 - 9,+5,1.38
+Perfect World Shanghai Major 2024,"Shanghai",7524,06/12/24,Vitality,MIBR,mrg,11 - 8,+3,1.38
+Perfect World Shanghai Major 2024,"Shanghai",7524,05/12/24,Vitality,FURIA,mrg,24 - 11,+13,1.46
+Perfect World Shanghai Major 2024,"Shanghai",7524,05/12/24,Vitality,GamerLegion,mrg,24 - 9,+15,1.90
+Perfect World Shanghai Major 2024 Europe RMR A,"Shanghai",7864,18/11/24,Vitality,FaZe,d2,21 - 13,+8,1.53
+Perfect World Shanghai Major 2024 Europe RMR A,"Shanghai",7864,18/11/24,Vitality,FaZe,mrg,15 - 10,+5,1.22
+Perfect World Shanghai Major 2024 Europe RMR A,"Shanghai",7864,17/11/24,Vitality,BetBoom,nuke,10 - 10,0,0.83
+Perfect World Shanghai Major 2024 Europe RMR A,"Shanghai",7864,17/11/24,Vitality,GamerLegion,inf,21 - 9,+12,1.82
+BLAST Premier World Final 2024,"Sentosa",7557,02/11/24,Vitality,G2,mrg,13 - 14,-1,1.11
+BLAST Premier World Final 2024,"Sentosa",7557,02/11/24,Vitality,G2,inf,15 - 11,+4,1.46
+BLAST Premier World Final 2024,"Sentosa",7557,02/11/24,Vitality,G2,d2,21 - 16,+5,1.35
+BLAST Premier World Final 2024,"Sentosa",7557,01/11/24,Vitality,MOUZ,mrg,15 - 9,+6,1.33
+BLAST Premier World Final 2024,"Sentosa",7557,01/11/24,Vitality,MOUZ,d2,19 - 9,+10,1.57
+BLAST Premier World Final 2024,"Sentosa",7557,31/10/24,Vitality,Liquid,nuke,23 - 11,+12,1.74
+BLAST Premier World Final 2024,"Sentosa",7557,31/10/24,Vitality,Liquid,d2,7 - 7,0,1.04
+BLAST Premier World Final 2024,"Sentosa",7557,31/10/24,Vitality,Liquid,anb,23 - 13,+10,1.66
+BLAST Premier World Final 2024,"Sentosa",7557,30/10/24,Vitality,Spirit,mrg,22 - 17,+5,1.36
+BLAST Premier World Final 2024,"Sentosa",7557,30/10/24,Vitality,Spirit,anb,17 - 15,+2,1.41
+IEM Rio 2024,"Rio de Janeiro",7439,11/10/24,Vitality,MOUZ,inf,15 - 15,0,1.08
+IEM Rio 2024,"Rio de Janeiro",7439,11/10/24,Vitality,MOUZ,nuke,23 - 14,+9,1.18
+IEM Rio 2024,"Rio de Janeiro",7439,11/10/24,Vitality,MOUZ,mrg,19 - 10,+9,1.48
+IEM Rio 2024,"Rio de Janeiro",7439,09/10/24,Vitality,HEROIC,anb,11 - 12,-1,1.01
+IEM Rio 2024,"Rio de Janeiro",7439,09/10/24,Vitality,HEROIC,mrg,17 - 15,+2,1.14
+IEM Rio 2024,"Rio de Janeiro",7439,08/10/24,Vitality,The MongolZ,nuke,28 - 11,+17,2.22
+IEM Rio 2024,"Rio de Janeiro",7439,08/10/24,Vitality,The MongolZ,inf,41 - 18,+23,1.90
+IEM Rio 2024,"Rio de Janeiro",7439,07/10/24,Vitality,9z,mrg,12 - 8,+4,1.80
+BLAST Premier Fall Final 2024,"Copenhagen",7556,28/09/24,Vitality,G2,mrg,27 - 22,+5,1.37
+BLAST Premier Fall Final 2024,"Copenhagen",7556,28/09/24,Vitality,G2,d2,11 - 13,-2,0.90
+BLAST Premier Fall Final 2024,"Copenhagen",7556,28/09/24,Vitality,G2,anb,19 - 15,+4,1.22
+BLAST Premier Fall Final 2024,"Copenhagen",7556,26/09/24,Vitality,Liquid,nuke,22 - 11,+11,1.72
+BLAST Premier Fall Final 2024,"Copenhagen",7556,26/09/24,Vitality,Liquid,anb,27 - 15,+12,1.57
+BLAST Premier Fall Final 2024,"Copenhagen",7556,25/09/24,Vitality,Astralis,d2,16 - 8,+8,1.57
+BLAST Premier Fall Final 2024,"Copenhagen",7556,25/09/24,Vitality,Astralis,inf,15 - 3,+12,2.27
+ESL Pro League Season 20,"Valletta",7441,19/09/24,Vitality,Eternal Fire,inf,37 - 27,+10,1.40
+ESL Pro League Season 20,"Valletta",7441,19/09/24,Vitality,Eternal Fire,nuke,18 - 10,+8,1.43
+ESL Pro League Season 20,"Valletta",7441,19/09/24,Vitality,Eternal Fire,anb,30 - 18,+12,1.54
+ESL Pro League Season 20,"Valletta",7441,15/09/24,Vitality,Liquid,d2,13 - 14,-1,1.14
+ESL Pro League Season 20,"Valletta",7441,15/09/24,Vitality,Liquid,nuke,21 - 8,+13,1.90
+ESL Pro League Season 20,"Valletta",7441,15/09/24,Vitality,Liquid,anb,12 - 16,-4,0.94
+ESL Pro League Season 20,"Valletta",7441,12/09/24,Vitality,FURIA,d2,16 - 6,+10,1.87
+ESL Pro League Season 20,"Valletta",7441,12/09/24,Vitality,FURIA,vtg,15 - 11,+4,1.40
+ESL Pro League Season 20,"Valletta",7441,11/09/24,Vitality,ATOX,nuke,21 - 13,+8,1.54
+ESL Pro League Season 20,"Valletta",7441,11/09/24,Vitality,ATOX,inf,23 - 15,+8,1.41
+IEM Cologne 2024,"Cologne",7436,18/08/24,Vitality,Natus Vincere,inf,21 - 14,+7,1.67
+IEM Cologne 2024,"Cologne",7436,18/08/24,Vitality,Natus Vincere,mrg,36 - 27,+9,1.32
+IEM Cologne 2024,"Cologne",7436,18/08/24,Vitality,Natus Vincere,d2,22 - 15,+7,1.60
+IEM Cologne 2024,"Cologne",7436,18/08/24,Vitality,Natus Vincere,nuke,21 - 22,-1,1.10
+IEM Cologne 2024,"Cologne",7436,17/08/24,Vitality,SAW,d2,21 - 8,+13,1.66
+IEM Cologne 2024,"Cologne",7436,17/08/24,Vitality,SAW,nuke,14 - 10,+4,1.33
+IEM Cologne 2024,"Cologne",7436,13/08/24,Vitality,MOUZ,vtg,17 - 17,0,0.92
+IEM Cologne 2024,"Cologne",7436,13/08/24,Vitality,MOUZ,d2,21 - 8,+13,1.94
+IEM Cologne 2024,"Cologne",7436,12/08/24,Vitality,FaZe,anb,14 - 12,+2,0.81
+IEM Cologne 2024,"Cologne",7436,12/08/24,Vitality,FaZe,d2,16 - 17,-1,0.94
+IEM Cologne 2024,"Cologne",7436,12/08/24,Vitality,FaZe,inf,13 - 15,-2,0.93
+IEM Cologne 2024,"Cologne",7436,11/08/24,Vitality,FURIA,mrg,14 - 6,+8,1.69
+IEM Cologne 2024,"Cologne",7436,11/08/24,Vitality,FURIA,inf,18 - 4,+14,2.03
+BLAST Premier Fall Groups 2024,"Copenhagen",7554,03/08/24,Vitality,Astralis,nuke,24 - 9,+15,1.95
+BLAST Premier Fall Groups 2024,"Copenhagen",7554,03/08/24,Vitality,Astralis,mrg,20 - 13,+7,1.32
+BLAST Premier Fall Groups 2024,"Copenhagen",7554,03/08/24,Vitality,Astralis,vtg,22 - 15,+7,1.43
+BLAST Premier Fall Groups 2024,"Copenhagen",7554,30/07/24,Vitality,Astralis,d2,13 - 16,-3,0.79
+BLAST Premier Fall Groups 2024,"Copenhagen",7554,30/07/24,Vitality,Astralis,nuke,14 - 13,+1,1.30
+BLAST Premier Fall Groups 2024,"Copenhagen",7554,29/07/24,Vitality,GamerLegion,d2,25 - 6,+19,2.14
+BLAST Premier Fall Groups 2024,"Copenhagen",7554,29/07/24,Vitality,GamerLegion,mrg,20 - 25,-5,0.96
+BLAST Premier Fall Groups 2024,"Copenhagen",7554,29/07/24,Vitality,GamerLegion,anb,22 - 18,+4,1.14
+Esports World Cup 2024,"Riyadh",7732,19/07/24,Vitality,Virtus.pro,d2,13 - 15,-2,1.09
+Esports World Cup 2024,"Riyadh",7732,19/07/24,Vitality,Virtus.pro,inf,20 - 15,+5,1.61
+Esports World Cup 2024,"Riyadh",7732,19/07/24,Vitality,Virtus.pro,mrg,37 - 31,+6,1.26
+Esports World Cup 2024,"Riyadh",7732,17/07/24,Vitality,M80,d2,19 - 10,+9,1.69
+Esports World Cup 2024,"Riyadh",7732,17/07/24,Vitality,M80,vtg,24 - 11,+13,1.51
+BLAST Premier Spring Final 2024,"London",7485,15/06/24,Vitality,Spirit,anb,15 - 15,0,1.17
+BLAST Premier Spring Final 2024,"London",7485,15/06/24,Vitality,Spirit,d2,16 - 15,+1,1.00
+BLAST Premier Spring Final 2024,"London",7485,15/06/24,Vitality,Spirit,mrg,23 - 15,+8,1.34
+BLAST Premier Spring Final 2024,"London",7485,14/06/24,Vitality,FaZe,mrg,19 - 12,+7,1.72
+BLAST Premier Spring Final 2024,"London",7485,14/06/24,Vitality,FaZe,d2,14 - 15,-1,0.96
+BLAST Premier Spring Final 2024,"London",7485,14/06/24,Vitality,FaZe,inf,15 - 13,+2,1.16
+BLAST Premier Spring Final 2024,"London",7485,13/06/24,Vitality,G2,mrg,15 - 9,+6,1.41
+BLAST Premier Spring Final 2024,"London",7485,13/06/24,Vitality,G2,anb,21 - 14,+7,1.39
+BLAST Premier Spring Final 2024,"London",7485,13/06/24,Vitality,G2,inf,14 - 8,+6,1.28
+BLAST Premier Spring Final 2024,"London",7485,12/06/24,Vitality,Virtus.pro,anb,14 - 16,-2,0.99
+BLAST Premier Spring Final 2024,"London",7485,12/06/24,Vitality,Virtus.pro,d2,25 - 16,+9,1.32
+BLAST Premier Spring Final 2024,"London",7485,12/06/24,Vitality,Virtus.pro,inf,19 - 8,+11,1.69
+IEM Dallas 2024,"Dallas",7438,02/06/24,Vitality,G2,nuke,9 - 16,-7,0.56
+IEM Dallas 2024,"Dallas",7438,02/06/24,Vitality,G2,anb,22 - 20,+2,1.07
+IEM Dallas 2024,"Dallas",7438,02/06/24,Vitality,G2,inf,35 - 23,+12,1.38
+IEM Dallas 2024,"Dallas",7438,01/06/24,Vitality,Spirit,mrg,22 - 14,+8,1.54
+IEM Dallas 2024,"Dallas",7438,01/06/24,Vitality,Spirit,d2,22 - 10,+12,1.56
+IEM Dallas 2024,"Dallas",7438,31/05/24,Vitality,HEROIC,d2,16 - 4,+12,2.02
+IEM Dallas 2024,"Dallas",7438,31/05/24,Vitality,HEROIC,nuke,14 - 13,+1,0.94
+IEM Dallas 2024,"Dallas",7438,29/05/24,Vitality,9z,anb,28 - 21,+7,1.76
+IEM Dallas 2024,"Dallas",7438,29/05/24,Vitality,9z,d2,12 - 14,-2,0.80
+IEM Dallas 2024,"Dallas",7438,28/05/24,Vitality,G2,anb,11 - 11,0,1.06
+IEM Dallas 2024,"Dallas",7438,28/05/24,Vitality,G2,d2,17 - 10,+7,1.17
+IEM Dallas 2024,"Dallas",7438,27/05/24,Vitality,Monte,nuke,26 - 20,+6,1.66
+ESL Pro League Season 19,"Valletta",7440,12/05/24,Vitality,MOUZ,nuke,12 - 15,-3,1.15
+ESL Pro League Season 19,"Valletta",7440,12/05/24,Vitality,MOUZ,mrg,14 - 14,0,1.09
+ESL Pro League Season 19,"Valletta",7440,12/05/24,Vitality,MOUZ,inf,15 - 16,-1,1.06
+ESL Pro League Season 19,"Valletta",7440,11/05/24,Vitality,Astralis,inf,24 - 12,+12,1.68
+ESL Pro League Season 19,"Valletta",7440,11/05/24,Vitality,Astralis,vtg,28 - 17,+11,1.45
+ESL Pro League Season 19,"Valletta",7440,11/05/24,Vitality,Astralis,mrg,18 - 15,+3,1.14
+ESL Pro League Season 19,"Valletta",7440,10/05/24,Vitality,FaZe,vtg,30 - 15,+15,2.29
+ESL Pro League Season 19,"Valletta",7440,10/05/24,Vitality,FaZe,nuke,24 - 6,+18,2.69
+ESL Pro League Season 19,"Valletta",7440,28/04/24,Vitality,The MongolZ,nuke,18 - 11,+7,1.62
+ESL Pro League Season 19,"Valletta",7440,28/04/24,Vitality,The MongolZ,mrg,30 - 12,+18,2.03
+ESL Pro League Season 19,"Valletta",7440,25/04/24,Vitality,BetBoom,anb,28 - 12,+16,2.09
+ESL Pro League Season 19,"Valletta",7440,25/04/24,Vitality,BetBoom,mrg,22 - 6,+16,2.22
+ESL Pro League Season 19,"Valletta",7440,23/04/24,Vitality,Sharks,mrg,12 - 8,+4,1.32
+ESL Pro League Season 19,"Valletta",7440,23/04/24,Vitality,Sharks,vtg,16 - 12,+4,1.33
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,30/03/24,Vitality,FaZe,inf,16 - 15,+1,1.05
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,30/03/24,Vitality,FaZe,vtg,14 - 9,+5,1.69
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,30/03/24,Vitality,FaZe,nuke,8 - 16,-8,0.82
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,28/03/24,Vitality,Cloud9,anb,10 - 8,+2,1.53
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,28/03/24,Vitality,Cloud9,inf,16 - 7,+9,1.25
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,23/03/24,Vitality,Complexity,anb,8 - 17,-9,0.60
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,23/03/24,Vitality,Complexity,vtg,16 - 13,+3,1.06
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,23/03/24,Vitality,Complexity,inf,26 - 22,+4,1.14
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,22/03/24,Vitality,Imperial,ovp,14 - 13,+1,1.21
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,21/03/24,Vitality,The MongolZ,nuke,17 - 14,+3,1.14
+PGL CS2 Major Copenhagen 2024,"Copenhagen",7148,21/03/24,Vitality,Eternal Fire,inf,17 - 15,+2,1.34
+PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest",7577,21/02/24,Vitality,ENCE,nuke,12 - 10,+2,1.36
+PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest",7577,21/02/24,Vitality,ENCE,vtg,22 - 10,+12,1.70
+PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest",7577,20/02/24,Vitality,Cloud9,anb,13 - 15,-2,1.00
+PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest",7577,20/02/24,Vitality,Cloud9,inf,14 - 12,+2,1.16
+PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest",7577,20/02/24,Vitality,Cloud9,ovp,19 - 13,+6,1.50
+PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest",7577,19/02/24,Vitality,HEROIC,ovp,25 - 6,+19,2.18
+PGL CS2 Major Copenhagen 2024 Europe RMR B,"Bucharest",7577,19/02/24,Vitality,GamerLegion,nuke,24 - 4,+20,3.08
+IEM Katowice 2024,"Katowice",7435,05/02/24,Vitality,HEROIC,vtg,21 - 16,+5,1.20
+IEM Katowice 2024,"Katowice",7435,05/02/24,Vitality,HEROIC,anb,19 - 14,+5,1.21
+IEM Katowice 2024,"Katowice",7435,05/02/24,Vitality,HEROIC,mrg,20 - 20,0,1.07
+IEM Katowice 2024,"Katowice",7435,03/02/24,Vitality,ENCE,nuke,19 - 14,+5,1.47
+IEM Katowice 2024,"Katowice",7435,03/02/24,Vitality,ENCE,anb,13 - 9,+4,1.63
+IEM Katowice 2024,"Katowice",7435,03/02/24,Vitality,ENCE,vtg,13 - 14,-1,1.02
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,27/01/24,Vitality,Astralis,nuke,22 - 7,+15,2.02
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,27/01/24,Vitality,Astralis,mrg,30 - 18,+12,1.71
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,27/01/24,Vitality,Astralis,inf,13 - 14,-1,0.98
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,26/01/24,Vitality,Falcons,anb,19 - 12,+7,1.27
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,26/01/24,Vitality,Falcons,vtg,24 - 11,+13,2.07
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,26/01/24,Vitality,Falcons,nuke,31 - 25,+6,1.25
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,23/01/24,Vitality,Astralis,ovp,17 - 13,+4,1.78
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,23/01/24,Vitality,Astralis,vtg,23 - 8,+15,2.18
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,23/01/24,Vitality,Astralis,mrg,17 - 13,+4,1.08
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,22/01/24,Vitality,OG,inf,16 - 12,+4,1.10
+BLAST Premier Spring Groups 2024,"Copenhagen",7552,22/01/24,Vitality,OG,mrg,17 - 4,+13,2.21
 BLAST Premier World Final 2023,"Abu Dhabi, UAE",6976,17/12/23,Vitality,FaZe,nuke,21 - 10,+11,2.20
 BLAST Premier World Final 2023,"Abu Dhabi, UAE",6976,17/12/23,Vitality,FaZe,inf,17 - 9,+8,1.67
 BLAST Premier World Final 2023,"Abu Dhabi, UAE",6976,16/12/23,Vitality,Natus Vincere,inf,18 - 12,+6,1.38
@@ -443,58 +443,58 @@ BLAST Premier World Final 2023,"Abu Dhabi, UAE",6976,14/12/23,Vitality,Cloud9,in
 BLAST Premier World Final 2023,"Abu Dhabi, UAE",6976,14/12/23,Vitality,Cloud9,anb,18 - 13,+5,0.93
 BLAST Premier World Final 2023,"Abu Dhabi, UAE",6976,13/12/23,Vitality,Natus Vincere,ovp,14 - 10,+4,1.32
 BLAST Premier World Final 2023,"Abu Dhabi, UAE",6976,13/12/23,Vitality,Natus Vincere,anb,14 - 16,-2,0.89
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,26/11/23,Vitality,FaZe,nuke,21 - 13,+8,1.28
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,26/11/23,Vitality,FaZe,vtg,10 - 8,+2,1.12
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,25/11/23,Vitality,Cloud9,inf,21 - 15,+6,1.11
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,25/11/23,Vitality,Cloud9,nuke,15 - 13,+2,1.16
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,25/11/23,Vitality,Cloud9,mrg,26 - 14,+12,1.43
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,23/11/23,Vitality,Complexity,inf,24 - 10,+14,2.44
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,23/11/23,Vitality,Complexity,nuke,24 - 21,+3,1.12
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,23/11/23,Vitality,Complexity,anb,14 - 5,+9,2.01
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,22/11/23,Vitality,HEROIC,inf,15 - 10,+5,1.25
-BLAST Premier Fall Final 2023,"Copenhagen, Denmark",6975,22/11/23,Vitality,HEROIC,nuke,10 - 11,-1,0.96
-IEM Sydney 2023,"Sydney, Australia",6865,16/10/23,Vitality,FaZe,nuke,18 - 18,0,1.17
-IEM Sydney 2023,"Sydney, Australia",6865,16/10/23,Vitality,FaZe,inf,20 - 15,+5,1.18
-IEM Sydney 2023,"Sydney, Australia",6865,16/10/23,Vitality,FaZe,ovp,21 - 21,0,0.96
-IEM Sydney 2023,"Sydney, Australia",6865,16/10/23,Vitality,BetBoom,mrg,22 - 22,0,0.98
-ESL Pro League Season 18,Malta,6863,28/09/23,Vitality,Monte,nuke,27 - 24,+3,1.24
-ESL Pro League Season 18,Malta,6863,28/09/23,Vitality,Monte,anb,19 - 18,+1,1.02
-ESL Pro League Season 18,Malta,6863,03/09/23,Vitality,Movistar Riders,inf,25 - 12,+13,1.54
-ESL Pro League Season 18,Malta,6863,03/09/23,Vitality,Movistar Riders,ovp,23 - 17,+6,1.29
-ESL Pro League Season 18,Malta,6863,31/08/23,Vitality,Ninjas in Pyjamas,nuke,21 - 14,+7,1.25
-ESL Pro League Season 18,Malta,6863,31/08/23,Vitality,Ninjas in Pyjamas,mrg,14 - 7,+7,1.47
-ESL Pro League Season 18,Malta,6863,30/08/23,Vitality,ORKS,nuke,12 - 12,0,1.08
-ESL Pro League Season 18,Malta,6863,30/08/23,Vitality,ORKS,mrg,28 - 12,+16,1.70
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,20/08/23,Vitality,ENCE,nuke,22 - 13,+9,1.56
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,20/08/23,Vitality,ENCE,mrg,28 - 17,+11,1.35
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,20/08/23,Vitality,ENCE,anb,16 - 14,+2,1.12
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,19/08/23,Vitality,G2,mrg,26 - 19,+7,1.25
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,19/08/23,Vitality,G2,anb,18 - 19,-1,1.12
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,19/08/23,Vitality,G2,inf,15 - 13,+2,1.00
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,17/08/23,Vitality,Natus Vincere,nuke,20 - 16,+4,1.21
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,17/08/23,Vitality,Natus Vincere,mrg,9 - 8,+1,0.98
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,16/08/23,Vitality,MIBR,inf,21 - 11,+10,1.50
-Gamers8 2023,"Riyadh, Saudi Arabia",7128,16/08/23,Vitality,MIBR,anb,21 - 10,+11,1.58
-IEM Cologne 2023,"Cologne, Germany",6811,05/08/23,Vitality,ENCE,vtg,11 - 19,-8,0.61
-IEM Cologne 2023,"Cologne, Germany",6811,05/08/23,Vitality,ENCE,nuke,24 - 16,+8,1.29
-IEM Cologne 2023,"Cologne, Germany",6811,05/08/23,Vitality,ENCE,mrg,23 - 21,+2,1.13
-IEM Cologne 2023,"Cologne, Germany",6811,04/08/23,Vitality,Cloud9,inf,35 - 20,+15,1.60
-IEM Cologne 2023,"Cologne, Germany",6811,04/08/23,Vitality,Cloud9,mrg,21 - 15,+6,1.28
-IEM Cologne 2023,"Cologne, Germany",6811,01/08/23,Vitality,G2,mrg,16 - 16,0,1.03
-IEM Cologne 2023,"Cologne, Germany",6811,01/08/23,Vitality,G2,vtg,16 - 17,-1,1.12
-IEM Cologne 2023,"Cologne, Germany",6811,01/08/23,Vitality,G2,inf,22 - 19,+3,1.16
-IEM Cologne 2023,"Cologne, Germany",6811,31/07/23,Vitality,MOUZ,mrg,16 - 11,+5,1.52
-IEM Cologne 2023,"Cologne, Germany",6811,31/07/23,Vitality,MOUZ,inf,22 - 10,+12,1.90
-IEM Cologne 2023,"Cologne, Germany",6811,30/07/23,Vitality,OG,anb,22 - 17,+5,1.23
-IEM Cologne 2023,"Cologne, Germany",6811,30/07/23,Vitality,OG,mrg,17 - 8,+9,1.36
-BLAST Premier Fall Groups 2023,"Copenhagen, Denmark",6973,23/07/23,Vitality,BIG,inf,21 - 15,+6,1.34
-BLAST Premier Fall Groups 2023,"Copenhagen, Denmark",6973,23/07/23,Vitality,BIG,anb,24 - 18,+6,1.34
-BLAST Premier Fall Groups 2023,"Copenhagen, Denmark",6973,19/07/23,Vitality,Ninjas in Pyjamas,ovp,20 - 17,+3,1.05
-BLAST Premier Fall Groups 2023,"Copenhagen, Denmark",6973,19/07/23,Vitality,Ninjas in Pyjamas,mrg,30 - 16,+14,1.55
-BLAST Premier Fall Groups 2023,"Copenhagen, Denmark",6973,15/07/23,Vitality,Complexity,vtg,20 - 8,+12,1.57
-BLAST Premier Fall Groups 2023,"Copenhagen, Denmark",6973,15/07/23,Vitality,Complexity,inf,16 - 6,+10,1.65
-BLAST Premier Fall Groups 2023,"Copenhagen, Denmark",6973,13/07/23,Vitality,Evil Geniuses,vtg,14 - 4,+10,1.66
-BLAST Premier Fall Groups 2023,"Copenhagen, Denmark",6973,13/07/23,Vitality,Evil Geniuses,ovp,15 - 11,+4,1.11
+BLAST Premier Fall Final 2023,"Copenhagen",6975,26/11/23,Vitality,FaZe,nuke,21 - 13,+8,1.28
+BLAST Premier Fall Final 2023,"Copenhagen",6975,26/11/23,Vitality,FaZe,vtg,10 - 8,+2,1.12
+BLAST Premier Fall Final 2023,"Copenhagen",6975,25/11/23,Vitality,Cloud9,inf,21 - 15,+6,1.11
+BLAST Premier Fall Final 2023,"Copenhagen",6975,25/11/23,Vitality,Cloud9,nuke,15 - 13,+2,1.16
+BLAST Premier Fall Final 2023,"Copenhagen",6975,25/11/23,Vitality,Cloud9,mrg,26 - 14,+12,1.43
+BLAST Premier Fall Final 2023,"Copenhagen",6975,23/11/23,Vitality,Complexity,inf,24 - 10,+14,2.44
+BLAST Premier Fall Final 2023,"Copenhagen",6975,23/11/23,Vitality,Complexity,nuke,24 - 21,+3,1.12
+BLAST Premier Fall Final 2023,"Copenhagen",6975,23/11/23,Vitality,Complexity,anb,14 - 5,+9,2.01
+BLAST Premier Fall Final 2023,"Copenhagen",6975,22/11/23,Vitality,HEROIC,inf,15 - 10,+5,1.25
+BLAST Premier Fall Final 2023,"Copenhagen",6975,22/11/23,Vitality,HEROIC,nuke,10 - 11,-1,0.96
+IEM Sydney 2023,"Sydney",6865,16/10/23,Vitality,FaZe,nuke,18 - 18,0,1.17
+IEM Sydney 2023,"Sydney",6865,16/10/23,Vitality,FaZe,inf,20 - 15,+5,1.18
+IEM Sydney 2023,"Sydney",6865,16/10/23,Vitality,FaZe,ovp,21 - 21,0,0.96
+IEM Sydney 2023,"Sydney",6865,16/10/23,Vitality,BetBoom,mrg,22 - 22,0,0.98
+ESL Pro League Season 18,"Valletta",6863,28/09/23,Vitality,Monte,nuke,27 - 24,+3,1.24
+ESL Pro League Season 18,"Valletta",6863,28/09/23,Vitality,Monte,anb,19 - 18,+1,1.02
+ESL Pro League Season 18,"Valletta",6863,03/09/23,Vitality,Movistar Riders,inf,25 - 12,+13,1.54
+ESL Pro League Season 18,"Valletta",6863,03/09/23,Vitality,Movistar Riders,ovp,23 - 17,+6,1.29
+ESL Pro League Season 18,"Valletta",6863,31/08/23,Vitality,Ninjas in Pyjamas,nuke,21 - 14,+7,1.25
+ESL Pro League Season 18,"Valletta",6863,31/08/23,Vitality,Ninjas in Pyjamas,mrg,14 - 7,+7,1.47
+ESL Pro League Season 18,"Valletta",6863,30/08/23,Vitality,ORKS,nuke,12 - 12,0,1.08
+ESL Pro League Season 18,"Valletta",6863,30/08/23,Vitality,ORKS,mrg,28 - 12,+16,1.70
+Gamers8 2023,"Riyadh",7128,20/08/23,Vitality,ENCE,nuke,22 - 13,+9,1.56
+Gamers8 2023,"Riyadh",7128,20/08/23,Vitality,ENCE,mrg,28 - 17,+11,1.35
+Gamers8 2023,"Riyadh",7128,20/08/23,Vitality,ENCE,anb,16 - 14,+2,1.12
+Gamers8 2023,"Riyadh",7128,19/08/23,Vitality,G2,mrg,26 - 19,+7,1.25
+Gamers8 2023,"Riyadh",7128,19/08/23,Vitality,G2,anb,18 - 19,-1,1.12
+Gamers8 2023,"Riyadh",7128,19/08/23,Vitality,G2,inf,15 - 13,+2,1.00
+Gamers8 2023,"Riyadh",7128,17/08/23,Vitality,Natus Vincere,nuke,20 - 16,+4,1.21
+Gamers8 2023,"Riyadh",7128,17/08/23,Vitality,Natus Vincere,mrg,9 - 8,+1,0.98
+Gamers8 2023,"Riyadh",7128,16/08/23,Vitality,MIBR,inf,21 - 11,+10,1.50
+Gamers8 2023,"Riyadh",7128,16/08/23,Vitality,MIBR,anb,21 - 10,+11,1.58
+IEM Cologne 2023,"Cologne",6811,05/08/23,Vitality,ENCE,vtg,11 - 19,-8,0.61
+IEM Cologne 2023,"Cologne",6811,05/08/23,Vitality,ENCE,nuke,24 - 16,+8,1.29
+IEM Cologne 2023,"Cologne",6811,05/08/23,Vitality,ENCE,mrg,23 - 21,+2,1.13
+IEM Cologne 2023,"Cologne",6811,04/08/23,Vitality,Cloud9,inf,35 - 20,+15,1.60
+IEM Cologne 2023,"Cologne",6811,04/08/23,Vitality,Cloud9,mrg,21 - 15,+6,1.28
+IEM Cologne 2023,"Cologne",6811,01/08/23,Vitality,G2,mrg,16 - 16,0,1.03
+IEM Cologne 2023,"Cologne",6811,01/08/23,Vitality,G2,vtg,16 - 17,-1,1.12
+IEM Cologne 2023,"Cologne",6811,01/08/23,Vitality,G2,inf,22 - 19,+3,1.16
+IEM Cologne 2023,"Cologne",6811,31/07/23,Vitality,MOUZ,mrg,16 - 11,+5,1.52
+IEM Cologne 2023,"Cologne",6811,31/07/23,Vitality,MOUZ,inf,22 - 10,+12,1.90
+IEM Cologne 2023,"Cologne",6811,30/07/23,Vitality,OG,anb,22 - 17,+5,1.23
+IEM Cologne 2023,"Cologne",6811,30/07/23,Vitality,OG,mrg,17 - 8,+9,1.36
+BLAST Premier Fall Groups 2023,"Copenhagen",6973,23/07/23,Vitality,BIG,inf,21 - 15,+6,1.34
+BLAST Premier Fall Groups 2023,"Copenhagen",6973,23/07/23,Vitality,BIG,anb,24 - 18,+6,1.34
+BLAST Premier Fall Groups 2023,"Copenhagen",6973,19/07/23,Vitality,Ninjas in Pyjamas,ovp,20 - 17,+3,1.05
+BLAST Premier Fall Groups 2023,"Copenhagen",6973,19/07/23,Vitality,Ninjas in Pyjamas,mrg,30 - 16,+14,1.55
+BLAST Premier Fall Groups 2023,"Copenhagen",6973,15/07/23,Vitality,Complexity,vtg,20 - 8,+12,1.57
+BLAST Premier Fall Groups 2023,"Copenhagen",6973,15/07/23,Vitality,Complexity,inf,16 - 6,+10,1.65
+BLAST Premier Fall Groups 2023,"Copenhagen",6973,13/07/23,Vitality,Evil Geniuses,vtg,14 - 4,+10,1.66
+BLAST Premier Fall Groups 2023,"Copenhagen",6973,13/07/23,Vitality,Evil Geniuses,ovp,15 - 11,+4,1.11
 BLAST Premier Spring Final 2023,"Washington, D.C., US",6972,11/06/23,Vitality,HEROIC,inf,21 - 15,+6,1.42
 BLAST Premier Spring Final 2023,"Washington, D.C., US",6972,11/06/23,Vitality,HEROIC,mrg,21 - 15,+6,1.30
 BLAST Premier Spring Final 2023,"Washington, D.C., US",6972,11/06/23,Vitality,HEROIC,vtg,10 - 20,-10,0.66
@@ -507,68 +507,68 @@ BLAST Premier Spring Final 2023,"Washington, D.C., US",6972,08/06/23,Vitality,Cl
 BLAST Premier Spring Final 2023,"Washington, D.C., US",6972,08/06/23,Vitality,Cloud9,ovp,27 - 14,+13,1.45
 BLAST Premier Spring Final 2023,"Washington, D.C., US",6972,07/06/23,Vitality,Imperial,vtg,22 - 22,0,1.07
 BLAST Premier Spring Final 2023,"Washington, D.C., US",6972,07/06/23,Vitality,Imperial,ovp,13 - 16,-3,0.78
-BLAST.tv Paris Major 2023,"Paris, France",6793,21/05/23,Vitality,GamerLegion,nuke,29 - 15,+14,1.60
-BLAST.tv Paris Major 2023,"Paris, France",6793,21/05/23,Vitality,GamerLegion,ovp,19 - 13,+6,1.47
-BLAST.tv Paris Major 2023,"Paris, France",6793,20/05/23,Vitality,Apeks,vtg,23 - 16,+7,1.22
-BLAST.tv Paris Major 2023,"Paris, France",6793,20/05/23,Vitality,Apeks,mrg,27 - 20,+7,1.29
-BLAST.tv Paris Major 2023,"Paris, France",6793,18/05/23,Vitality,Into the Breach,anb,26 - 12,+14,1.70
-BLAST.tv Paris Major 2023,"Paris, France",6793,18/05/23,Vitality,Into the Breach,vtg,20 - 14,+6,1.20
-BLAST.tv Paris Major 2023,"Paris, France",6793,14/05/23,Vitality,Monte,nuke,24 - 20,+4,1.26
-BLAST.tv Paris Major 2023,"Paris, France",6793,14/05/23,Vitality,Monte,anb,20 - 12,+8,1.33
-BLAST.tv Paris Major 2023,"Paris, France",6793,13/05/23,Vitality,ENCE,vtg,28 - 16,+12,1.33
-BLAST.tv Paris Major 2023,"Paris, France",6793,13/05/23,Vitality,G2,nuke,30 - 16,+14,1.60
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,23/04/23,Vitality,HEROIC,inf,23 - 17,+6,1.38
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,23/04/23,Vitality,HEROIC,vtg,15 - 14,+1,1.13
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,22/04/23,Vitality,Cloud9,ovp,31 - 11,+20,1.96
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,22/04/23,Vitality,Cloud9,vtg,24 - 21,+3,1.11
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,22/04/23,Vitality,Cloud9,inf,12 - 14,-2,1.04
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,21/04/23,Vitality,BIG,mrg,25 - 15,+10,1.46
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,21/04/23,Vitality,BIG,nuke,17 - 16,+1,1.02
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,20/04/23,Vitality,OG,ovp,21 - 12,+9,1.32
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,20/04/23,Vitality,OG,inf,33 - 12,+21,2.31
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,20/04/23,Vitality,OG,mrg,18 - 18,0,1.02
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,19/04/23,Vitality,FaZe,ovp,16 - 14,+2,1.10
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,19/04/23,Vitality,FaZe,anb,27 - 21,+6,1.30
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,18/04/23,Vitality,MIBR,nuke,22 - 11,+11,1.57
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,18/04/23,Vitality,MIBR,anb,30 - 11,+19,1.65
-IEM Rio 2023,"Rio de Janeiro, Brazil",6864,17/04/23,Vitality,OG,ovp,23 - 21,+2,1.01
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,15/04/23,Vitality,Monte,mrg,20 - 8,+12,1.56
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,15/04/23,Vitality,Monte,nuke,19 - 17,+2,1.12
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,14/04/23,Vitality,G2,anb,20 - 9,+11,1.48
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,14/04/23,Vitality,G2,mrg,26 - 15,+11,1.59
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,13/04/23,Vitality,BIG,ovp,20 - 10,+10,1.42
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,13/04/23,Vitality,BIG,nuke,22 - 10,+12,1.49
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,13/04/23,Vitality,BIG,mrg,20 - 15,+5,1.23
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,12/04/23,Vitality,9INE,anb,18 - 21,-3,0.94
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,12/04/23,Vitality,9INE,vtg,27 - 22,+5,1.37
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,11/04/23,Vitality,Ninjas in Pyjamas,vtg,23 - 15,+8,1.27
-BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen, Denmark",6978,11/04/23,Vitality,Astralis,vtg,21 - 17,+4,1.22
-ESL Pro League Season 17,Malta,6862,23/03/23,Vitality,ENCE,vtg,34 - 17,+17,1.72
-ESL Pro League Season 17,Malta,6862,23/03/23,Vitality,ENCE,ovp,12 - 18,-6,0.75
-ESL Pro League Season 17,Malta,6862,23/03/23,Vitality,ENCE,nuke,24 - 18,+6,1.30
-ESL Pro League Season 17,Malta,6862,12/03/23,Vitality,FaZe,nuke,38 - 21,+17,1.69
-ESL Pro League Season 17,Malta,6862,12/03/23,Vitality,FaZe,anb,23 - 19,+4,1.17
-ESL Pro League Season 17,Malta,6862,09/03/23,Vitality,OG,vtg,23 - 11,+12,1.71
-ESL Pro League Season 17,Malta,6862,09/03/23,Vitality,OG,anb,21 - 5,+16,1.71
-ESL Pro League Season 17,Malta,6862,08/03/23,Vitality,Grayhound,vtg,16 - 10,+6,1.47
-ESL Pro League Season 17,Malta,6862,08/03/23,Vitality,Grayhound,inf,30 - 8,+22,2.35
-IEM Katowice 2023,"Katowice, Poland",6809,10/02/23,Vitality,Liquid,mrg,16 - 19,-3,0.91
-IEM Katowice 2023,"Katowice, Poland",6809,10/02/23,Vitality,Liquid,nuke,27 - 13,+14,1.99
-IEM Katowice 2023,"Katowice, Poland",6809,10/02/23,Vitality,Liquid,ovp,22 - 25,-3,0.86
-IEM Katowice 2023,"Katowice, Poland",6809,07/02/23,Vitality,HEROIC,ovp,12 - 16,-4,0.71
-IEM Katowice 2023,"Katowice, Poland",6809,07/02/23,Vitality,HEROIC,inf,19 - 18,+1,1.32
-IEM Katowice 2023,"Katowice, Poland",6809,06/02/23,Vitality,fnatic,nuke,28 - 14,+14,1.56
-IEM Katowice 2023,"Katowice, Poland",6809,06/02/23,Vitality,fnatic,mrg,26 - 18,+8,1.57
-IEM Katowice 2023,"Katowice, Poland",6809,06/02/23,Vitality,fnatic,ovp,20 - 15,+5,1.20
-IEM Katowice 2023,"Katowice, Poland",6809,04/02/23,Vitality,Ninjas in Pyjamas,inf,24 - 14,+10,1.72
-IEM Katowice 2023,"Katowice, Poland",6809,04/02/23,Vitality,Ninjas in Pyjamas,mrg,23 - 17,+6,1.28
-BLAST Premier Spring Groups 2023,"Copenhagen, Denmark",6970,25/01/23,Vitality,HEROIC,vtg,19 - 11,+8,1.34
-BLAST Premier Spring Groups 2023,"Copenhagen, Denmark",6970,25/01/23,Vitality,HEROIC,nuke,20 - 17,+3,1.26
-BLAST Premier Spring Groups 2023,"Copenhagen, Denmark",6970,25/01/23,Vitality,HEROIC,mrg,24 - 11,+13,1.49
-BLAST Premier Spring Groups 2023,"Copenhagen, Denmark",6970,21/01/23,Vitality,Evil Geniuses,inf,22 - 7,+15,2.35
-BLAST Premier Spring Groups 2023,"Copenhagen, Denmark",6970,21/01/23,Vitality,Evil Geniuses,ovp,25 - 13,+12,1.59
-BLAST Premier Spring Groups 2023,"Copenhagen, Denmark",6970,19/01/23,Vitality,Astralis,vtg,30 - 19,+11,1.31
-BLAST Premier Spring Groups 2023,"Copenhagen, Denmark",6970,19/01/23,Vitality,Astralis,ovp,18 - 15,+3,1.05
+BLAST.tv Paris Major 2023,"Paris",6793,21/05/23,Vitality,GamerLegion,nuke,29 - 15,+14,1.60
+BLAST.tv Paris Major 2023,"Paris",6793,21/05/23,Vitality,GamerLegion,ovp,19 - 13,+6,1.47
+BLAST.tv Paris Major 2023,"Paris",6793,20/05/23,Vitality,Apeks,vtg,23 - 16,+7,1.22
+BLAST.tv Paris Major 2023,"Paris",6793,20/05/23,Vitality,Apeks,mrg,27 - 20,+7,1.29
+BLAST.tv Paris Major 2023,"Paris",6793,18/05/23,Vitality,Into the Breach,anb,26 - 12,+14,1.70
+BLAST.tv Paris Major 2023,"Paris",6793,18/05/23,Vitality,Into the Breach,vtg,20 - 14,+6,1.20
+BLAST.tv Paris Major 2023,"Paris",6793,14/05/23,Vitality,Monte,nuke,24 - 20,+4,1.26
+BLAST.tv Paris Major 2023,"Paris",6793,14/05/23,Vitality,Monte,anb,20 - 12,+8,1.33
+BLAST.tv Paris Major 2023,"Paris",6793,13/05/23,Vitality,ENCE,vtg,28 - 16,+12,1.33
+BLAST.tv Paris Major 2023,"Paris",6793,13/05/23,Vitality,G2,nuke,30 - 16,+14,1.60
+IEM Rio 2023,"Rio de Janeiro",6864,23/04/23,Vitality,HEROIC,inf,23 - 17,+6,1.38
+IEM Rio 2023,"Rio de Janeiro",6864,23/04/23,Vitality,HEROIC,vtg,15 - 14,+1,1.13
+IEM Rio 2023,"Rio de Janeiro",6864,22/04/23,Vitality,Cloud9,ovp,31 - 11,+20,1.96
+IEM Rio 2023,"Rio de Janeiro",6864,22/04/23,Vitality,Cloud9,vtg,24 - 21,+3,1.11
+IEM Rio 2023,"Rio de Janeiro",6864,22/04/23,Vitality,Cloud9,inf,12 - 14,-2,1.04
+IEM Rio 2023,"Rio de Janeiro",6864,21/04/23,Vitality,BIG,mrg,25 - 15,+10,1.46
+IEM Rio 2023,"Rio de Janeiro",6864,21/04/23,Vitality,BIG,nuke,17 - 16,+1,1.02
+IEM Rio 2023,"Rio de Janeiro",6864,20/04/23,Vitality,OG,ovp,21 - 12,+9,1.32
+IEM Rio 2023,"Rio de Janeiro",6864,20/04/23,Vitality,OG,inf,33 - 12,+21,2.31
+IEM Rio 2023,"Rio de Janeiro",6864,20/04/23,Vitality,OG,mrg,18 - 18,0,1.02
+IEM Rio 2023,"Rio de Janeiro",6864,19/04/23,Vitality,FaZe,ovp,16 - 14,+2,1.10
+IEM Rio 2023,"Rio de Janeiro",6864,19/04/23,Vitality,FaZe,anb,27 - 21,+6,1.30
+IEM Rio 2023,"Rio de Janeiro",6864,18/04/23,Vitality,MIBR,nuke,22 - 11,+11,1.57
+IEM Rio 2023,"Rio de Janeiro",6864,18/04/23,Vitality,MIBR,anb,30 - 11,+19,1.65
+IEM Rio 2023,"Rio de Janeiro",6864,17/04/23,Vitality,OG,ovp,23 - 21,+2,1.01
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,15/04/23,Vitality,Monte,mrg,20 - 8,+12,1.56
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,15/04/23,Vitality,Monte,nuke,19 - 17,+2,1.12
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,14/04/23,Vitality,G2,anb,20 - 9,+11,1.48
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,14/04/23,Vitality,G2,mrg,26 - 15,+11,1.59
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,13/04/23,Vitality,BIG,ovp,20 - 10,+10,1.42
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,13/04/23,Vitality,BIG,nuke,22 - 10,+12,1.49
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,13/04/23,Vitality,BIG,mrg,20 - 15,+5,1.23
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,12/04/23,Vitality,9INE,anb,18 - 21,-3,0.94
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,12/04/23,Vitality,9INE,vtg,27 - 22,+5,1.37
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,11/04/23,Vitality,Ninjas in Pyjamas,vtg,23 - 15,+8,1.27
+BLAST.tv Paris Major 2023 Europe RMR B,"Copenhagen",6978,11/04/23,Vitality,Astralis,vtg,21 - 17,+4,1.22
+ESL Pro League Season 17,"Valletta",6862,23/03/23,Vitality,ENCE,vtg,34 - 17,+17,1.72
+ESL Pro League Season 17,"Valletta",6862,23/03/23,Vitality,ENCE,ovp,12 - 18,-6,0.75
+ESL Pro League Season 17,"Valletta",6862,23/03/23,Vitality,ENCE,nuke,24 - 18,+6,1.30
+ESL Pro League Season 17,"Valletta",6862,12/03/23,Vitality,FaZe,nuke,38 - 21,+17,1.69
+ESL Pro League Season 17,"Valletta",6862,12/03/23,Vitality,FaZe,anb,23 - 19,+4,1.17
+ESL Pro League Season 17,"Valletta",6862,09/03/23,Vitality,OG,vtg,23 - 11,+12,1.71
+ESL Pro League Season 17,"Valletta",6862,09/03/23,Vitality,OG,anb,21 - 5,+16,1.71
+ESL Pro League Season 17,"Valletta",6862,08/03/23,Vitality,Grayhound,vtg,16 - 10,+6,1.47
+ESL Pro League Season 17,"Valletta",6862,08/03/23,Vitality,Grayhound,inf,30 - 8,+22,2.35
+IEM Katowice 2023,"Katowice",6809,10/02/23,Vitality,Liquid,mrg,16 - 19,-3,0.91
+IEM Katowice 2023,"Katowice",6809,10/02/23,Vitality,Liquid,nuke,27 - 13,+14,1.99
+IEM Katowice 2023,"Katowice",6809,10/02/23,Vitality,Liquid,ovp,22 - 25,-3,0.86
+IEM Katowice 2023,"Katowice",6809,07/02/23,Vitality,HEROIC,ovp,12 - 16,-4,0.71
+IEM Katowice 2023,"Katowice",6809,07/02/23,Vitality,HEROIC,inf,19 - 18,+1,1.32
+IEM Katowice 2023,"Katowice",6809,06/02/23,Vitality,fnatic,nuke,28 - 14,+14,1.56
+IEM Katowice 2023,"Katowice",6809,06/02/23,Vitality,fnatic,mrg,26 - 18,+8,1.57
+IEM Katowice 2023,"Katowice",6809,06/02/23,Vitality,fnatic,ovp,20 - 15,+5,1.20
+IEM Katowice 2023,"Katowice",6809,04/02/23,Vitality,Ninjas in Pyjamas,inf,24 - 14,+10,1.72
+IEM Katowice 2023,"Katowice",6809,04/02/23,Vitality,Ninjas in Pyjamas,mrg,23 - 17,+6,1.28
+BLAST Premier Spring Groups 2023,"Copenhagen",6970,25/01/23,Vitality,HEROIC,vtg,19 - 11,+8,1.34
+BLAST Premier Spring Groups 2023,"Copenhagen",6970,25/01/23,Vitality,HEROIC,nuke,20 - 17,+3,1.26
+BLAST Premier Spring Groups 2023,"Copenhagen",6970,25/01/23,Vitality,HEROIC,mrg,24 - 11,+13,1.49
+BLAST Premier Spring Groups 2023,"Copenhagen",6970,21/01/23,Vitality,Evil Geniuses,inf,22 - 7,+15,2.35
+BLAST Premier Spring Groups 2023,"Copenhagen",6970,21/01/23,Vitality,Evil Geniuses,ovp,25 - 13,+12,1.59
+BLAST Premier Spring Groups 2023,"Copenhagen",6970,19/01/23,Vitality,Astralis,vtg,30 - 19,+11,1.31
+BLAST Premier Spring Groups 2023,"Copenhagen",6970,19/01/23,Vitality,Astralis,ovp,18 - 15,+3,1.05
 BLAST Premier World Final 2022,"Abu Dhabi, UAE",6349,16/12/22,Vitality,G2,anb,19 - 18,+1,1.00
 BLAST Premier World Final 2022,"Abu Dhabi, UAE",6349,16/12/22,Vitality,G2,vtg,21 - 16,+5,1.15
 BLAST Premier World Final 2022,"Abu Dhabi, UAE",6349,16/12/22,Vitality,G2,nuke,11 - 13,-2,0.75
@@ -576,15 +576,15 @@ BLAST Premier World Final 2022,"Abu Dhabi, UAE",6349,15/12/22,Vitality,OG,mrg,24
 BLAST Premier World Final 2022,"Abu Dhabi, UAE",6349,15/12/22,Vitality,OG,inf,20 - 19,+1,1.04
 BLAST Premier World Final 2022,"Abu Dhabi, UAE",6349,14/12/22,Vitality,Natus Vincere,nuke,18 - 11,+7,1.28
 BLAST Premier World Final 2022,"Abu Dhabi, UAE",6349,14/12/22,Vitality,Natus Vincere,inf,28 - 18,+10,1.39
-La Coupe 3 Paris 2022,"Paris, France",6892,20/11/22,Prodigy,GenOne,inf,22 - 16,+6,1.21
-La Coupe 3 Paris 2022,"Paris, France",6892,20/11/22,Prodigy,GenOne,anc,21 - 16,+5,1.28
-La Coupe 3 Paris 2022,"Paris, France",6892,20/11/22,Prodigy,The Prodigies,anc,21 - 15,+6,1.73
-La Coupe 3 Paris 2022,"Paris, France",6892,20/11/22,Prodigy,LDLC,vtg,21 - 20,+1,1.22
-IEM Rio Major 2022,"Rio de Janeiro, Brazil",6586,07/11/22,Vitality,ENCE,nuke,18 - 23,-5,0.80
-IEM Rio Major 2022,"Rio de Janeiro, Brazil",6586,07/11/22,Vitality,ENCE,vtg,22 - 19,+3,1.12
-IEM Rio Major 2022,"Rio de Janeiro, Brazil",6586,06/11/22,Vitality,MOUZ,mrg,24 - 20,+4,1.00
-IEM Rio Major 2022,"Rio de Janeiro, Brazil",6586,06/11/22,Vitality,FaZe,inf,24 - 10,+14,1.84
-IEM Rio Major 2022,"Rio de Janeiro, Brazil",6586,05/11/22,Vitality,Natus Vincere,mrg,31 - 31,0,1.03
+La Coupe 3 Paris 2022,"Paris",6892,20/11/22,Prodigy,GenOne,inf,22 - 16,+6,1.21
+La Coupe 3 Paris 2022,"Paris",6892,20/11/22,Prodigy,GenOne,anc,21 - 16,+5,1.28
+La Coupe 3 Paris 2022,"Paris",6892,20/11/22,Prodigy,The Prodigies,anc,21 - 15,+6,1.73
+La Coupe 3 Paris 2022,"Paris",6892,20/11/22,Prodigy,LDLC,vtg,21 - 20,+1,1.22
+IEM Rio Major 2022,"Rio de Janeiro",6586,07/11/22,Vitality,ENCE,nuke,18 - 23,-5,0.80
+IEM Rio Major 2022,"Rio de Janeiro",6586,07/11/22,Vitality,ENCE,vtg,22 - 19,+3,1.12
+IEM Rio Major 2022,"Rio de Janeiro",6586,06/11/22,Vitality,MOUZ,mrg,24 - 20,+4,1.00
+IEM Rio Major 2022,"Rio de Janeiro",6586,06/11/22,Vitality,FaZe,inf,24 - 10,+14,1.84
+IEM Rio Major 2022,"Rio de Janeiro",6586,05/11/22,Vitality,Natus Vincere,mrg,31 - 31,0,1.03
 IEM Rio Major 2022 Challengers Stage,Rio de Janeiro,6588,03/11/22,Vitality,OG,d2,27 - 12,+15,1.86
 IEM Rio Major 2022 Challengers Stage,Rio de Janeiro,6588,03/11/22,Vitality,OG,inf,9 - 10,-1,1.01
 IEM Rio Major 2022 Challengers Stage,Rio de Janeiro,6588,03/11/22,Vitality,OG,vtg,24 - 19,+5,1.19
@@ -593,434 +593,434 @@ IEM Rio Major 2022 Challengers Stage,Rio de Janeiro,6588,02/11/22,Vitality,Grayh
 IEM Rio Major 2022 Challengers Stage,Rio de Janeiro,6588,01/11/22,Vitality,Outsiders,ovp,28 - 18,+10,1.61
 IEM Rio Major 2022 Challengers Stage,Rio de Janeiro,6588,01/11/22,Vitality,GamerLegion,vtg,18 - 21,-3,0.99
 IEM Rio Major 2022 Challengers Stage,Rio de Janeiro,6588,31/10/22,Vitality,Imperial,inf,25 - 14,+11,1.49
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,09/10/22,Vitality,HEROIC,mrg,10 - 16,-6,0.74
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,09/10/22,Vitality,HEROIC,inf,34 - 26,+8,1.38
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,09/10/22,Vitality,HEROIC,ovp,13 - 18,-5,0.76
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,08/10/22,Vitality,MOUZ,vtg,25 - 15,+10,1.57
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,08/10/22,Vitality,MOUZ,mrg,23 - 11,+12,1.76
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,08/10/22,Vitality,MOUZ,inf,23 - 17,+6,1.11
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,06/10/22,Vitality,Monte,d2,25 - 7,+18,1.94
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,05/10/22,Vitality,BIG,d2,23 - 19,+4,1.29
-IEM Road to Rio 2022 Europe RMR B,Malta,6714,04/10/22,Vitality,FANTASY,d2,26 - 9,+17,1.91
-ESL Pro League Season 16,Malta,6141,02/10/22,Vitality,Liquid,vtg,25 - 16,+9,1.51
-ESL Pro League Season 16,Malta,6141,02/10/22,Vitality,Liquid,ovp,35 - 23,+12,1.51
-ESL Pro League Season 16,Malta,6141,02/10/22,Vitality,Liquid,mrg,51 - 32,+19,1.54
-ESL Pro League Season 16,Malta,6141,02/10/22,Vitality,Liquid,d2,19 - 11,+8,1.32
-ESL Pro League Season 16,Malta,6141,02/10/22,Vitality,Liquid,inf,13 - 11,+2,0.96
-ESL Pro League Season 16,Malta,6141,01/10/22,Vitality,G2,inf,28 - 22,+6,1.29
-ESL Pro League Season 16,Malta,6141,01/10/22,Vitality,G2,mrg,24 - 10,+14,1.61
-ESL Pro League Season 16,Malta,6141,30/09/22,Vitality,Outsiders,d2,30 - 15,+15,1.42
-ESL Pro League Season 16,Malta,6141,30/09/22,Vitality,Outsiders,mrg,26 - 17,+9,1.30
-ESL Pro League Season 16,Malta,6141,04/09/22,Vitality,Spirit,vtg,20 - 13,+7,1.22
-ESL Pro League Season 16,Malta,6141,04/09/22,Vitality,Spirit,nuke,29 - 8,+21,2.30
-ESL Pro League Season 16,Malta,6141,03/09/22,Vitality,Natus Vincere,ovp,28 - 14,+14,1.51
-ESL Pro League Season 16,Malta,6141,03/09/22,Vitality,Natus Vincere,mrg,22 - 17,+5,1.17
-ESL Pro League Season 16,Malta,6141,03/09/22,Vitality,Natus Vincere,inf,25 - 17,+8,1.44
-ESL Pro League Season 16,Malta,6141,02/09/22,Vitality,fnatic,mrg,29 - 12,+17,1.72
-ESL Pro League Season 16,Malta,6141,02/09/22,Vitality,fnatic,inf,20 - 18,+2,1.15
-ESL Pro League Season 16,Malta,6141,02/09/22,Vitality,fnatic,nuke,15 - 19,-4,1.07
-ESL Pro League Season 16,Malta,6141,01/09/22,Vitality,Ninjas in Pyjamas,vtg,20 - 13,+7,1.37
-ESL Pro League Season 16,Malta,6141,01/09/22,Vitality,Ninjas in Pyjamas,nuke,27 - 13,+14,1.55
-ESL Pro League Season 16,Malta,6141,31/08/22,Vitality,Endpoint,inf,12 - 12,0,1.09
-ESL Pro League Season 16,Malta,6141,31/08/22,Vitality,Endpoint,vtg,38 - 16,+22,2.02
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,28/08/22,Vitality,G2,mrg,26 - 20,+6,1.18
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,28/08/22,Vitality,G2,d2,22 - 17,+5,1.31
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,28/08/22,Vitality,G2,vtg,27 - 16,+11,1.53
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,27/08/22,Vitality,Natus Vincere,mrg,20 - 14,+6,1.19
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,27/08/22,Vitality,Natus Vincere,inf,10 - 16,-6,0.92
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,26/08/22,Vitality,G2,inf,13 - 10,+3,1.07
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,26/08/22,Vitality,G2,nuke,17 - 16,+1,0.98
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,26/08/22,Vitality,G2,vtg,18 - 8,+10,1.47
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,19/08/22,Vitality,Astralis,mrg,22 - 24,-2,1.08
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,19/08/22,Vitality,Ninjas in Pyjamas,inf,30 - 18,+12,1.53
-BLAST Premier Fall Groups 2022,"Copenhagen, Denmark",6346,19/08/22,Vitality,OG,d2,27 - 13,+14,1.68
-IEM Cologne 2022,"Cologne, Germany",6140,09/07/22,Vitality,MOUZ,nuke,19 - 24,-5,1.02
-IEM Cologne 2022,"Cologne, Germany",6140,09/07/22,Vitality,MOUZ,ovp,16 - 15,+1,1.09
-IEM Cologne 2022,"Cologne, Germany",6140,09/07/22,Vitality,MOUZ,inf,32 - 13,+19,1.77
-IEM Cologne 2022,"Cologne, Germany",6140,08/07/22,Vitality,Movistar Riders,nuke,22 - 16,+6,1.25
-IEM Cologne 2022,"Cologne, Germany",6140,08/07/22,Vitality,Movistar Riders,vtg,21 - 10,+11,1.79
-IEM Cologne 2022,"Cologne, Germany",6140,08/07/22,Vitality,Movistar Riders,mrg,11 - 13,-2,0.99
-IEM Cologne 2022,"Cologne, Germany",6140,07/07/22,Vitality,ENCE,mrg,17 - 10,+7,1.44
-IEM Cologne 2022,"Cologne, Germany",6140,07/07/22,Vitality,ENCE,d2,29 - 17,+12,1.53
-IEM Cologne 2022,"Cologne, Germany",6140,07/07/22,Vitality,ENCE,nuke,16 - 16,0,1.08
-IEM Cologne 2022 Play-in,"Cologne, Germany",6503,06/07/22,Vitality,Sprout,ovp,17 - 12,+5,1.17
-IEM Cologne 2022 Play-in,"Cologne, Germany",6503,06/07/22,Vitality,Sprout,d2,18 - 12,+6,1.22
-IEM Cologne 2022 Play-in,"Cologne, Germany",6503,06/07/22,Vitality,Sprout,vtg,25 - 28,-3,1.00
-IEM Cologne 2022 Play-in,"Cologne, Germany",6503,05/07/22,Vitality,Movistar Riders,ovp,12 - 16,-4,0.87
-IEM Cologne 2022 Play-in,"Cologne, Germany",6503,05/07/22,Vitality,Movistar Riders,vtg,16 - 17,-1,1.06
-IEM Cologne 2022 Play-in,"Cologne, Germany",6503,05/07/22,Vitality,TYLOO,ovp,21 - 16,+5,1.33
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,19/06/22,Vitality,Natus Vincere,ovp,12 - 16,-4,0.87
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,19/06/22,Vitality,Natus Vincere,mrg,20 - 16,+4,1.22
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,18/06/22,Vitality,G2,nuke,23 - 15,+8,1.35
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,18/06/22,Vitality,G2,inf,13 - 17,-4,0.85
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,18/06/22,Vitality,G2,d2,23 - 16,+7,1.40
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,17/06/22,Vitality,ENCE,nuke,33 - 20,+13,1.48
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,17/06/22,Vitality,ENCE,ovp,21 - 13,+8,1.31
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,16/06/22,Vitality,paiN,ovp,15 - 8,+7,1.50
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,16/06/22,Vitality,paiN,d2,22 - 18,+4,1.24
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,16/06/22,Vitality,paiN,nuke,20 - 7,+13,1.81
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,15/06/22,Vitality,G2,mrg,19 - 19,0,1.05
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,15/06/22,Vitality,G2,inf,12 - 16,-4,0.80
-BLAST Premier Spring Final 2022,"Lisbon, Portugal",6345,15/06/22,Vitality,G2,d2,27 - 12,+15,1.64
-IEM Dallas 2022,"Dallas, TX, United States",6138,01/06/22,Vitality,G2,inf,18 - 24,-6,0.89
-IEM Dallas 2022,"Dallas, TX, United States",6138,01/06/22,Vitality,G2,d2,20 - 17,+3,1.12
-IEM Dallas 2022,"Dallas, TX, United States",6138,31/05/22,Vitality,MOUZ,mrg,19 - 11,+8,1.36
-IEM Dallas 2022,"Dallas, TX, United States",6138,31/05/22,Vitality,MOUZ,inf,26 - 14,+12,1.50
-IEM Dallas 2022,"Dallas, TX, United States",6138,31/05/22,Vitality,FaZe,nuke,22 - 18,+4,1.24
-IEM Dallas 2022,"Dallas, TX, United States",6138,31/05/22,Vitality,FaZe,d2,21 - 17,+4,1.10
-IEM Dallas 2022,"Dallas, TX, United States",6138,30/05/22,Vitality,Astralis,vtg,32 - 16,+16,1.67
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,17/05/22,Vitality,HEROIC,inf,23 - 20,+3,1.25
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,17/05/22,Vitality,HEROIC,ovp,15 - 14,+1,0.95
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,17/05/22,Vitality,HEROIC,mrg,14 - 17,-3,1.01
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,16/05/22,Vitality,BIG,nuke,38 - 24,+14,1.57
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,16/05/22,Vitality,BIG,vtg,31 - 27,+4,1.09
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,16/05/22,Vitality,BIG,mrg,24 - 13,+11,1.54
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,15/05/22,Vitality,Liquid,d2,21 - 13,+8,1.27
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,15/05/22,Vitality,Liquid,mrg,22 - 13,+9,1.44
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,14/05/22,Vitality,Outsiders,mrg,16 - 18,-2,0.88
-PGL Major Antwerp 2022,"Antwerp, Belgium",6372,14/05/22,Vitality,Ninjas in Pyjamas,ovp,11 - 14,-3,0.94
-PGL Major Antwerp 2022 Challengers Stage,"Antwerp, Belgium",6384,10/05/22,Vitality,FORZE,mrg,16 - 13,+3,1.13
-PGL Major Antwerp 2022 Challengers Stage,"Antwerp, Belgium",6384,10/05/22,Vitality,FORZE,d2,22 - 13,+9,1.32
-PGL Major Antwerp 2022 Challengers Stage,"Antwerp, Belgium",6384,10/05/22,Vitality,FORZE,nuke,22 - 18,+4,1.32
-PGL Major Antwerp 2022 Challengers Stage,"Antwerp, Belgium",6384,09/05/22,Vitality,Astralis,mrg,24 - 11,+13,1.72
-PGL Major Antwerp 2022 Challengers Stage,"Antwerp, Belgium",6384,09/05/22,Vitality,Complexity,inf,11 - 0,+11,1.58
-PGL Major Antwerp 2022 Europe RMR A,"Bucharest, Romania",6381,20/04/22,Vitality,MOUZ,mrg,26 - 18,+8,1.40
-PGL Major Antwerp 2022 Europe RMR A,"Bucharest, Romania",6381,20/04/22,Vitality,MOUZ,d2,30 - 12,+18,1.89
-PGL Major Antwerp 2022 Europe RMR A,"Bucharest, Romania",6381,20/04/22,Vitality,MOUZ,nuke,22 - 24,-2,1.11
-PGL Major Antwerp 2022 Europe RMR A,"Bucharest, Romania",6381,19/04/22,Vitality,Natus Vincere,mrg,22 - 19,+3,1.11
-PGL Major Antwerp 2022 Europe RMR A,"Bucharest, Romania",6381,19/04/22,Vitality,Natus Vincere,inf,23 - 20,+3,1.14
-PGL Major Antwerp 2022 Europe RMR A,"Bucharest, Romania",6381,18/04/22,Vitality,Eternal Fire,d2,18 - 12,+6,1.20
-PGL Major Antwerp 2022 Europe RMR A,"Bucharest, Romania",6381,17/04/22,Vitality,FaZe,mrg,23 - 19,+4,1.13
-PGL Major Antwerp 2022 Europe RMR A,"Bucharest, Romania",6381,17/04/22,Vitality,Dignitas,vtg,21 - 8,+13,1.66
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,20/03/22,Vitality,Outsiders,inf,21 - 16,+5,1.22
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,20/03/22,Vitality,Outsiders,d2,29 - 12,+17,1.82
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,19/03/22,Vitality,FaZe,d2,7 - 17,-10,0.36
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,19/03/22,Vitality,FaZe,mrg,20 - 16,+4,1.22
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,18/03/22,Vitality,FURIA,nuke,22 - 20,+2,0.95
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,18/03/22,Vitality,FURIA,inf,14 - 15,-1,1.05
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,18/03/22,Vitality,FURIA,vtg,11 - 17,-6,0.68
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,17/03/22,Vitality,ENCE,d2,12 - 18,-6,0.73
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,17/03/22,Vitality,ENCE,mrg,17 - 14,+3,1.03
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,16/03/22,Vitality,Sprout,inf,38 - 21,+17,1.46
-ESL Pro League Season 15,"Düsseldorf, Germany",6137,16/03/22,Vitality,Sprout,d2,20 - 15,+5,1.39
-IEM Katowice 2022,"Katowice, Poland",6136,19/02/22,Vitality,Gambit,inf,19 - 16,+3,1.17
-IEM Katowice 2022,"Katowice, Poland",6136,19/02/22,Vitality,Gambit,mrg,3 - 18,-15,0.32
-IEM Katowice 2022,"Katowice, Poland",6136,18/02/22,Vitality,HEROIC,inf,20 - 28,-8,0.86
-IEM Katowice 2022,"Katowice, Poland",6136,18/02/22,Vitality,HEROIC,mrg,19 - 19,0,0.99
-IEM Katowice 2022,"Katowice, Poland",6136,17/02/22,Vitality,MOUZ,nuke,27 - 15,+12,1.49
-IEM Katowice 2022,"Katowice, Poland",6136,17/02/22,Vitality,MOUZ,inf,28 - 24,+4,1.17
-IEM Katowice 2022,"Katowice, Poland",6136,17/02/22,Vitality,MOUZ,vtg,42 - 21,+21,1.59
-BLAST Premier World Final 2021,"Copenhagen, Denmark",5608,19/12/21,Vitality,Natus Vincere,d2,9 - 16,-7,0.60
-BLAST Premier World Final 2021,"Copenhagen, Denmark",5608,19/12/21,Vitality,Natus Vincere,nuke,19 - 20,-1,1.03
-BLAST Premier World Final 2021,"Copenhagen, Denmark",5608,18/12/21,Vitality,Gambit,d2,30 - 25,+5,1.24
-BLAST Premier World Final 2021,"Copenhagen, Denmark",5608,18/12/21,Vitality,Gambit,vtg,28 - 18,+10,1.55
-BLAST Premier World Final 2021,"Copenhagen, Denmark",5608,16/12/21,Vitality,G2,mrg,21 - 17,+4,1.18
-BLAST Premier World Final 2021,"Copenhagen, Denmark",5608,16/12/21,Vitality,G2,nuke,21 - 13,+8,1.39
-BLAST Premier World Final 2021,"Copenhagen, Denmark",5608,15/12/21,Vitality,Astralis,mrg,29 - 8,+21,2.25
-BLAST Premier World Final 2021,"Copenhagen, Denmark",5608,15/12/21,Vitality,Astralis,nuke,23 - 5,+18,1.92
-IEM Winter 2021,"Stockholm, Sweden",5730,12/12/21,Vitality,Ninjas in Pyjamas,nuke,20 - 15,+5,1.26
-IEM Winter 2021,"Stockholm, Sweden",5730,12/12/21,Vitality,Ninjas in Pyjamas,d2,21 - 12,+9,1.27
-IEM Winter 2021,"Stockholm, Sweden",5730,12/12/21,Vitality,Ninjas in Pyjamas,inf,29 - 15,+14,1.74
-IEM Winter 2021,"Stockholm, Sweden",5730,11/12/21,Vitality,Virtus.pro,vtg,24 - 14,+10,1.38
-IEM Winter 2021,"Stockholm, Sweden",5730,11/12/21,Vitality,Virtus.pro,mrg,21 - 19,+2,1.02
-IEM Winter 2021,"Stockholm, Sweden",5730,05/12/21,Vitality,Gambit,mrg,36 - 19,+17,1.61
-IEM Winter 2021,"Stockholm, Sweden",5730,05/12/21,Vitality,Gambit,vtg,21 - 22,-1,1.17
-IEM Winter 2021,"Stockholm, Sweden",5730,05/12/21,Vitality,Gambit,d2,16 - 11,+5,1.40
-IEM Winter 2021,"Stockholm, Sweden",5730,04/12/21,Vitality,G2,inf,12 - 20,-8,0.81
-IEM Winter 2021,"Stockholm, Sweden",5730,04/12/21,Vitality,G2,mrg,26 - 14,+12,1.34
-IEM Winter 2021,"Stockholm, Sweden",5730,04/12/21,Vitality,G2,vtg,22 - 20,+2,1.02
-IEM Winter 2021,"Stockholm, Sweden",5730,02/12/21,Vitality,Ninjas in Pyjamas,mrg,17 - 14,+3,1.07
-IEM Winter 2021,"Stockholm, Sweden",5730,02/12/21,Vitality,Ninjas in Pyjamas,inf,29 - 11,+18,2.13
-IEM Winter 2021,"Stockholm, Sweden",5730,02/12/21,Vitality,MOUZ,ovp,24 - 26,-2,0.97
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,28/11/21,Vitality,Natus Vincere,inf,20 - 16,+4,1.18
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,28/11/21,Vitality,Natus Vincere,nuke,21 - 14,+7,1.53
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,28/11/21,Vitality,Natus Vincere,mrg,22 - 20,+2,1.13
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,28/11/21,Vitality,Astralis,mrg,22 - 12,+10,1.48
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,28/11/21,Vitality,Astralis,inf,29 - 13,+16,1.61
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,28/11/21,Vitality,Astralis,nuke,27 - 15,+12,1.55
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,27/11/21,Vitality,Natus Vincere,nuke,15 - 17,-2,1.00
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,27/11/21,Vitality,Natus Vincere,inf,13 - 20,-7,0.84
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,25/11/21,Vitality,Astralis,inf,23 - 13,+10,1.53
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,25/11/21,Vitality,Astralis,d2,24 - 19,+5,1.25
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,25/11/21,Vitality,Astralis,nuke,37 - 21,+16,1.45
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,24/11/21,Vitality,Liquid,d2,24 - 10,+14,1.64
-BLAST Premier Fall Final 2021,"Copenhagen, Denmark",5607,24/11/21,Vitality,Liquid,mrg,25 - 15,+10,1.54
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,05/11/21,Vitality,Natus Vincere,nuke,25 - 21,+4,1.27
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,05/11/21,Vitality,Natus Vincere,d2,19 - 19,0,1.08
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,02/11/21,Vitality,Entropiq,d2,24 - 12,+12,1.77
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,02/11/21,Vitality,Entropiq,ovp,23 - 17,+6,1.31
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,02/11/21,Vitality,Entropiq,mrg,27 - 15,+12,1.48
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,01/11/21,Vitality,Astralis,d2,31 - 14,+17,1.71
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,01/11/21,Vitality,Astralis,vtg,22 - 20,+2,1.23
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,01/11/21,Vitality,Astralis,nuke,29 - 12,+17,1.62
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,31/10/21,Vitality,Evil Geniuses,d2,22 - 19,+3,1.23
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,31/10/21,Vitality,Evil Geniuses,vtg,20 - 11,+9,1.58
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,31/10/21,Vitality,Evil Geniuses,inf,21 - 20,+1,1.03
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,30/10/21,Vitality,HEROIC,ovp,15 - 18,-3,0.97
-PGL Major Stockholm 2021,"Stockholm, Sweden",4866,30/10/21,Vitality,Virtus.pro,inf,19 - 21,-2,0.98
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,10/10/21,Vitality,Astralis,vtg,13 - 9,+4,1.16
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,10/10/21,Vitality,Astralis,nuke,30 - 9,+21,2.14
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,09/10/21,Vitality,Ninjas in Pyjamas,inf,11 - 17,-6,0.62
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,09/10/21,Vitality,Ninjas in Pyjamas,ovp,25 - 18,+7,1.32
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,09/10/21,Vitality,Ninjas in Pyjamas,nuke,22 - 10,+12,1.65
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,07/10/21,Vitality,Copenhagen Flames,vtg,24 - 21,+3,1.19
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,07/10/21,Vitality,Copenhagen Flames,d2,27 - 15,+12,1.52
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,03/10/21,Vitality,Dignitas,inf,19 - 12,+7,1.25
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,02/10/21,Vitality,ENCE,mrg,18 - 17,+1,1.09
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,01/10/21,Vitality,OG,mrg,21 - 12,+9,1.42
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,30/09/21,Vitality,Sprout,vtg,30 - 19,+11,1.67
-IEM Fall 2021 Europe,"Stockholm, Sweden",5729,29/09/21,Vitality,MAD Lions,inf,11 - 8,+3,1.44
-IEM Cologne 2021,"Cologne, Germany",5469,11/07/21,Vitality,FaZe,d2,22 - 17,+5,1.20
-IEM Cologne 2021,"Cologne, Germany",5469,11/07/21,Vitality,FaZe,mrg,17 - 19,-2,0.91
-IEM Cologne 2021,"Cologne, Germany",5469,10/07/21,Vitality,Natus Vincere,mrg,24 - 18,+6,1.27
-IEM Cologne 2021,"Cologne, Germany",5469,10/07/21,Vitality,Natus Vincere,nuke,13 - 15,-2,0.91
-IEM Cologne 2021,"Cologne, Germany",5469,10/07/21,Vitality,Natus Vincere,ovp,22 - 17,+5,1.20
-IEM Cologne 2021,"Cologne, Germany",5469,08/07/21,Vitality,FURIA,nuke,18 - 18,0,0.96
-IEM Cologne 2021,"Cologne, Germany",5469,08/07/21,Vitality,FURIA,ovp,26 - 15,+11,1.43
-IEM Cologne 2021 Play-in,"Cologne, Germany",5898,06/07/21,Vitality,Spirit,nuke,22 - 17,+5,1.37
-IEM Cologne 2021 Play-in,"Cologne, Germany",5898,06/07/21,Vitality,Spirit,mrg,25 - 18,+7,1.26
-IEM Cologne 2021 Play-in,"Cologne, Germany",5898,06/07/21,Vitality,Spirit,d2,21 - 17,+4,1.28
-IEM Cologne 2021 Play-in,"Cologne, Germany",5898,06/07/21,Vitality,Renegades,ovp,22 - 9,+13,1.79
-IEM Katowice 2020,"Katowice, Poland",4901,26/02/20,Vitality,FaZe,inf,23 - 15,+8,1.39
-IEM Katowice 2020,"Katowice, Poland",4901,26/02/20,Vitality,FaZe,nuke,17 - 16,+1,1.09
-IEM Katowice 2020,"Katowice, Poland",4901,26/02/20,Vitality,FaZe,mrg,32 - 16,+16,1.84
-IEM Katowice 2020,"Katowice, Poland",4901,25/02/20,Vitality,Astralis,vtg,29 - 30,-1,1.11
-IEM Katowice 2020,"Katowice, Poland",4901,25/02/20,Vitality,Astralis,ovp,9 - 17,-8,0.71
-IEM Katowice 2020,"Katowice, Poland",4901,24/02/20,Vitality,Ninjas in Pyjamas,nuke,22 - 15,+7,1.29
-IEM Katowice 2020,"Katowice, Poland",4901,24/02/20,Vitality,Ninjas in Pyjamas,vtg,23 - 19,+4,1.31
-BLAST Premier Spring Series 2020,"London, United Kingdom",5138,09/02/20,Vitality,Natus Vincere,d2,17 - 17,0,1.18
-BLAST Premier Spring Series 2020,"London, United Kingdom",5138,09/02/20,Vitality,Natus Vincere,inf,14 - 16,-2,0.91
-BLAST Premier Spring Series 2020,"London, United Kingdom",5138,08/02/20,Vitality,Complexity,inf,17 - 16,+1,1.13
-BLAST Premier Spring Series 2020,"London, United Kingdom",5138,08/02/20,Vitality,Complexity,mrg,16 - 18,-2,0.98
-BLAST Premier Spring Series 2020,"London, United Kingdom",5138,07/02/20,Vitality,Natus Vincere,d2,22 - 13,+9,1.47
-BLAST Premier Spring Series 2020,"London, United Kingdom",5138,07/02/20,Vitality,Natus Vincere,inf,23 - 17,+6,1.45
-EPICENTER 2019,"Moscow, Russia",4979,22/12/19,Vitality,MOUZ,nuke,19 - 14,+5,1.30
-EPICENTER 2019,"Moscow, Russia",4979,22/12/19,Vitality,MOUZ,mrg,33 - 14,+19,1.87
-EPICENTER 2019,"Moscow, Russia",4979,22/12/19,Vitality,MOUZ,inf,35 - 20,+15,1.57
-EPICENTER 2019,"Moscow, Russia",4979,22/12/19,Vitality,HEROIC,inf,25 - 13,+12,1.55
-EPICENTER 2019,"Moscow, Russia",4979,22/12/19,Vitality,HEROIC,vtg,17 - 16,+1,1.01
-EPICENTER 2019,"Moscow, Russia",4979,17/12/19,Vitality,Natus Vincere,nuke,20 - 9,+11,1.74
-EPICENTER 2019,"Moscow, Russia",4979,17/12/19,Vitality,Natus Vincere,inf,25 - 7,+18,1.87
-EPICENTER 2019,"Moscow, Russia",4979,17/12/19,Vitality,Natus Vincere,d2,15 - 16,-1,1.10
-EPICENTER 2019,"Moscow, Russia",4979,17/12/19,Vitality,EHOME,nuke,19 - 8,+11,2.03
-EPICENTER 2019,"Moscow, Russia",4979,17/12/19,Vitality,EHOME,inf,29 - 15,+14,1.63
-IEM Beijing 2019,"Beijing, China",4837,09/11/19,Vitality,100 Thieves,inf,9 - 15,-6,0.84
-IEM Beijing 2019,"Beijing, China",4837,09/11/19,Vitality,100 Thieves,nuke,20 - 26,-6,1.01
-IEM Beijing 2019,"Beijing, China",4837,09/11/19,Vitality,100 Thieves,mrg,23 - 17,+6,1.50
-IEM Beijing 2019,"Beijing, China",4837,08/11/19,Vitality,FaZe,inf,21 - 10,+11,1.91
-IEM Beijing 2019,"Beijing, China",4837,08/11/19,Vitality,FaZe,ovp,15 - 18,-3,0.99
-IEM Beijing 2019,"Beijing, China",4837,08/11/19,Vitality,FaZe,nuke,20 - 16,+4,1.15
-IEM Beijing 2019,"Beijing, China",4837,07/11/19,Vitality,TYLOO,d2,18 - 11,+7,1.55
-IEM Beijing 2019,"Beijing, China",4837,07/11/19,Vitality,TYLOO,inf,24 - 11,+13,1.60
-StarSeries i-League Season 8,"Belek, Turkey",4932,25/10/19,Vitality,FURIA,nuke,27 - 17,+10,1.58
-StarSeries i-League Season 8,"Belek, Turkey",4932,25/10/19,Vitality,FURIA,mrg,15 - 15,0,1.17
-StarSeries i-League Season 8,"Belek, Turkey",4932,24/10/19,Vitality,fnatic,nuke,22 - 22,0,0.99
-StarSeries i-League Season 8,"Belek, Turkey",4932,24/10/19,Vitality,fnatic,inf,14 - 17,-3,0.83
-StarSeries i-League Season 8,"Belek, Turkey",4932,24/10/19,Vitality,Renegades,nuke,21 - 19,+2,1.25
-StarSeries i-League Season 8,"Belek, Turkey",4932,24/10/19,Vitality,Renegades,mrg,10 - 18,-8,0.81
-StarSeries i-League Season 8,"Belek, Turkey",4932,21/10/19,Vitality,North,nuke,25 - 7,+18,1.73
-StarSeries i-League Season 8,"Belek, Turkey",4932,21/10/19,Vitality,North,d2,25 - 18,+7,1.48
-StarSeries i-League Season 8,"Belek, Turkey",4932,21/10/19,Vitality,North,inf,19 - 13,+6,1.44
-StarSeries i-League Season 8,"Belek, Turkey",4932,21/10/19,Vitality,Invictus,mrg,21 - 10,+11,1.94
-StarSeries i-League Season 8,"Belek, Turkey",4932,21/10/19,Vitality,Invictus,nuke,19 - 9,+10,1.78
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,18/11/19,Vitality,HellRaisers,nuke,21 - 14,+7,1.33
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,18/11/19,Vitality,HellRaisers,ovp,15 - 14,+1,1.11
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,17/11/19,Vitality,fnatic,inf,18 - 16,+2,1.03
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,17/11/19,Vitality,fnatic,mrg,18 - 19,-1,1.11
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,17/11/19,Vitality,fnatic,nuke,18 - 15,+3,1.28
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,16/11/19,Vitality,FaZe,mrg,38 - 15,+23,2.01
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,16/11/19,Vitality,FaZe,inf,18 - 17,+1,1.07
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,13/10/19,Vitality,Ninjas in Pyjamas,d2,9 - 18,-9,0.76
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,13/10/19,Vitality,Ninjas in Pyjamas,ovp,14 - 16,-2,1.01
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,12/10/19,Vitality,HEROIC,nuke,26 - 17,+9,1.37
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,12/10/19,Vitality,HEROIC,d2,19 - 17,+2,1.12
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,12/10/19,Vitality,HEROIC,trn,17 - 20,-3,0.92
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,11/10/19,Vitality,Sprout,inf,24 - 11,+13,1.68
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,11/10/19,Vitality,Sprout,d2,14 - 17,-3,0.90
-ESL Pro League Season 10 Europe,"London, United Kingdom",4699,11/10/19,Vitality,Sprout,nuke,17 - 17,0,1.04
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,06/10/19,Vitality,fnatic,mrg,28 - 20,+8,1.46
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,06/10/19,Vitality,fnatic,inf,30 - 21,+9,1.32
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,06/10/19,Vitality,fnatic,d2,24 - 19,+5,1.40
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,05/10/19,Vitality,Natus Vincere,d2,26 - 16,+10,1.51
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,05/10/19,Vitality,Natus Vincere,ovp,19 - 10,+9,1.55
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,05/10/19,Vitality,Natus Vincere,nuke,16 - 17,-1,0.97
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,04/10/19,Vitality,MOUZ,d2,19 - 15,+4,1.23
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,04/10/19,Vitality,MOUZ,inf,21 - 19,+2,1.16
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,04/10/19,Vitality,MOUZ,mrg,27 - 17,+10,1.44
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,03/10/19,Vitality,Astralis,d2,24 - 15,+9,1.16
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,03/10/19,Vitality,Astralis,vtg,22 - 17,+5,1.21
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,01/10/19,Vitality,ENCE,d2,26 - 11,+15,1.65
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,01/10/19,Vitality,ENCE,nuke,26 - 18,+8,1.33
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,01/10/19,Vitality,ENCE,inf,33 - 16,+17,1.54
-DreamHack Masters Malmö 2019,"Malmö, Sweden",4553,01/10/19,Vitality,TYLOO,inf,22 - 11,+11,1.62
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,05/09/19,Vitality,AVANGAR,d2,20 - 17,+3,1.04
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,05/09/19,Vitality,AVANGAR,inf,28 - 12,+16,1.63
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,05/09/19,Vitality,AVANGAR,mrg,12 - 18,-6,0.90
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,31/08/19,Vitality,MOUZ,mrg,21 - 17,+4,1.52
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,31/08/19,Vitality,MOUZ,vtg,19 - 12,+7,1.44
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,30/08/19,Vitality,ENCE,d2,12 - 18,-6,0.72
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,30/08/19,Vitality,ENCE,nuke,15 - 17,-2,0.84
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,29/08/19,Vitality,FaZe,d2,24 - 11,+13,1.65
-StarLadder Major Berlin 2019,"Berlin, Germany",4443,28/08/19,Vitality,North,inf,21 - 15,+6,1.38
-StarLadder Major 2019 Challengers Stage,"Berlin, Germany",4450,26/08/19,Vitality,Grayhound,inf,17 - 18,-1,1.05
-StarLadder Major 2019 Challengers Stage,"Berlin, Germany",4450,26/08/19,Vitality,Grayhound,ovp,27 - 21,+6,1.35
-StarLadder Major 2019 Challengers Stage,"Berlin, Germany",4450,26/08/19,Vitality,Grayhound,d2,23 - 9,+14,1.74
-StarLadder Major 2019 Challengers Stage,"Berlin, Germany",4450,25/08/19,Vitality,HellRaisers,mrg,17 - 12,+5,1.15
-StarLadder Major 2019 Challengers Stage,"Berlin, Germany",4450,25/08/19,Vitality,HellRaisers,inf,31 - 10,+21,1.88
-StarLadder Major 2019 Challengers Stage,"Berlin, Germany",4450,24/08/19,Vitality,DreamEaters,inf,22 - 18,+4,1.08
-StarLadder Major 2019 Challengers Stage,"Berlin, Germany",4450,23/08/19,Vitality,INTZ,mrg,26 - 14,+12,1.79
-StarLadder Major 2019 Challengers Stage,"Berlin, Germany",4450,23/08/19,Vitality,Syman,d2,20 - 19,+1,1.21
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,21/07/19,Vitality,Liquid,ovp,17 - 21,-4,0.91
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,21/07/19,Vitality,Liquid,d2,22 - 20,+2,1.21
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,20/07/19,Vitality,HEROIC,ovp,20 - 15,+5,1.31
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,20/07/19,Vitality,HEROIC,d2,26 - 16,+10,1.57
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,20/07/19,Vitality,HEROIC,mrg,23 - 14,+9,1.61
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,19/07/19,Vitality,Renegades,d2,14 - 12,+2,1.29
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,19/07/19,Vitality,Renegades,mrg,24 - 18,+6,1.23
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,18/07/19,Vitality,HEROIC,nuke,10 - 18,-8,0.61
-IEM Chicago 2019,"Chicago, Illinois, USA",4574,18/07/19,Vitality,HEROIC,ovp,24 - 19,+5,1.21
-ESEA Season 31 Global Challenge,"Dallas, Texas, USA",4504,14/07/19,Vitality,FURIA,inf,11 - 19,-8,0.82
-ESEA Season 31 Global Challenge,"Dallas, Texas, USA",4504,14/07/19,Vitality,FURIA,trn,13 - 20,-7,0.86
-ESEA Season 31 Global Challenge,"Dallas, Texas, USA",4504,13/07/19,Vitality,Spirit,trn,17 - 13,+4,1.27
-ESEA Season 31 Global Challenge,"Dallas, Texas, USA",4504,13/07/19,Vitality,Party Astronauts,inf,17 - 13,+4,1.40
-ESEA MDL Season 31 Europe Finals,"Dallas, Texas, USA",4692,12/07/19,Vitality,Sprout,mrg,23 - 15,+8,1.38
-ESEA MDL Season 31 Europe Finals,"Dallas, Texas, USA",4692,12/07/19,Vitality,Sprout,ovp,30 - 21,+9,1.37
-ESL One Cologne 2019,"Cologne, Germany",4281,07/07/19,Vitality,Liquid,mrg,15 - 18,-3,0.93
-ESL One Cologne 2019,"Cologne, Germany",4281,07/07/19,Vitality,Liquid,inf,26 - 18,+8,1.38
-ESL One Cologne 2019,"Cologne, Germany",4281,07/07/19,Vitality,Liquid,d2,33 - 20,+13,1.28
-ESL One Cologne 2019,"Cologne, Germany",4281,07/07/19,Vitality,Liquid,ovp,13 - 17,-4,0.68
-ESL One Cologne 2019,"Cologne, Germany",4281,06/07/19,Vitality,Astralis,ovp,20 - 12,+8,1.52
-ESL One Cologne 2019,"Cologne, Germany",4281,06/07/19,Vitality,Astralis,inf,30 - 28,+2,1.13
-ESL One Cologne 2019,"Cologne, Germany",4281,06/07/19,Vitality,Astralis,d2,25 - 12,+13,1.59
-ESL One Cologne 2019,"Cologne, Germany",4281,05/07/19,Vitality,NRG,mrg,29 - 12,+17,2.05
-ESL One Cologne 2019,"Cologne, Germany",4281,05/07/19,Vitality,NRG,d2,23 - 9,+14,1.69
-ESL One Cologne 2019,"Cologne, Germany",4281,04/07/19,Vitality,HEROIC,inf,25 - 20,+5,1.20
-ESL One Cologne 2019,"Cologne, Germany",4281,04/07/19,Vitality,HEROIC,ovp,27 - 16,+11,1.46
-ESL One Cologne 2019,"Cologne, Germany",4281,04/07/19,Vitality,fnatic,ovp,32 - 19,+13,1.45
-ESL One Cologne 2019,"Cologne, Germany",4281,04/07/19,Vitality,fnatic,mrg,33 - 20,+13,1.39
-ESL One Cologne 2019,"Cologne, Germany",4281,03/07/19,Vitality,ENCE,inf,18 - 11,+7,1.25
-ESL One Cologne 2019,"Cologne, Germany",4281,03/07/19,Vitality,ENCE,nuke,22 - 18,+4,1.14
-ESL One Cologne 2019,"Cologne, Germany",4281,03/07/19,Vitality,ENCE,ovp,26 - 12,+14,1.72
-ESL One Cologne 2019,"Cologne, Germany",4281,02/07/19,Vitality,Ninjas in Pyjamas,d2,16 - 19,-3,1.00
-ECS Season 7 Finals,"London, United Kingdom",4411,09/06/19,Vitality,FURIA,ovp,25 - 6,+19,2.14
-ECS Season 7 Finals,"London, United Kingdom",4411,09/06/19,Vitality,FURIA,inf,23 - 14,+9,1.56
-ECS Season 7 Finals,"London, United Kingdom",4411,08/06/19,Vitality,NRG,mrg,26 - 12,+14,1.74
-ECS Season 7 Finals,"London, United Kingdom",4411,08/06/19,Vitality,NRG,ovp,36 - 20,+16,1.72
-ECS Season 7 Finals,"London, United Kingdom",4411,07/06/19,Vitality,Complexity,nuke,19 - 15,+4,1.32
-ECS Season 7 Finals,"London, United Kingdom",4411,07/06/19,Vitality,Complexity,d2,24 - 18,+6,1.38
-ECS Season 7 Finals,"London, United Kingdom",4411,06/06/19,Vitality,North,d2,12 - 18,-6,0.82
-ECS Season 7 Finals,"London, United Kingdom",4411,06/06/19,Vitality,North,inf,15 - 15,0,1.00
-ECS Season 7 Finals,"London, United Kingdom",4411,06/06/19,Vitality,North,nuke,21 - 17,+4,1.29
-ECS Season 7 Finals,"London, United Kingdom",4411,06/06/19,Vitality,Complexity,d2,21 - 10,+11,1.33
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,31/05/19,Vitality,FURIA,nuke,15 - 22,-7,0.91
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,31/05/19,Vitality,FURIA,inf,25 - 16,+9,1.69
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,30/05/19,Vitality,North,mrg,19 - 14,+5,1.10
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,30/05/19,Vitality,North,nuke,21 - 13,+8,1.36
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,29/05/19,Vitality,Ninjas in Pyjamas,d2,21 - 17,+4,1.14
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,29/05/19,Vitality,Ninjas in Pyjamas,ovp,16 - 12,+4,1.28
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,29/05/19,Vitality,Lucid Dream,nuke,21 - 3,+18,2.13
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,29/05/19,Vitality,Lucid Dream,d2,20 - 7,+13,1.66
-DreamHack Masters Dallas 2019,"Dallas, Texas, USA",4177,28/05/19,Vitality,North,ovp,21 - 19,+2,1.18
-cs_summit 4,"Los Angeles, California",4566,27/05/19,Vitality,Liquid,ovp,22 - 17,+5,1.30
-cs_summit 4,"Los Angeles, California",4566,27/05/19,Vitality,Liquid,nuke,24 - 10,+14,1.61
-cs_summit 4,"Los Angeles, California",4566,26/05/19,Vitality,ENCE,inf,31 - 22,+9,1.38
-cs_summit 4,"Los Angeles, California",4566,26/05/19,Vitality,ENCE,ovp,37 - 15,+22,2.18
-cs_summit 4,"Los Angeles, California",4566,26/05/19,Vitality,ENCE,mrg,17 - 21,-4,0.81
-cs_summit 4,"Los Angeles, California",4566,26/05/19,Vitality,Renegades,mrg,25 - 20,+5,1.21
-cs_summit 4,"Los Angeles, California",4566,25/05/19,Vitality,Renegades,vtg,21 - 16,+5,1.18
-cs_summit 4,"Los Angeles, California",4566,25/05/19,Vitality,ENCE,nuke,22 - 16,+6,1.52
-cs_summit 4,"Los Angeles, California",4566,25/05/19,Vitality,ENCE,ovp,20 - 11,+9,1.37
-cs_summit 4,"Los Angeles, California",4566,24/05/19,Vitality,Liquid,mrg,34 - 16,+18,1.79
-cs_summit 4,"Los Angeles, California",4566,24/05/19,Vitality,Liquid,nuke,15 - 12,+3,1.46
-cs_summit 4,"Los Angeles, California",4566,24/05/19,Vitality,NRG,inf,17 - 12,+5,1.29
-cs_summit 4,"Los Angeles, California",4566,24/05/19,Vitality,NRG,nuke,31 - 28,+3,1.08
-cs_summit 4,"Los Angeles, California",4566,23/05/19,Vitality,Ghost,ovp,17 - 14,+3,1.09
-cs_summit 4,"Los Angeles, California",4566,23/05/19,Vitality,Ghost,mrg,35 - 27,+8,1.28
-Charleroi Esports,"Charleroi, Belgium",4317,14/04/19,Vitality,Sprout,cch,16 - 9,+7,1.21
-Charleroi Esports,"Charleroi, Belgium",4317,14/04/19,Vitality,Sprout,inf,29 - 13,+16,1.73
-Charleroi Esports,"Charleroi, Belgium",4317,14/04/19,Vitality,G2,cch,20 - 9,+11,1.66
-Charleroi Esports,"Charleroi, Belgium",4317,14/04/19,Vitality,G2,ovp,27 - 22,+5,1.19
-Charleroi Esports,"Charleroi, Belgium",4317,14/04/19,Vitality,G2,nuke,20 - 15,+5,1.08
-Charleroi Esports,"Charleroi, Belgium",4317,12/04/19,Vitality,Sprout,mrg,13 - 13,0,1.09
-Charleroi Esports,"Charleroi, Belgium",4317,12/04/19,Vitality,FrostFire,cch,20 - 13,+7,1.46
-StarSeries i-League Season 7,"Shanghai, China",4240,05/04/19,Vitality,NRG,mrg,26 - 19,+7,1.26
-StarSeries i-League Season 7,"Shanghai, China",4240,05/04/19,Vitality,NRG,ovp,30 - 33,-3,0.97
-StarSeries i-League Season 7,"Shanghai, China",4240,02/04/19,Vitality,Spirit,inf,25 - 17,+8,1.36
-StarSeries i-League Season 7,"Shanghai, China",4240,02/04/19,Vitality,Spirit,d2,15 - 17,-2,1.05
-StarSeries i-League Season 7,"Shanghai, China",4240,02/04/19,Vitality,Spirit,mrg,16 - 17,-1,0.86
-StarSeries i-League Season 7,"Shanghai, China",4240,01/04/19,Vitality,fnatic,nuke,20 - 19,+1,1.11
-StarSeries i-League Season 7,"Shanghai, China",4240,01/04/19,Vitality,fnatic,mrg,17 - 18,-1,1.11
-StarSeries i-League Season 7,"Shanghai, China",4240,31/03/19,Vitality,ENCE,inf,19 - 18,+1,1.22
-StarSeries i-League Season 7,"Shanghai, China",4240,31/03/19,Vitality,ENCE,d2,21 - 9,+12,1.83
-StarSeries i-League Season 7,"Shanghai, China",4240,31/03/19,Vitality,ENCE,mrg,24 - 19,+5,1.27
-StarSeries i-League Season 7,"Shanghai, China",4240,30/03/19,Vitality,BIG,d2,34 - 14,+20,2.13
-StarSeries i-League Season 7,"Shanghai, China",4240,30/03/19,Vitality,BIG,ovp,24 - 20,+4,1.15
-IEM Katowice 2019,"Katowice, Poland",3883,24/02/19,Vitality,Ninjas in Pyjamas,mrg,15 - 19,-4,0.91
-IEM Katowice 2019,"Katowice, Poland",3883,24/02/19,Vitality,Ninjas in Pyjamas,ovp,26 - 16,+10,1.53
-IEM Katowice 2019,"Katowice, Poland",3883,24/02/19,Vitality,Ninjas in Pyjamas,cch,12 - 16,-4,0.95
-IEM Katowice 2019,"Katowice, Poland",3883,22/02/19,Vitality,Renegades,inf,18 - 18,0,0.92
-IEM Katowice 2019,"Katowice, Poland",3883,22/02/19,Vitality,Renegades,cch,17 - 16,+1,1.11
-IEM Katowice 2019,"Katowice, Poland",3883,22/02/19,Vitality,Renegades,d2,12 - 17,-5,0.77
-IEM Katowice 2019,"Katowice, Poland",3883,21/02/19,Vitality,Cloud9,mrg,26 - 21,+5,1.43
-IEM Katowice 2019,"Katowice, Poland",3883,20/02/19,Vitality,Natus Vincere,mrg,32 - 31,+1,1.05
-IEM Katowice 2019,"Katowice, Poland",3883,20/02/19,Vitality,BIG,mrg,27 - 15,+12,1.64
-IEM Katowice 2019 Challengers Stage,"Katowice, Poland",3884,15/02/19,Vitality,ViCi,nuke,24 - 14,+10,1.31
-IEM Katowice 2019 Challengers Stage,"Katowice, Poland",3884,15/02/19,Vitality,ViCi,inf,41 - 30,+11,1.36
-IEM Katowice 2019 Challengers Stage,"Katowice, Poland",3884,14/02/19,Vitality,Vega Squadron,ovp,17 - 4,+13,1.74
-IEM Katowice 2019 Challengers Stage,"Katowice, Poland",3884,13/02/19,Vitality,Grayhound,nuke,33 - 24,+9,1.42
-IEM Katowice 2019 Challengers Stage,"Katowice, Poland",3884,13/02/19,Vitality,TYLOO,inf,15 - 18,-3,0.88
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,20/01/19,Vitality,North,inf,22 - 14,+8,1.47
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,20/01/19,Vitality,North,nuke,25 - 7,+18,1.97
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,20/01/19,Vitality,North,mrg,22 - 17,+5,1.34
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,19/01/19,Vitality,Valiance,inf,32 - 19,+13,1.78
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,19/01/19,Vitality,Valiance,d2,20 - 17,+3,1.21
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,19/01/19,Vitality,Valiance,cch,19 - 18,+1,1.23
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,18/01/19,Vitality,North,d2,10 - 18,-8,0.72
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,18/01/19,Vitality,North,nuke,28 - 21,+7,1.34
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,16/01/19,Vitality,Valiance,d2,18 - 7,+11,1.62
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,16/01/19,Vitality,Valiance,inf,17 - 18,-1,0.99
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,16/01/19,Vitality,Valiance,mrg,37 - 23,+14,1.55
-Europe Minor - IEM Katowice 2019,"Katowice, Poland",4208,16/01/19,Vitality,OpTic,d2,22 - 12,+10,1.56
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,19/11/18,Vitality,Luminosity,ovp,19 - 11,+8,1.41
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,19/11/18,Vitality,Luminosity,mrg,18 - 6,+12,1.58
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,18/11/18,Vitality,Complexity,nuke,31 - 11,+20,2.07
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,18/11/18,Vitality,Complexity,trn,31 - 10,+21,2.16
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,18/11/18,Vitality,Complexity,d2,19 - 19,0,0.98
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,18/11/18,Vitality,Rogue,ovp,27 - 17,+10,1.76
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,18/11/18,Vitality,Rogue,nuke,17 - 11,+6,1.38
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,17/11/18,Vitality,Fragsters,cch,18 - 15,+3,1.30
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,17/11/18,Vitality,Fragsters,d2,21 - 10,+11,1.57
-DreamHack Open Atlanta 2018,"Atlanta, Georgia, USA",3429,16/11/18,Vitality,Ghost,cch,20 - 21,-1,1.09
-FACEIT Major 2018 Showmatch,"London, United Kingdom",4088,23/09/18,Team rain,Team smooya,mrg,26 - 23,+3,1.11
-ESL National Championship France Summer 2018,"Paris, France",3855,30/06/18,aAa,LDLC,inf,21 - 12,+9,1.53
-ESL National Championship France Summer 2018,"Paris, France",3855,30/06/18,aAa,LDLC,trn,22 - 13,+9,1.70
-ESL National Championship France Summer 2018,"Paris, France",3855,30/06/18,aAa,LDLC,nuke,27 - 20,+7,1.46
-ESL National Championship France Summer 2018,"Paris, France",3855,30/06/18,aAa,MAXISAUCISSE,inf,37 - 14,+23,2.10
-ESL National Championship France Summer 2018,"Paris, France",3855,30/06/18,aAa,MAXISAUCISSE,trn,33 - 15,+18,1.73
-ESL National Championship France Winter 2017,"Paris, France",3448,16/12/17,aAa,EnVyUs Academy,trn,23 - 22,+1,1.14
-ESL National Championship France Winter 2017,"Paris, France",3448,16/12/17,aAa,EnVyUs Academy,inf,23 - 16,+7,1.61
-ESL National Championship France Winter 2017,"Paris, France",3448,16/12/17,aAa,EnVyUs Academy,nuke,13 - 16,-3,0.90
-ESL National Championship France Winter 2017,"Paris, France",3448,16/12/17,aAa,Vexed,cbl,26 - 20,+6,1.44
-ESL National Championship France Winter 2017,"Paris, France",3448,16/12/17,aAa,Vexed,ovp,13 - 18,-5,1.00
-ESL National Championship France Winter 2017,"Paris, France",3448,16/12/17,aAa,Vexed,inf,30 - 18,+12,1.55
-ESWC 2017,"Paris, France",3232,03/11/17,aAa,ARES,cch,35 - 24,+11,1.43
-ESWC 2017,"Paris, France",3232,03/11/17,aAa,ARES,ovp,26 - 5,+21,2.18
-ESWC 2017,"Paris, France",3232,03/11/17,aAa,LDLC,inf,26 - 21,+5,1.42
-ESWC 2017,"Paris, France",3232,03/11/17,aAa,LDLC,nuke,11 - 14,-3,0.71
-ESWC 2017,"Paris, France",3232,02/11/17,aAa,ARES,nuke,23 - 15,+8,1.78
-ESWC 2017,"Paris, France",3232,02/11/17,aAa,ARES,inf,14 - 22,-8,0.76
-ESWC 2017,"Paris, France",3232,02/11/17,aAa,BIG,cbl,12 - 17,-5,0.84
-ESWC 2017,"Paris, France",3232,02/11/17,aAa,BIG,ovp,32 - 22,+10,1.60
-ESL National Championship France Summer 2017,"Paris, France",2940,01/07/17,WySix,EnVyUs Academy,mrg,22 - 17,+5,1.43
-ESL National Championship France Summer 2017,"Paris, France",2940,01/07/17,WySix,EnVyUs Academy,trn,47 - 23,+24,1.95
-ESL National Championship France Summer 2017,"Paris, France",2940,01/07/17,WySix,MAXISAUCISSE,nuke,25 - 18,+7,1.32
-ESL National Championship France Summer 2017,"Paris, France",2940,01/07/17,WySix,MAXISAUCISSE,mrg,25 - 25,0,1.19
-ESL National Championship France Summer 2017,"Paris, France",2940,01/07/17,WySix,MAXISAUCISSE,cbl,29 - 11,+18,2.57
-Epsilan 14,"Champagne-au-Mont-d'Or, France",2707,05/03/17,WySix,Epsilon,mrg,29 - 27,+2,1.03
-Epsilan 14,"Champagne-au-Mont-d'Or, France",2707,05/03/17,WySix,LCM,cbl,24 - 12,+12,1.77
-Epsilan 14,"Champagne-au-Mont-d'Or, France",2707,05/03/17,WySix,BlackBelts,cbl,20 - 4,+16,1.99
-Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux, France",2689,12/02/17,E-Corp,Sector One,ovp,20 - 20,0,1.14
-Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux, France",2689,12/02/17,E-Corp,Sector One,cch,11 - 18,-7,0.69
-Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux, France",2689,12/02/17,E-Corp,Sector One,mrg,26 - 13,+13,1.60
-Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux, France",2689,12/02/17,E-Corp,Sector One,cch,29 - 18,+11,1.84
-Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux, France",2689,12/02/17,E-Corp,Sector One,nuke,27 - 28,-1,1.18
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,09/10/22,Vitality,HEROIC,mrg,10 - 16,-6,0.74
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,09/10/22,Vitality,HEROIC,inf,34 - 26,+8,1.38
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,09/10/22,Vitality,HEROIC,ovp,13 - 18,-5,0.76
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,08/10/22,Vitality,MOUZ,vtg,25 - 15,+10,1.57
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,08/10/22,Vitality,MOUZ,mrg,23 - 11,+12,1.76
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,08/10/22,Vitality,MOUZ,inf,23 - 17,+6,1.11
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,06/10/22,Vitality,Monte,d2,25 - 7,+18,1.94
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,05/10/22,Vitality,BIG,d2,23 - 19,+4,1.29
+IEM Road to Rio 2022 Europe RMR B,"Valletta",6714,04/10/22,Vitality,FANTASY,d2,26 - 9,+17,1.91
+ESL Pro League Season 16,"Valletta",6141,02/10/22,Vitality,Liquid,vtg,25 - 16,+9,1.51
+ESL Pro League Season 16,"Valletta",6141,02/10/22,Vitality,Liquid,ovp,35 - 23,+12,1.51
+ESL Pro League Season 16,"Valletta",6141,02/10/22,Vitality,Liquid,mrg,51 - 32,+19,1.54
+ESL Pro League Season 16,"Valletta",6141,02/10/22,Vitality,Liquid,d2,19 - 11,+8,1.32
+ESL Pro League Season 16,"Valletta",6141,02/10/22,Vitality,Liquid,inf,13 - 11,+2,0.96
+ESL Pro League Season 16,"Valletta",6141,01/10/22,Vitality,G2,inf,28 - 22,+6,1.29
+ESL Pro League Season 16,"Valletta",6141,01/10/22,Vitality,G2,mrg,24 - 10,+14,1.61
+ESL Pro League Season 16,"Valletta",6141,30/09/22,Vitality,Outsiders,d2,30 - 15,+15,1.42
+ESL Pro League Season 16,"Valletta",6141,30/09/22,Vitality,Outsiders,mrg,26 - 17,+9,1.30
+ESL Pro League Season 16,"Valletta",6141,04/09/22,Vitality,Spirit,vtg,20 - 13,+7,1.22
+ESL Pro League Season 16,"Valletta",6141,04/09/22,Vitality,Spirit,nuke,29 - 8,+21,2.30
+ESL Pro League Season 16,"Valletta",6141,03/09/22,Vitality,Natus Vincere,ovp,28 - 14,+14,1.51
+ESL Pro League Season 16,"Valletta",6141,03/09/22,Vitality,Natus Vincere,mrg,22 - 17,+5,1.17
+ESL Pro League Season 16,"Valletta",6141,03/09/22,Vitality,Natus Vincere,inf,25 - 17,+8,1.44
+ESL Pro League Season 16,"Valletta",6141,02/09/22,Vitality,fnatic,mrg,29 - 12,+17,1.72
+ESL Pro League Season 16,"Valletta",6141,02/09/22,Vitality,fnatic,inf,20 - 18,+2,1.15
+ESL Pro League Season 16,"Valletta",6141,02/09/22,Vitality,fnatic,nuke,15 - 19,-4,1.07
+ESL Pro League Season 16,"Valletta",6141,01/09/22,Vitality,Ninjas in Pyjamas,vtg,20 - 13,+7,1.37
+ESL Pro League Season 16,"Valletta",6141,01/09/22,Vitality,Ninjas in Pyjamas,nuke,27 - 13,+14,1.55
+ESL Pro League Season 16,"Valletta",6141,31/08/22,Vitality,Endpoint,inf,12 - 12,0,1.09
+ESL Pro League Season 16,"Valletta",6141,31/08/22,Vitality,Endpoint,vtg,38 - 16,+22,2.02
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,28/08/22,Vitality,G2,mrg,26 - 20,+6,1.18
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,28/08/22,Vitality,G2,d2,22 - 17,+5,1.31
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,28/08/22,Vitality,G2,vtg,27 - 16,+11,1.53
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,27/08/22,Vitality,Natus Vincere,mrg,20 - 14,+6,1.19
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,27/08/22,Vitality,Natus Vincere,inf,10 - 16,-6,0.92
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,26/08/22,Vitality,G2,inf,13 - 10,+3,1.07
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,26/08/22,Vitality,G2,nuke,17 - 16,+1,0.98
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,26/08/22,Vitality,G2,vtg,18 - 8,+10,1.47
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,19/08/22,Vitality,Astralis,mrg,22 - 24,-2,1.08
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,19/08/22,Vitality,Ninjas in Pyjamas,inf,30 - 18,+12,1.53
+BLAST Premier Fall Groups 2022,"Copenhagen",6346,19/08/22,Vitality,OG,d2,27 - 13,+14,1.68
+IEM Cologne 2022,"Cologne",6140,09/07/22,Vitality,MOUZ,nuke,19 - 24,-5,1.02
+IEM Cologne 2022,"Cologne",6140,09/07/22,Vitality,MOUZ,ovp,16 - 15,+1,1.09
+IEM Cologne 2022,"Cologne",6140,09/07/22,Vitality,MOUZ,inf,32 - 13,+19,1.77
+IEM Cologne 2022,"Cologne",6140,08/07/22,Vitality,Movistar Riders,nuke,22 - 16,+6,1.25
+IEM Cologne 2022,"Cologne",6140,08/07/22,Vitality,Movistar Riders,vtg,21 - 10,+11,1.79
+IEM Cologne 2022,"Cologne",6140,08/07/22,Vitality,Movistar Riders,mrg,11 - 13,-2,0.99
+IEM Cologne 2022,"Cologne",6140,07/07/22,Vitality,ENCE,mrg,17 - 10,+7,1.44
+IEM Cologne 2022,"Cologne",6140,07/07/22,Vitality,ENCE,d2,29 - 17,+12,1.53
+IEM Cologne 2022,"Cologne",6140,07/07/22,Vitality,ENCE,nuke,16 - 16,0,1.08
+IEM Cologne 2022 Play-in,"Cologne",6503,06/07/22,Vitality,Sprout,ovp,17 - 12,+5,1.17
+IEM Cologne 2022 Play-in,"Cologne",6503,06/07/22,Vitality,Sprout,d2,18 - 12,+6,1.22
+IEM Cologne 2022 Play-in,"Cologne",6503,06/07/22,Vitality,Sprout,vtg,25 - 28,-3,1.00
+IEM Cologne 2022 Play-in,"Cologne",6503,05/07/22,Vitality,Movistar Riders,ovp,12 - 16,-4,0.87
+IEM Cologne 2022 Play-in,"Cologne",6503,05/07/22,Vitality,Movistar Riders,vtg,16 - 17,-1,1.06
+IEM Cologne 2022 Play-in,"Cologne",6503,05/07/22,Vitality,TYLOO,ovp,21 - 16,+5,1.33
+BLAST Premier Spring Final 2022,"Lisbon",6345,19/06/22,Vitality,Natus Vincere,ovp,12 - 16,-4,0.87
+BLAST Premier Spring Final 2022,"Lisbon",6345,19/06/22,Vitality,Natus Vincere,mrg,20 - 16,+4,1.22
+BLAST Premier Spring Final 2022,"Lisbon",6345,18/06/22,Vitality,G2,nuke,23 - 15,+8,1.35
+BLAST Premier Spring Final 2022,"Lisbon",6345,18/06/22,Vitality,G2,inf,13 - 17,-4,0.85
+BLAST Premier Spring Final 2022,"Lisbon",6345,18/06/22,Vitality,G2,d2,23 - 16,+7,1.40
+BLAST Premier Spring Final 2022,"Lisbon",6345,17/06/22,Vitality,ENCE,nuke,33 - 20,+13,1.48
+BLAST Premier Spring Final 2022,"Lisbon",6345,17/06/22,Vitality,ENCE,ovp,21 - 13,+8,1.31
+BLAST Premier Spring Final 2022,"Lisbon",6345,16/06/22,Vitality,paiN,ovp,15 - 8,+7,1.50
+BLAST Premier Spring Final 2022,"Lisbon",6345,16/06/22,Vitality,paiN,d2,22 - 18,+4,1.24
+BLAST Premier Spring Final 2022,"Lisbon",6345,16/06/22,Vitality,paiN,nuke,20 - 7,+13,1.81
+BLAST Premier Spring Final 2022,"Lisbon",6345,15/06/22,Vitality,G2,mrg,19 - 19,0,1.05
+BLAST Premier Spring Final 2022,"Lisbon",6345,15/06/22,Vitality,G2,inf,12 - 16,-4,0.80
+BLAST Premier Spring Final 2022,"Lisbon",6345,15/06/22,Vitality,G2,d2,27 - 12,+15,1.64
+IEM Dallas 2022,"Dallas",6138,01/06/22,Vitality,G2,inf,18 - 24,-6,0.89
+IEM Dallas 2022,"Dallas",6138,01/06/22,Vitality,G2,d2,20 - 17,+3,1.12
+IEM Dallas 2022,"Dallas",6138,31/05/22,Vitality,MOUZ,mrg,19 - 11,+8,1.36
+IEM Dallas 2022,"Dallas",6138,31/05/22,Vitality,MOUZ,inf,26 - 14,+12,1.50
+IEM Dallas 2022,"Dallas",6138,31/05/22,Vitality,FaZe,nuke,22 - 18,+4,1.24
+IEM Dallas 2022,"Dallas",6138,31/05/22,Vitality,FaZe,d2,21 - 17,+4,1.10
+IEM Dallas 2022,"Dallas",6138,30/05/22,Vitality,Astralis,vtg,32 - 16,+16,1.67
+PGL Major Antwerp 2022,"Antwerp",6372,17/05/22,Vitality,HEROIC,inf,23 - 20,+3,1.25
+PGL Major Antwerp 2022,"Antwerp",6372,17/05/22,Vitality,HEROIC,ovp,15 - 14,+1,0.95
+PGL Major Antwerp 2022,"Antwerp",6372,17/05/22,Vitality,HEROIC,mrg,14 - 17,-3,1.01
+PGL Major Antwerp 2022,"Antwerp",6372,16/05/22,Vitality,BIG,nuke,38 - 24,+14,1.57
+PGL Major Antwerp 2022,"Antwerp",6372,16/05/22,Vitality,BIG,vtg,31 - 27,+4,1.09
+PGL Major Antwerp 2022,"Antwerp",6372,16/05/22,Vitality,BIG,mrg,24 - 13,+11,1.54
+PGL Major Antwerp 2022,"Antwerp",6372,15/05/22,Vitality,Liquid,d2,21 - 13,+8,1.27
+PGL Major Antwerp 2022,"Antwerp",6372,15/05/22,Vitality,Liquid,mrg,22 - 13,+9,1.44
+PGL Major Antwerp 2022,"Antwerp",6372,14/05/22,Vitality,Outsiders,mrg,16 - 18,-2,0.88
+PGL Major Antwerp 2022,"Antwerp",6372,14/05/22,Vitality,Ninjas in Pyjamas,ovp,11 - 14,-3,0.94
+PGL Major Antwerp 2022 Challengers Stage,"Antwerp",6384,10/05/22,Vitality,FORZE,mrg,16 - 13,+3,1.13
+PGL Major Antwerp 2022 Challengers Stage,"Antwerp",6384,10/05/22,Vitality,FORZE,d2,22 - 13,+9,1.32
+PGL Major Antwerp 2022 Challengers Stage,"Antwerp",6384,10/05/22,Vitality,FORZE,nuke,22 - 18,+4,1.32
+PGL Major Antwerp 2022 Challengers Stage,"Antwerp",6384,09/05/22,Vitality,Astralis,mrg,24 - 11,+13,1.72
+PGL Major Antwerp 2022 Challengers Stage,"Antwerp",6384,09/05/22,Vitality,Complexity,inf,11 - 0,+11,1.58
+PGL Major Antwerp 2022 Europe RMR A,"Bucharest",6381,20/04/22,Vitality,MOUZ,mrg,26 - 18,+8,1.40
+PGL Major Antwerp 2022 Europe RMR A,"Bucharest",6381,20/04/22,Vitality,MOUZ,d2,30 - 12,+18,1.89
+PGL Major Antwerp 2022 Europe RMR A,"Bucharest",6381,20/04/22,Vitality,MOUZ,nuke,22 - 24,-2,1.11
+PGL Major Antwerp 2022 Europe RMR A,"Bucharest",6381,19/04/22,Vitality,Natus Vincere,mrg,22 - 19,+3,1.11
+PGL Major Antwerp 2022 Europe RMR A,"Bucharest",6381,19/04/22,Vitality,Natus Vincere,inf,23 - 20,+3,1.14
+PGL Major Antwerp 2022 Europe RMR A,"Bucharest",6381,18/04/22,Vitality,Eternal Fire,d2,18 - 12,+6,1.20
+PGL Major Antwerp 2022 Europe RMR A,"Bucharest",6381,17/04/22,Vitality,FaZe,mrg,23 - 19,+4,1.13
+PGL Major Antwerp 2022 Europe RMR A,"Bucharest",6381,17/04/22,Vitality,Dignitas,vtg,21 - 8,+13,1.66
+ESL Pro League Season 15,"Düsseldorf",6137,20/03/22,Vitality,Outsiders,inf,21 - 16,+5,1.22
+ESL Pro League Season 15,"Düsseldorf",6137,20/03/22,Vitality,Outsiders,d2,29 - 12,+17,1.82
+ESL Pro League Season 15,"Düsseldorf",6137,19/03/22,Vitality,FaZe,d2,7 - 17,-10,0.36
+ESL Pro League Season 15,"Düsseldorf",6137,19/03/22,Vitality,FaZe,mrg,20 - 16,+4,1.22
+ESL Pro League Season 15,"Düsseldorf",6137,18/03/22,Vitality,FURIA,nuke,22 - 20,+2,0.95
+ESL Pro League Season 15,"Düsseldorf",6137,18/03/22,Vitality,FURIA,inf,14 - 15,-1,1.05
+ESL Pro League Season 15,"Düsseldorf",6137,18/03/22,Vitality,FURIA,vtg,11 - 17,-6,0.68
+ESL Pro League Season 15,"Düsseldorf",6137,17/03/22,Vitality,ENCE,d2,12 - 18,-6,0.73
+ESL Pro League Season 15,"Düsseldorf",6137,17/03/22,Vitality,ENCE,mrg,17 - 14,+3,1.03
+ESL Pro League Season 15,"Düsseldorf",6137,16/03/22,Vitality,Sprout,inf,38 - 21,+17,1.46
+ESL Pro League Season 15,"Düsseldorf",6137,16/03/22,Vitality,Sprout,d2,20 - 15,+5,1.39
+IEM Katowice 2022,"Katowice",6136,19/02/22,Vitality,Gambit,inf,19 - 16,+3,1.17
+IEM Katowice 2022,"Katowice",6136,19/02/22,Vitality,Gambit,mrg,3 - 18,-15,0.32
+IEM Katowice 2022,"Katowice",6136,18/02/22,Vitality,HEROIC,inf,20 - 28,-8,0.86
+IEM Katowice 2022,"Katowice",6136,18/02/22,Vitality,HEROIC,mrg,19 - 19,0,0.99
+IEM Katowice 2022,"Katowice",6136,17/02/22,Vitality,MOUZ,nuke,27 - 15,+12,1.49
+IEM Katowice 2022,"Katowice",6136,17/02/22,Vitality,MOUZ,inf,28 - 24,+4,1.17
+IEM Katowice 2022,"Katowice",6136,17/02/22,Vitality,MOUZ,vtg,42 - 21,+21,1.59
+BLAST Premier World Final 2021,"Copenhagen",5608,19/12/21,Vitality,Natus Vincere,d2,9 - 16,-7,0.60
+BLAST Premier World Final 2021,"Copenhagen",5608,19/12/21,Vitality,Natus Vincere,nuke,19 - 20,-1,1.03
+BLAST Premier World Final 2021,"Copenhagen",5608,18/12/21,Vitality,Gambit,d2,30 - 25,+5,1.24
+BLAST Premier World Final 2021,"Copenhagen",5608,18/12/21,Vitality,Gambit,vtg,28 - 18,+10,1.55
+BLAST Premier World Final 2021,"Copenhagen",5608,16/12/21,Vitality,G2,mrg,21 - 17,+4,1.18
+BLAST Premier World Final 2021,"Copenhagen",5608,16/12/21,Vitality,G2,nuke,21 - 13,+8,1.39
+BLAST Premier World Final 2021,"Copenhagen",5608,15/12/21,Vitality,Astralis,mrg,29 - 8,+21,2.25
+BLAST Premier World Final 2021,"Copenhagen",5608,15/12/21,Vitality,Astralis,nuke,23 - 5,+18,1.92
+IEM Winter 2021,"Stockholm",5730,12/12/21,Vitality,Ninjas in Pyjamas,nuke,20 - 15,+5,1.26
+IEM Winter 2021,"Stockholm",5730,12/12/21,Vitality,Ninjas in Pyjamas,d2,21 - 12,+9,1.27
+IEM Winter 2021,"Stockholm",5730,12/12/21,Vitality,Ninjas in Pyjamas,inf,29 - 15,+14,1.74
+IEM Winter 2021,"Stockholm",5730,11/12/21,Vitality,Virtus.pro,vtg,24 - 14,+10,1.38
+IEM Winter 2021,"Stockholm",5730,11/12/21,Vitality,Virtus.pro,mrg,21 - 19,+2,1.02
+IEM Winter 2021,"Stockholm",5730,05/12/21,Vitality,Gambit,mrg,36 - 19,+17,1.61
+IEM Winter 2021,"Stockholm",5730,05/12/21,Vitality,Gambit,vtg,21 - 22,-1,1.17
+IEM Winter 2021,"Stockholm",5730,05/12/21,Vitality,Gambit,d2,16 - 11,+5,1.40
+IEM Winter 2021,"Stockholm",5730,04/12/21,Vitality,G2,inf,12 - 20,-8,0.81
+IEM Winter 2021,"Stockholm",5730,04/12/21,Vitality,G2,mrg,26 - 14,+12,1.34
+IEM Winter 2021,"Stockholm",5730,04/12/21,Vitality,G2,vtg,22 - 20,+2,1.02
+IEM Winter 2021,"Stockholm",5730,02/12/21,Vitality,Ninjas in Pyjamas,mrg,17 - 14,+3,1.07
+IEM Winter 2021,"Stockholm",5730,02/12/21,Vitality,Ninjas in Pyjamas,inf,29 - 11,+18,2.13
+IEM Winter 2021,"Stockholm",5730,02/12/21,Vitality,MOUZ,ovp,24 - 26,-2,0.97
+BLAST Premier Fall Final 2021,"Copenhagen",5607,28/11/21,Vitality,Natus Vincere,inf,20 - 16,+4,1.18
+BLAST Premier Fall Final 2021,"Copenhagen",5607,28/11/21,Vitality,Natus Vincere,nuke,21 - 14,+7,1.53
+BLAST Premier Fall Final 2021,"Copenhagen",5607,28/11/21,Vitality,Natus Vincere,mrg,22 - 20,+2,1.13
+BLAST Premier Fall Final 2021,"Copenhagen",5607,28/11/21,Vitality,Astralis,mrg,22 - 12,+10,1.48
+BLAST Premier Fall Final 2021,"Copenhagen",5607,28/11/21,Vitality,Astralis,inf,29 - 13,+16,1.61
+BLAST Premier Fall Final 2021,"Copenhagen",5607,28/11/21,Vitality,Astralis,nuke,27 - 15,+12,1.55
+BLAST Premier Fall Final 2021,"Copenhagen",5607,27/11/21,Vitality,Natus Vincere,nuke,15 - 17,-2,1.00
+BLAST Premier Fall Final 2021,"Copenhagen",5607,27/11/21,Vitality,Natus Vincere,inf,13 - 20,-7,0.84
+BLAST Premier Fall Final 2021,"Copenhagen",5607,25/11/21,Vitality,Astralis,inf,23 - 13,+10,1.53
+BLAST Premier Fall Final 2021,"Copenhagen",5607,25/11/21,Vitality,Astralis,d2,24 - 19,+5,1.25
+BLAST Premier Fall Final 2021,"Copenhagen",5607,25/11/21,Vitality,Astralis,nuke,37 - 21,+16,1.45
+BLAST Premier Fall Final 2021,"Copenhagen",5607,24/11/21,Vitality,Liquid,d2,24 - 10,+14,1.64
+BLAST Premier Fall Final 2021,"Copenhagen",5607,24/11/21,Vitality,Liquid,mrg,25 - 15,+10,1.54
+PGL Major Stockholm 2021,"Stockholm",4866,05/11/21,Vitality,Natus Vincere,nuke,25 - 21,+4,1.27
+PGL Major Stockholm 2021,"Stockholm",4866,05/11/21,Vitality,Natus Vincere,d2,19 - 19,0,1.08
+PGL Major Stockholm 2021,"Stockholm",4866,02/11/21,Vitality,Entropiq,d2,24 - 12,+12,1.77
+PGL Major Stockholm 2021,"Stockholm",4866,02/11/21,Vitality,Entropiq,ovp,23 - 17,+6,1.31
+PGL Major Stockholm 2021,"Stockholm",4866,02/11/21,Vitality,Entropiq,mrg,27 - 15,+12,1.48
+PGL Major Stockholm 2021,"Stockholm",4866,01/11/21,Vitality,Astralis,d2,31 - 14,+17,1.71
+PGL Major Stockholm 2021,"Stockholm",4866,01/11/21,Vitality,Astralis,vtg,22 - 20,+2,1.23
+PGL Major Stockholm 2021,"Stockholm",4866,01/11/21,Vitality,Astralis,nuke,29 - 12,+17,1.62
+PGL Major Stockholm 2021,"Stockholm",4866,31/10/21,Vitality,Evil Geniuses,d2,22 - 19,+3,1.23
+PGL Major Stockholm 2021,"Stockholm",4866,31/10/21,Vitality,Evil Geniuses,vtg,20 - 11,+9,1.58
+PGL Major Stockholm 2021,"Stockholm",4866,31/10/21,Vitality,Evil Geniuses,inf,21 - 20,+1,1.03
+PGL Major Stockholm 2021,"Stockholm",4866,30/10/21,Vitality,HEROIC,ovp,15 - 18,-3,0.97
+PGL Major Stockholm 2021,"Stockholm",4866,30/10/21,Vitality,Virtus.pro,inf,19 - 21,-2,0.98
+IEM Fall 2021 Europe,"Stockholm",5729,10/10/21,Vitality,Astralis,vtg,13 - 9,+4,1.16
+IEM Fall 2021 Europe,"Stockholm",5729,10/10/21,Vitality,Astralis,nuke,30 - 9,+21,2.14
+IEM Fall 2021 Europe,"Stockholm",5729,09/10/21,Vitality,Ninjas in Pyjamas,inf,11 - 17,-6,0.62
+IEM Fall 2021 Europe,"Stockholm",5729,09/10/21,Vitality,Ninjas in Pyjamas,ovp,25 - 18,+7,1.32
+IEM Fall 2021 Europe,"Stockholm",5729,09/10/21,Vitality,Ninjas in Pyjamas,nuke,22 - 10,+12,1.65
+IEM Fall 2021 Europe,"Stockholm",5729,07/10/21,Vitality,Copenhagen Flames,vtg,24 - 21,+3,1.19
+IEM Fall 2021 Europe,"Stockholm",5729,07/10/21,Vitality,Copenhagen Flames,d2,27 - 15,+12,1.52
+IEM Fall 2021 Europe,"Stockholm",5729,03/10/21,Vitality,Dignitas,inf,19 - 12,+7,1.25
+IEM Fall 2021 Europe,"Stockholm",5729,02/10/21,Vitality,ENCE,mrg,18 - 17,+1,1.09
+IEM Fall 2021 Europe,"Stockholm",5729,01/10/21,Vitality,OG,mrg,21 - 12,+9,1.42
+IEM Fall 2021 Europe,"Stockholm",5729,30/09/21,Vitality,Sprout,vtg,30 - 19,+11,1.67
+IEM Fall 2021 Europe,"Stockholm",5729,29/09/21,Vitality,MAD Lions,inf,11 - 8,+3,1.44
+IEM Cologne 2021,"Cologne",5469,11/07/21,Vitality,FaZe,d2,22 - 17,+5,1.20
+IEM Cologne 2021,"Cologne",5469,11/07/21,Vitality,FaZe,mrg,17 - 19,-2,0.91
+IEM Cologne 2021,"Cologne",5469,10/07/21,Vitality,Natus Vincere,mrg,24 - 18,+6,1.27
+IEM Cologne 2021,"Cologne",5469,10/07/21,Vitality,Natus Vincere,nuke,13 - 15,-2,0.91
+IEM Cologne 2021,"Cologne",5469,10/07/21,Vitality,Natus Vincere,ovp,22 - 17,+5,1.20
+IEM Cologne 2021,"Cologne",5469,08/07/21,Vitality,FURIA,nuke,18 - 18,0,0.96
+IEM Cologne 2021,"Cologne",5469,08/07/21,Vitality,FURIA,ovp,26 - 15,+11,1.43
+IEM Cologne 2021 Play-in,"Cologne",5898,06/07/21,Vitality,Spirit,nuke,22 - 17,+5,1.37
+IEM Cologne 2021 Play-in,"Cologne",5898,06/07/21,Vitality,Spirit,mrg,25 - 18,+7,1.26
+IEM Cologne 2021 Play-in,"Cologne",5898,06/07/21,Vitality,Spirit,d2,21 - 17,+4,1.28
+IEM Cologne 2021 Play-in,"Cologne",5898,06/07/21,Vitality,Renegades,ovp,22 - 9,+13,1.79
+IEM Katowice 2020,"Katowice",4901,26/02/20,Vitality,FaZe,inf,23 - 15,+8,1.39
+IEM Katowice 2020,"Katowice",4901,26/02/20,Vitality,FaZe,nuke,17 - 16,+1,1.09
+IEM Katowice 2020,"Katowice",4901,26/02/20,Vitality,FaZe,mrg,32 - 16,+16,1.84
+IEM Katowice 2020,"Katowice",4901,25/02/20,Vitality,Astralis,vtg,29 - 30,-1,1.11
+IEM Katowice 2020,"Katowice",4901,25/02/20,Vitality,Astralis,ovp,9 - 17,-8,0.71
+IEM Katowice 2020,"Katowice",4901,24/02/20,Vitality,Ninjas in Pyjamas,nuke,22 - 15,+7,1.29
+IEM Katowice 2020,"Katowice",4901,24/02/20,Vitality,Ninjas in Pyjamas,vtg,23 - 19,+4,1.31
+BLAST Premier Spring Series 2020,"London",5138,09/02/20,Vitality,Natus Vincere,d2,17 - 17,0,1.18
+BLAST Premier Spring Series 2020,"London",5138,09/02/20,Vitality,Natus Vincere,inf,14 - 16,-2,0.91
+BLAST Premier Spring Series 2020,"London",5138,08/02/20,Vitality,Complexity,inf,17 - 16,+1,1.13
+BLAST Premier Spring Series 2020,"London",5138,08/02/20,Vitality,Complexity,mrg,16 - 18,-2,0.98
+BLAST Premier Spring Series 2020,"London",5138,07/02/20,Vitality,Natus Vincere,d2,22 - 13,+9,1.47
+BLAST Premier Spring Series 2020,"London",5138,07/02/20,Vitality,Natus Vincere,inf,23 - 17,+6,1.45
+EPICENTER 2019,"Moscow",4979,22/12/19,Vitality,MOUZ,nuke,19 - 14,+5,1.30
+EPICENTER 2019,"Moscow",4979,22/12/19,Vitality,MOUZ,mrg,33 - 14,+19,1.87
+EPICENTER 2019,"Moscow",4979,22/12/19,Vitality,MOUZ,inf,35 - 20,+15,1.57
+EPICENTER 2019,"Moscow",4979,22/12/19,Vitality,HEROIC,inf,25 - 13,+12,1.55
+EPICENTER 2019,"Moscow",4979,22/12/19,Vitality,HEROIC,vtg,17 - 16,+1,1.01
+EPICENTER 2019,"Moscow",4979,17/12/19,Vitality,Natus Vincere,nuke,20 - 9,+11,1.74
+EPICENTER 2019,"Moscow",4979,17/12/19,Vitality,Natus Vincere,inf,25 - 7,+18,1.87
+EPICENTER 2019,"Moscow",4979,17/12/19,Vitality,Natus Vincere,d2,15 - 16,-1,1.10
+EPICENTER 2019,"Moscow",4979,17/12/19,Vitality,EHOME,nuke,19 - 8,+11,2.03
+EPICENTER 2019,"Moscow",4979,17/12/19,Vitality,EHOME,inf,29 - 15,+14,1.63
+IEM Beijing 2019,"Beijing",4837,09/11/19,Vitality,100 Thieves,inf,9 - 15,-6,0.84
+IEM Beijing 2019,"Beijing",4837,09/11/19,Vitality,100 Thieves,nuke,20 - 26,-6,1.01
+IEM Beijing 2019,"Beijing",4837,09/11/19,Vitality,100 Thieves,mrg,23 - 17,+6,1.50
+IEM Beijing 2019,"Beijing",4837,08/11/19,Vitality,FaZe,inf,21 - 10,+11,1.91
+IEM Beijing 2019,"Beijing",4837,08/11/19,Vitality,FaZe,ovp,15 - 18,-3,0.99
+IEM Beijing 2019,"Beijing",4837,08/11/19,Vitality,FaZe,nuke,20 - 16,+4,1.15
+IEM Beijing 2019,"Beijing",4837,07/11/19,Vitality,TYLOO,d2,18 - 11,+7,1.55
+IEM Beijing 2019,"Beijing",4837,07/11/19,Vitality,TYLOO,inf,24 - 11,+13,1.60
+StarSeries i-League Season 8,"Belek",4932,25/10/19,Vitality,FURIA,nuke,27 - 17,+10,1.58
+StarSeries i-League Season 8,"Belek",4932,25/10/19,Vitality,FURIA,mrg,15 - 15,0,1.17
+StarSeries i-League Season 8,"Belek",4932,24/10/19,Vitality,fnatic,nuke,22 - 22,0,0.99
+StarSeries i-League Season 8,"Belek",4932,24/10/19,Vitality,fnatic,inf,14 - 17,-3,0.83
+StarSeries i-League Season 8,"Belek",4932,24/10/19,Vitality,Renegades,nuke,21 - 19,+2,1.25
+StarSeries i-League Season 8,"Belek",4932,24/10/19,Vitality,Renegades,mrg,10 - 18,-8,0.81
+StarSeries i-League Season 8,"Belek",4932,21/10/19,Vitality,North,nuke,25 - 7,+18,1.73
+StarSeries i-League Season 8,"Belek",4932,21/10/19,Vitality,North,d2,25 - 18,+7,1.48
+StarSeries i-League Season 8,"Belek",4932,21/10/19,Vitality,North,inf,19 - 13,+6,1.44
+StarSeries i-League Season 8,"Belek",4932,21/10/19,Vitality,Invictus,mrg,21 - 10,+11,1.94
+StarSeries i-League Season 8,"Belek",4932,21/10/19,Vitality,Invictus,nuke,19 - 9,+10,1.78
+ESL Pro League Season 10 Europe,"London",4699,18/11/19,Vitality,HellRaisers,nuke,21 - 14,+7,1.33
+ESL Pro League Season 10 Europe,"London",4699,18/11/19,Vitality,HellRaisers,ovp,15 - 14,+1,1.11
+ESL Pro League Season 10 Europe,"London",4699,17/11/19,Vitality,fnatic,inf,18 - 16,+2,1.03
+ESL Pro League Season 10 Europe,"London",4699,17/11/19,Vitality,fnatic,mrg,18 - 19,-1,1.11
+ESL Pro League Season 10 Europe,"London",4699,17/11/19,Vitality,fnatic,nuke,18 - 15,+3,1.28
+ESL Pro League Season 10 Europe,"London",4699,16/11/19,Vitality,FaZe,mrg,38 - 15,+23,2.01
+ESL Pro League Season 10 Europe,"London",4699,16/11/19,Vitality,FaZe,inf,18 - 17,+1,1.07
+ESL Pro League Season 10 Europe,"London",4699,13/10/19,Vitality,Ninjas in Pyjamas,d2,9 - 18,-9,0.76
+ESL Pro League Season 10 Europe,"London",4699,13/10/19,Vitality,Ninjas in Pyjamas,ovp,14 - 16,-2,1.01
+ESL Pro League Season 10 Europe,"London",4699,12/10/19,Vitality,HEROIC,nuke,26 - 17,+9,1.37
+ESL Pro League Season 10 Europe,"London",4699,12/10/19,Vitality,HEROIC,d2,19 - 17,+2,1.12
+ESL Pro League Season 10 Europe,"London",4699,12/10/19,Vitality,HEROIC,trn,17 - 20,-3,0.92
+ESL Pro League Season 10 Europe,"London",4699,11/10/19,Vitality,Sprout,inf,24 - 11,+13,1.68
+ESL Pro League Season 10 Europe,"London",4699,11/10/19,Vitality,Sprout,d2,14 - 17,-3,0.90
+ESL Pro League Season 10 Europe,"London",4699,11/10/19,Vitality,Sprout,nuke,17 - 17,0,1.04
+DreamHack Masters Malmö 2019,"Malmö",4553,06/10/19,Vitality,fnatic,mrg,28 - 20,+8,1.46
+DreamHack Masters Malmö 2019,"Malmö",4553,06/10/19,Vitality,fnatic,inf,30 - 21,+9,1.32
+DreamHack Masters Malmö 2019,"Malmö",4553,06/10/19,Vitality,fnatic,d2,24 - 19,+5,1.40
+DreamHack Masters Malmö 2019,"Malmö",4553,05/10/19,Vitality,Natus Vincere,d2,26 - 16,+10,1.51
+DreamHack Masters Malmö 2019,"Malmö",4553,05/10/19,Vitality,Natus Vincere,ovp,19 - 10,+9,1.55
+DreamHack Masters Malmö 2019,"Malmö",4553,05/10/19,Vitality,Natus Vincere,nuke,16 - 17,-1,0.97
+DreamHack Masters Malmö 2019,"Malmö",4553,04/10/19,Vitality,MOUZ,d2,19 - 15,+4,1.23
+DreamHack Masters Malmö 2019,"Malmö",4553,04/10/19,Vitality,MOUZ,inf,21 - 19,+2,1.16
+DreamHack Masters Malmö 2019,"Malmö",4553,04/10/19,Vitality,MOUZ,mrg,27 - 17,+10,1.44
+DreamHack Masters Malmö 2019,"Malmö",4553,03/10/19,Vitality,Astralis,d2,24 - 15,+9,1.16
+DreamHack Masters Malmö 2019,"Malmö",4553,03/10/19,Vitality,Astralis,vtg,22 - 17,+5,1.21
+DreamHack Masters Malmö 2019,"Malmö",4553,01/10/19,Vitality,ENCE,d2,26 - 11,+15,1.65
+DreamHack Masters Malmö 2019,"Malmö",4553,01/10/19,Vitality,ENCE,nuke,26 - 18,+8,1.33
+DreamHack Masters Malmö 2019,"Malmö",4553,01/10/19,Vitality,ENCE,inf,33 - 16,+17,1.54
+DreamHack Masters Malmö 2019,"Malmö",4553,01/10/19,Vitality,TYLOO,inf,22 - 11,+11,1.62
+StarLadder Major Berlin 2019,"Berlin",4443,05/09/19,Vitality,AVANGAR,d2,20 - 17,+3,1.04
+StarLadder Major Berlin 2019,"Berlin",4443,05/09/19,Vitality,AVANGAR,inf,28 - 12,+16,1.63
+StarLadder Major Berlin 2019,"Berlin",4443,05/09/19,Vitality,AVANGAR,mrg,12 - 18,-6,0.90
+StarLadder Major Berlin 2019,"Berlin",4443,31/08/19,Vitality,MOUZ,mrg,21 - 17,+4,1.52
+StarLadder Major Berlin 2019,"Berlin",4443,31/08/19,Vitality,MOUZ,vtg,19 - 12,+7,1.44
+StarLadder Major Berlin 2019,"Berlin",4443,30/08/19,Vitality,ENCE,d2,12 - 18,-6,0.72
+StarLadder Major Berlin 2019,"Berlin",4443,30/08/19,Vitality,ENCE,nuke,15 - 17,-2,0.84
+StarLadder Major Berlin 2019,"Berlin",4443,29/08/19,Vitality,FaZe,d2,24 - 11,+13,1.65
+StarLadder Major Berlin 2019,"Berlin",4443,28/08/19,Vitality,North,inf,21 - 15,+6,1.38
+StarLadder Major 2019 Challengers Stage,"Berlin",4450,26/08/19,Vitality,Grayhound,inf,17 - 18,-1,1.05
+StarLadder Major 2019 Challengers Stage,"Berlin",4450,26/08/19,Vitality,Grayhound,ovp,27 - 21,+6,1.35
+StarLadder Major 2019 Challengers Stage,"Berlin",4450,26/08/19,Vitality,Grayhound,d2,23 - 9,+14,1.74
+StarLadder Major 2019 Challengers Stage,"Berlin",4450,25/08/19,Vitality,HellRaisers,mrg,17 - 12,+5,1.15
+StarLadder Major 2019 Challengers Stage,"Berlin",4450,25/08/19,Vitality,HellRaisers,inf,31 - 10,+21,1.88
+StarLadder Major 2019 Challengers Stage,"Berlin",4450,24/08/19,Vitality,DreamEaters,inf,22 - 18,+4,1.08
+StarLadder Major 2019 Challengers Stage,"Berlin",4450,23/08/19,Vitality,INTZ,mrg,26 - 14,+12,1.79
+StarLadder Major 2019 Challengers Stage,"Berlin",4450,23/08/19,Vitality,Syman,d2,20 - 19,+1,1.21
+IEM Chicago 2019,"Chicago",4574,21/07/19,Vitality,Liquid,ovp,17 - 21,-4,0.91
+IEM Chicago 2019,"Chicago",4574,21/07/19,Vitality,Liquid,d2,22 - 20,+2,1.21
+IEM Chicago 2019,"Chicago",4574,20/07/19,Vitality,HEROIC,ovp,20 - 15,+5,1.31
+IEM Chicago 2019,"Chicago",4574,20/07/19,Vitality,HEROIC,d2,26 - 16,+10,1.57
+IEM Chicago 2019,"Chicago",4574,20/07/19,Vitality,HEROIC,mrg,23 - 14,+9,1.61
+IEM Chicago 2019,"Chicago",4574,19/07/19,Vitality,Renegades,d2,14 - 12,+2,1.29
+IEM Chicago 2019,"Chicago",4574,19/07/19,Vitality,Renegades,mrg,24 - 18,+6,1.23
+IEM Chicago 2019,"Chicago",4574,18/07/19,Vitality,HEROIC,nuke,10 - 18,-8,0.61
+IEM Chicago 2019,"Chicago",4574,18/07/19,Vitality,HEROIC,ovp,24 - 19,+5,1.21
+ESEA Season 31 Global Challenge,"Dallas",4504,14/07/19,Vitality,FURIA,inf,11 - 19,-8,0.82
+ESEA Season 31 Global Challenge,"Dallas",4504,14/07/19,Vitality,FURIA,trn,13 - 20,-7,0.86
+ESEA Season 31 Global Challenge,"Dallas",4504,13/07/19,Vitality,Spirit,trn,17 - 13,+4,1.27
+ESEA Season 31 Global Challenge,"Dallas",4504,13/07/19,Vitality,Party Astronauts,inf,17 - 13,+4,1.40
+ESEA MDL Season 31 Europe Finals,"Dallas",4692,12/07/19,Vitality,Sprout,mrg,23 - 15,+8,1.38
+ESEA MDL Season 31 Europe Finals,"Dallas",4692,12/07/19,Vitality,Sprout,ovp,30 - 21,+9,1.37
+ESL One Cologne 2019,"Cologne",4281,07/07/19,Vitality,Liquid,mrg,15 - 18,-3,0.93
+ESL One Cologne 2019,"Cologne",4281,07/07/19,Vitality,Liquid,inf,26 - 18,+8,1.38
+ESL One Cologne 2019,"Cologne",4281,07/07/19,Vitality,Liquid,d2,33 - 20,+13,1.28
+ESL One Cologne 2019,"Cologne",4281,07/07/19,Vitality,Liquid,ovp,13 - 17,-4,0.68
+ESL One Cologne 2019,"Cologne",4281,06/07/19,Vitality,Astralis,ovp,20 - 12,+8,1.52
+ESL One Cologne 2019,"Cologne",4281,06/07/19,Vitality,Astralis,inf,30 - 28,+2,1.13
+ESL One Cologne 2019,"Cologne",4281,06/07/19,Vitality,Astralis,d2,25 - 12,+13,1.59
+ESL One Cologne 2019,"Cologne",4281,05/07/19,Vitality,NRG,mrg,29 - 12,+17,2.05
+ESL One Cologne 2019,"Cologne",4281,05/07/19,Vitality,NRG,d2,23 - 9,+14,1.69
+ESL One Cologne 2019,"Cologne",4281,04/07/19,Vitality,HEROIC,inf,25 - 20,+5,1.20
+ESL One Cologne 2019,"Cologne",4281,04/07/19,Vitality,HEROIC,ovp,27 - 16,+11,1.46
+ESL One Cologne 2019,"Cologne",4281,04/07/19,Vitality,fnatic,ovp,32 - 19,+13,1.45
+ESL One Cologne 2019,"Cologne",4281,04/07/19,Vitality,fnatic,mrg,33 - 20,+13,1.39
+ESL One Cologne 2019,"Cologne",4281,03/07/19,Vitality,ENCE,inf,18 - 11,+7,1.25
+ESL One Cologne 2019,"Cologne",4281,03/07/19,Vitality,ENCE,nuke,22 - 18,+4,1.14
+ESL One Cologne 2019,"Cologne",4281,03/07/19,Vitality,ENCE,ovp,26 - 12,+14,1.72
+ESL One Cologne 2019,"Cologne",4281,02/07/19,Vitality,Ninjas in Pyjamas,d2,16 - 19,-3,1.00
+ECS Season 7 Finals,"London",4411,09/06/19,Vitality,FURIA,ovp,25 - 6,+19,2.14
+ECS Season 7 Finals,"London",4411,09/06/19,Vitality,FURIA,inf,23 - 14,+9,1.56
+ECS Season 7 Finals,"London",4411,08/06/19,Vitality,NRG,mrg,26 - 12,+14,1.74
+ECS Season 7 Finals,"London",4411,08/06/19,Vitality,NRG,ovp,36 - 20,+16,1.72
+ECS Season 7 Finals,"London",4411,07/06/19,Vitality,Complexity,nuke,19 - 15,+4,1.32
+ECS Season 7 Finals,"London",4411,07/06/19,Vitality,Complexity,d2,24 - 18,+6,1.38
+ECS Season 7 Finals,"London",4411,06/06/19,Vitality,North,d2,12 - 18,-6,0.82
+ECS Season 7 Finals,"London",4411,06/06/19,Vitality,North,inf,15 - 15,0,1.00
+ECS Season 7 Finals,"London",4411,06/06/19,Vitality,North,nuke,21 - 17,+4,1.29
+ECS Season 7 Finals,"London",4411,06/06/19,Vitality,Complexity,d2,21 - 10,+11,1.33
+DreamHack Masters Dallas 2019,"Dallas",4177,31/05/19,Vitality,FURIA,nuke,15 - 22,-7,0.91
+DreamHack Masters Dallas 2019,"Dallas",4177,31/05/19,Vitality,FURIA,inf,25 - 16,+9,1.69
+DreamHack Masters Dallas 2019,"Dallas",4177,30/05/19,Vitality,North,mrg,19 - 14,+5,1.10
+DreamHack Masters Dallas 2019,"Dallas",4177,30/05/19,Vitality,North,nuke,21 - 13,+8,1.36
+DreamHack Masters Dallas 2019,"Dallas",4177,29/05/19,Vitality,Ninjas in Pyjamas,d2,21 - 17,+4,1.14
+DreamHack Masters Dallas 2019,"Dallas",4177,29/05/19,Vitality,Ninjas in Pyjamas,ovp,16 - 12,+4,1.28
+DreamHack Masters Dallas 2019,"Dallas",4177,29/05/19,Vitality,Lucid Dream,nuke,21 - 3,+18,2.13
+DreamHack Masters Dallas 2019,"Dallas",4177,29/05/19,Vitality,Lucid Dream,d2,20 - 7,+13,1.66
+DreamHack Masters Dallas 2019,"Dallas",4177,28/05/19,Vitality,North,ovp,21 - 19,+2,1.18
+cs_summit 4,"Los Angeles",4566,27/05/19,Vitality,Liquid,ovp,22 - 17,+5,1.30
+cs_summit 4,"Los Angeles",4566,27/05/19,Vitality,Liquid,nuke,24 - 10,+14,1.61
+cs_summit 4,"Los Angeles",4566,26/05/19,Vitality,ENCE,inf,31 - 22,+9,1.38
+cs_summit 4,"Los Angeles",4566,26/05/19,Vitality,ENCE,ovp,37 - 15,+22,2.18
+cs_summit 4,"Los Angeles",4566,26/05/19,Vitality,ENCE,mrg,17 - 21,-4,0.81
+cs_summit 4,"Los Angeles",4566,26/05/19,Vitality,Renegades,mrg,25 - 20,+5,1.21
+cs_summit 4,"Los Angeles",4566,25/05/19,Vitality,Renegades,vtg,21 - 16,+5,1.18
+cs_summit 4,"Los Angeles",4566,25/05/19,Vitality,ENCE,nuke,22 - 16,+6,1.52
+cs_summit 4,"Los Angeles",4566,25/05/19,Vitality,ENCE,ovp,20 - 11,+9,1.37
+cs_summit 4,"Los Angeles",4566,24/05/19,Vitality,Liquid,mrg,34 - 16,+18,1.79
+cs_summit 4,"Los Angeles",4566,24/05/19,Vitality,Liquid,nuke,15 - 12,+3,1.46
+cs_summit 4,"Los Angeles",4566,24/05/19,Vitality,NRG,inf,17 - 12,+5,1.29
+cs_summit 4,"Los Angeles",4566,24/05/19,Vitality,NRG,nuke,31 - 28,+3,1.08
+cs_summit 4,"Los Angeles",4566,23/05/19,Vitality,Ghost,ovp,17 - 14,+3,1.09
+cs_summit 4,"Los Angeles",4566,23/05/19,Vitality,Ghost,mrg,35 - 27,+8,1.28
+Charleroi Esports,"Charleroi",4317,14/04/19,Vitality,Sprout,cch,16 - 9,+7,1.21
+Charleroi Esports,"Charleroi",4317,14/04/19,Vitality,Sprout,inf,29 - 13,+16,1.73
+Charleroi Esports,"Charleroi",4317,14/04/19,Vitality,G2,cch,20 - 9,+11,1.66
+Charleroi Esports,"Charleroi",4317,14/04/19,Vitality,G2,ovp,27 - 22,+5,1.19
+Charleroi Esports,"Charleroi",4317,14/04/19,Vitality,G2,nuke,20 - 15,+5,1.08
+Charleroi Esports,"Charleroi",4317,12/04/19,Vitality,Sprout,mrg,13 - 13,0,1.09
+Charleroi Esports,"Charleroi",4317,12/04/19,Vitality,FrostFire,cch,20 - 13,+7,1.46
+StarSeries i-League Season 7,"Shanghai",4240,05/04/19,Vitality,NRG,mrg,26 - 19,+7,1.26
+StarSeries i-League Season 7,"Shanghai",4240,05/04/19,Vitality,NRG,ovp,30 - 33,-3,0.97
+StarSeries i-League Season 7,"Shanghai",4240,02/04/19,Vitality,Spirit,inf,25 - 17,+8,1.36
+StarSeries i-League Season 7,"Shanghai",4240,02/04/19,Vitality,Spirit,d2,15 - 17,-2,1.05
+StarSeries i-League Season 7,"Shanghai",4240,02/04/19,Vitality,Spirit,mrg,16 - 17,-1,0.86
+StarSeries i-League Season 7,"Shanghai",4240,01/04/19,Vitality,fnatic,nuke,20 - 19,+1,1.11
+StarSeries i-League Season 7,"Shanghai",4240,01/04/19,Vitality,fnatic,mrg,17 - 18,-1,1.11
+StarSeries i-League Season 7,"Shanghai",4240,31/03/19,Vitality,ENCE,inf,19 - 18,+1,1.22
+StarSeries i-League Season 7,"Shanghai",4240,31/03/19,Vitality,ENCE,d2,21 - 9,+12,1.83
+StarSeries i-League Season 7,"Shanghai",4240,31/03/19,Vitality,ENCE,mrg,24 - 19,+5,1.27
+StarSeries i-League Season 7,"Shanghai",4240,30/03/19,Vitality,BIG,d2,34 - 14,+20,2.13
+StarSeries i-League Season 7,"Shanghai",4240,30/03/19,Vitality,BIG,ovp,24 - 20,+4,1.15
+IEM Katowice 2019,"Katowice",3883,24/02/19,Vitality,Ninjas in Pyjamas,mrg,15 - 19,-4,0.91
+IEM Katowice 2019,"Katowice",3883,24/02/19,Vitality,Ninjas in Pyjamas,ovp,26 - 16,+10,1.53
+IEM Katowice 2019,"Katowice",3883,24/02/19,Vitality,Ninjas in Pyjamas,cch,12 - 16,-4,0.95
+IEM Katowice 2019,"Katowice",3883,22/02/19,Vitality,Renegades,inf,18 - 18,0,0.92
+IEM Katowice 2019,"Katowice",3883,22/02/19,Vitality,Renegades,cch,17 - 16,+1,1.11
+IEM Katowice 2019,"Katowice",3883,22/02/19,Vitality,Renegades,d2,12 - 17,-5,0.77
+IEM Katowice 2019,"Katowice",3883,21/02/19,Vitality,Cloud9,mrg,26 - 21,+5,1.43
+IEM Katowice 2019,"Katowice",3883,20/02/19,Vitality,Natus Vincere,mrg,32 - 31,+1,1.05
+IEM Katowice 2019,"Katowice",3883,20/02/19,Vitality,BIG,mrg,27 - 15,+12,1.64
+IEM Katowice 2019 Challengers Stage,"Katowice",3884,15/02/19,Vitality,ViCi,nuke,24 - 14,+10,1.31
+IEM Katowice 2019 Challengers Stage,"Katowice",3884,15/02/19,Vitality,ViCi,inf,41 - 30,+11,1.36
+IEM Katowice 2019 Challengers Stage,"Katowice",3884,14/02/19,Vitality,Vega Squadron,ovp,17 - 4,+13,1.74
+IEM Katowice 2019 Challengers Stage,"Katowice",3884,13/02/19,Vitality,Grayhound,nuke,33 - 24,+9,1.42
+IEM Katowice 2019 Challengers Stage,"Katowice",3884,13/02/19,Vitality,TYLOO,inf,15 - 18,-3,0.88
+Europe Minor - IEM Katowice 2019,"Katowice",4208,20/01/19,Vitality,North,inf,22 - 14,+8,1.47
+Europe Minor - IEM Katowice 2019,"Katowice",4208,20/01/19,Vitality,North,nuke,25 - 7,+18,1.97
+Europe Minor - IEM Katowice 2019,"Katowice",4208,20/01/19,Vitality,North,mrg,22 - 17,+5,1.34
+Europe Minor - IEM Katowice 2019,"Katowice",4208,19/01/19,Vitality,Valiance,inf,32 - 19,+13,1.78
+Europe Minor - IEM Katowice 2019,"Katowice",4208,19/01/19,Vitality,Valiance,d2,20 - 17,+3,1.21
+Europe Minor - IEM Katowice 2019,"Katowice",4208,19/01/19,Vitality,Valiance,cch,19 - 18,+1,1.23
+Europe Minor - IEM Katowice 2019,"Katowice",4208,18/01/19,Vitality,North,d2,10 - 18,-8,0.72
+Europe Minor - IEM Katowice 2019,"Katowice",4208,18/01/19,Vitality,North,nuke,28 - 21,+7,1.34
+Europe Minor - IEM Katowice 2019,"Katowice",4208,16/01/19,Vitality,Valiance,d2,18 - 7,+11,1.62
+Europe Minor - IEM Katowice 2019,"Katowice",4208,16/01/19,Vitality,Valiance,inf,17 - 18,-1,0.99
+Europe Minor - IEM Katowice 2019,"Katowice",4208,16/01/19,Vitality,Valiance,mrg,37 - 23,+14,1.55
+Europe Minor - IEM Katowice 2019,"Katowice",4208,16/01/19,Vitality,OpTic,d2,22 - 12,+10,1.56
+DreamHack Open Atlanta 2018,"Atlanta",3429,19/11/18,Vitality,Luminosity,ovp,19 - 11,+8,1.41
+DreamHack Open Atlanta 2018,"Atlanta",3429,19/11/18,Vitality,Luminosity,mrg,18 - 6,+12,1.58
+DreamHack Open Atlanta 2018,"Atlanta",3429,18/11/18,Vitality,Complexity,nuke,31 - 11,+20,2.07
+DreamHack Open Atlanta 2018,"Atlanta",3429,18/11/18,Vitality,Complexity,trn,31 - 10,+21,2.16
+DreamHack Open Atlanta 2018,"Atlanta",3429,18/11/18,Vitality,Complexity,d2,19 - 19,0,0.98
+DreamHack Open Atlanta 2018,"Atlanta",3429,18/11/18,Vitality,Rogue,ovp,27 - 17,+10,1.76
+DreamHack Open Atlanta 2018,"Atlanta",3429,18/11/18,Vitality,Rogue,nuke,17 - 11,+6,1.38
+DreamHack Open Atlanta 2018,"Atlanta",3429,17/11/18,Vitality,Fragsters,cch,18 - 15,+3,1.30
+DreamHack Open Atlanta 2018,"Atlanta",3429,17/11/18,Vitality,Fragsters,d2,21 - 10,+11,1.57
+DreamHack Open Atlanta 2018,"Atlanta",3429,16/11/18,Vitality,Ghost,cch,20 - 21,-1,1.09
+FACEIT Major 2018 Showmatch,"London",4088,23/09/18,Team rain,Team smooya,mrg,26 - 23,+3,1.11
+ESL National Championship France Summer 2018,"Paris",3855,30/06/18,aAa,LDLC,inf,21 - 12,+9,1.53
+ESL National Championship France Summer 2018,"Paris",3855,30/06/18,aAa,LDLC,trn,22 - 13,+9,1.70
+ESL National Championship France Summer 2018,"Paris",3855,30/06/18,aAa,LDLC,nuke,27 - 20,+7,1.46
+ESL National Championship France Summer 2018,"Paris",3855,30/06/18,aAa,MAXISAUCISSE,inf,37 - 14,+23,2.10
+ESL National Championship France Summer 2018,"Paris",3855,30/06/18,aAa,MAXISAUCISSE,trn,33 - 15,+18,1.73
+ESL National Championship France Winter 2017,"Paris",3448,16/12/17,aAa,EnVyUs Academy,trn,23 - 22,+1,1.14
+ESL National Championship France Winter 2017,"Paris",3448,16/12/17,aAa,EnVyUs Academy,inf,23 - 16,+7,1.61
+ESL National Championship France Winter 2017,"Paris",3448,16/12/17,aAa,EnVyUs Academy,nuke,13 - 16,-3,0.90
+ESL National Championship France Winter 2017,"Paris",3448,16/12/17,aAa,Vexed,cbl,26 - 20,+6,1.44
+ESL National Championship France Winter 2017,"Paris",3448,16/12/17,aAa,Vexed,ovp,13 - 18,-5,1.00
+ESL National Championship France Winter 2017,"Paris",3448,16/12/17,aAa,Vexed,inf,30 - 18,+12,1.55
+ESWC 2017,"Paris",3232,03/11/17,aAa,ARES,cch,35 - 24,+11,1.43
+ESWC 2017,"Paris",3232,03/11/17,aAa,ARES,ovp,26 - 5,+21,2.18
+ESWC 2017,"Paris",3232,03/11/17,aAa,LDLC,inf,26 - 21,+5,1.42
+ESWC 2017,"Paris",3232,03/11/17,aAa,LDLC,nuke,11 - 14,-3,0.71
+ESWC 2017,"Paris",3232,02/11/17,aAa,ARES,nuke,23 - 15,+8,1.78
+ESWC 2017,"Paris",3232,02/11/17,aAa,ARES,inf,14 - 22,-8,0.76
+ESWC 2017,"Paris",3232,02/11/17,aAa,BIG,cbl,12 - 17,-5,0.84
+ESWC 2017,"Paris",3232,02/11/17,aAa,BIG,ovp,32 - 22,+10,1.60
+ESL National Championship France Summer 2017,"Paris",2940,01/07/17,WySix,EnVyUs Academy,mrg,22 - 17,+5,1.43
+ESL National Championship France Summer 2017,"Paris",2940,01/07/17,WySix,EnVyUs Academy,trn,47 - 23,+24,1.95
+ESL National Championship France Summer 2017,"Paris",2940,01/07/17,WySix,MAXISAUCISSE,nuke,25 - 18,+7,1.32
+ESL National Championship France Summer 2017,"Paris",2940,01/07/17,WySix,MAXISAUCISSE,mrg,25 - 25,0,1.19
+ESL National Championship France Summer 2017,"Paris",2940,01/07/17,WySix,MAXISAUCISSE,cbl,29 - 11,+18,2.57
+Epsilan 14,"Champagne-au-Mont-d'Or",2707,05/03/17,WySix,Epsilon,mrg,29 - 27,+2,1.03
+Epsilan 14,"Champagne-au-Mont-d'Or",2707,05/03/17,WySix,LCM,cbl,24 - 12,+12,1.77
+Epsilan 14,"Champagne-au-Mont-d'Or",2707,05/03/17,WySix,BlackBelts,cbl,20 - 4,+16,1.99
+Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux",2689,12/02/17,E-Corp,Sector One,ovp,20 - 20,0,1.14
+Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux",2689,12/02/17,E-Corp,Sector One,cch,11 - 18,-7,0.69
+Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux",2689,12/02/17,E-Corp,Sector One,mrg,26 - 13,+13,1.60
+Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux",2689,12/02/17,E-Corp,Sector One,cch,29 - 18,+11,1.84
+Pasino Gaming Days 2017 by LanEx,"Saint-Amand-les-Eaux",2689,12/02/17,E-Corp,Sector One,nuke,27 - 28,-1,1.18
