@@ -1,0 +1,245 @@
+:root {
+  --bg: #0D1117;
+  --card: #171a21;
+  --border: #2a2e38;
+  --text: #e8e9ec;
+  --muted: #9aa0ab;
+  --accent: #5b8cff;
+  --accent-hover: #4874e0;
+  --good: #3ddc97;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  padding: 24px;
+}
+
+.card {
+  width: 100%;
+  max-width: 480px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 28px;
+}
+
+h1 {
+  font-size: 1.4rem;
+  margin: 0 0 4px;
+}
+
+.subtitle {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 0 0 24px;
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+select, input[type="text"] {
+  width: 100%;
+  background: #10131a;
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 0.9rem;
+}
+
+.search-row {
+  display: flex;
+  gap: 8px;
+}
+
+.search-row input { flex: 1; }
+
+.search-row button, .predict-btn, .day-btn {
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 14px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: background 0.15s;
+}
+
+.search-row button:hover, .predict-btn:hover:not(:disabled), .day-btn:hover {
+  background: var(--accent-hover);
+}
+
+.search-results {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.search-result-item {
+  background: #10131a;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.search-result-item:hover {
+  border-color: var(--accent);
+}
+
+.day-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.day-btn {
+  background: #10131a;
+  border: 1px solid var(--border);
+  flex: 1;
+  min-width: 78px;
+}
+
+.day-btn.selected {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.selected-summary {
+  font-size: 0.82rem;
+  color: var(--muted);
+  min-height: 18px;
+  margin-bottom: 16px;
+}
+
+.predict-btn {
+  width: 100%;
+  padding: 12px;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.predict-btn:disabled {
+  background: #2a2e38;
+  color: var(--muted);
+  cursor: not-allowed;
+}
+
+.status {
+  margin-top: 14px;
+  font-size: 0.82rem;
+  color: var(--muted);
+  min-height: 18px;
+}
+
+.result-box {
+  margin-top: 18px;
+  text-align: center;
+  padding: 18px;
+  border-radius: 10px;
+  background: #10131a;
+  border: 1px solid var(--border);
+}
+
+.result-box.hidden { display: none; }
+
+.result-label {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+.result-value {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--good);
+}
+
+.data-panel {
+  margin-top: 14px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.data-panel.hidden { display: none; }
+
+.data-toggle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #10131a;
+  color: var(--text);
+  border: none;
+  padding: 12px 14px;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.data-toggle:hover {
+  background: #151923;
+}
+
+.data-table-wrap {
+  max-height: 320px;
+  overflow-y: auto;
+  border-top: 1px solid var(--border);
+}
+
+.data-table-wrap.hidden { display: none; }
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.78rem;
+}
+
+.data-table th, .data-table td {
+  text-align: left;
+  padding: 7px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.data-table th {
+  color: var(--muted);
+  font-weight: 500;
+  position: sticky;
+  top: 0;
+  background: var(--card);
+}
+
+.data-table td:nth-child(2) {
+  font-variant-numeric: tabular-nums;
+}
+
+.data-table .source-tag {
+  font-size: 0.7rem;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: #1c2029;
+  color: var(--muted);
+}
+
+.data-table .source-tag.median {
+  background: #3a2a1a;
+  color: #e0a860;
+}

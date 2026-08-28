@@ -27,12 +27,10 @@ ML project exploring whether environmental conditions can help predict ZywOo's C
 The model uses the following features to predict rating:
 
 - `map`
-- `co`
 - `no2`
 - `o3`
 - `pm10`
 - `pm25`
-- `so2`
 - `temperature_2m_max`
 - `apparent_temperature_max`
 - `apparent_temperature_min`
