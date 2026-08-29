@@ -90,4 +90,4 @@ The model showed that environmental conditions provide little to no useful signa
 |    Date    | Location       | Opponent |    Model | Actual | Difference |
 | :--------: | :------------- | -------- | -------: | :----: | :--------: |
 | 29.08.2026 | **Copenhagen** | 9z       | **1.31** |  1.82  |  **0.52**  |
-| 30.08.2026 | **Copenhagen** | Leg/Fal  | **1.30** |        |            |
+| 30.08.2026 | **Copenhagen** | Legacy   | **1.30** |        |            |
