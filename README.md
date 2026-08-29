@@ -62,7 +62,7 @@ The model uses the following features to predict rating:
 
 ## Results
 
-I genuinely think a random number generator would do a better job than this model.
+The model showed that environmental conditions provide little to no useful signal for predicting a CS2 player's performance. At this stage, a random number generator might genuinely do better than the model.
 
 | Metric | Value   |
 | ------ | ------- |
@@ -70,8 +70,24 @@ I genuinely think a random number generator would do a better job than this mode
 | RMSE   | 0.4538  |
 | R²     | -0.1474 |
 
-### Recorded predictions:
+## Other Model Results:
+
+> Environmental conditions appear to have almost no measurable relationship with ZywOo's CS2 performance, and the simplest model is the least bad because the available signal is extremely weak.
+
+| Model                  | MAE      | RMSE     | R2        |
+| ---------------------- | -------- | -------- | --------- |
+| Linear Regression      | 0.352440 | 0.437626 | -0.066898 |
+| Ridge                  | 0.363758 | 0.451611 | -0.136176 |
+| CatBoost               | 0.364188 | 0.459625 | -0.176859 |
+| Gradient Boosting      | 0.365568 | 0.466733 | -0.213542 |
+| LightGBM               | 0.385893 | 0.491814 | -0.347471 |
+| Hist Gradient Boosting | 0.386029 | 0.493591 | -0.357226 |
+| XGBoost                | 0.396099 | 0.501186 | -0.399316 |
+| Extra Trees            | 0.396509 | 0.503730 | -0.413556 |
+
+## Recorded Predictions:
 
 |    Date    | Location       | Opponent |    Model | Actual | Difference |
 | :--------: | :------------- | -------- | -------: | :----: | :--------: |
 | 29.08.2026 | **Copenhagen** | 9z       | **1.31** |  1.82  |  **0.52**  |
+| 30.08.2026 | **Copenhagen** | Leg/Fal  | **1.30** |        |            |
