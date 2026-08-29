@@ -13,7 +13,7 @@ from preprocess import preprocess_features
 
 
 DATA_PATH = "./data/dataset.csv"
-ONNX_PATH = "./app/model/rating_model.onnx"
+ONNX_PATH = "./app/model/model2.onnx"
 TARGET = "rating"
 
 df = pd.read_csv(DATA_PATH)
@@ -37,22 +37,24 @@ print("\nFeatures used:")
 print(X.columns.tolist())
 
 
-# replace missing numerical values with the median
-X = X.fillna(X.median(numeric_only=True))
-
-# check if anything is still missing
-remaining_missing = X.isna().sum().sum()
-
-if remaining_missing > 0:
-    print(f"\nWarning: {remaining_missing} missing values remain.")
-
-
 X_train, X_test, y_train, y_test = train_test_split(
     X,
     y,
     test_size=0.2,
     random_state=42
 )
+
+# replace missing numerical values with the median
+X_train = X_train.fillna(X_train.median(numeric_only=True))
+X_test = X_test.fillna(X_train.median(numeric_only=True))
+
+# check if anything is still missing
+remaining_missing = 0
+remaining_missing += X_train.isna().sum().sum()
+remaining_missing += X_test.isna().sum().sum()
+
+if remaining_missing > 0:
+    print(f"\nWarning: {remaining_missing} missing values remain.")
 
 
 print(f"\nTraining samples: {len(X_train)}")

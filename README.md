@@ -51,11 +51,26 @@ The model uses the following features to predict rating:
 
 - **Evapotranspiration:** `et0_fao_evapotranspiration`, `et0_fao_evapotranspiration_sum`
 
-## Prediction Results
+## Model Details
+
+| Parameter  | Value         |
+| ---------- | ------------- |
+| Algorithm  | Random Forest |
+| Estimators | 200           |
+| Features   | 47            |
+| Test Split | 20%           |
+
+## Results
 
 I think a random number generator would genuinely do better than this model.
 
-Recorded predictions:
+| Metric | Value   |
+| ------ | ------- |
+| MAE    | 0.3579  |
+| RMSE   | 0.4538  |
+| R²     | -0.1474 |
+
+### Recorded predictions:
 
 |    Date    | Opponent |    Model | Actual |
 | :--------: | :------- | -------: | :----: |
