@@ -72,6 +72,6 @@ I think a random number generator would genuinely do better than this model.
 
 ### Recorded predictions:
 
-|    Date    | Location       | Opponent |    Model | Actual |
-| :--------: | :------------- | -------- | -------: | :----: |
-| 29.08.2026 | **Copenhagen** | 9z       | **1.31** |   —    |
+|    Date    | Location       | Opponent |    Model | Actual | Difference |
+| :--------: | :------------- | -------- | -------: | :----: | :--------: |
+| 29.08.2026 | **Copenhagen** | 9z       | **1.31** |  1.82  |  **0.52**  |
