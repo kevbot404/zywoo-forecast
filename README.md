@@ -10,10 +10,6 @@
   </a>
 </p>
 
-## Try It Here
-
-https://kevbot404.github.io/zywoo-forecast/
-
 ## Overview
 
 ML project exploring whether environmental conditions can help predict ZywOo's CS2 performance.
@@ -26,6 +22,10 @@ ML project exploring whether environmental conditions can help predict ZywOo's C
 - Forecast air quality and weather data collected from [Open-Meteo](https://open-meteo.com/).
 
 > **Limitation:** The model was trained on historical observed weather data, not historical weather forecasts.
+
+## Try It Here
+
+**[Launch the ZywOo Forecast](https://kevbot404.github.io/zywoo-forecast/)**
 
 ## Features Used for Prediction
 
