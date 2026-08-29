@@ -62,7 +62,7 @@ The model uses the following features to predict rating:
 
 ## Results
 
-I think a random number generator would genuinely do better than this model.
+I genuinely think a random number generator would do a better job than this model.
 
 | Metric | Value   |
 | ------ | ------- |
