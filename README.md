@@ -62,7 +62,7 @@ The model uses the following features to predict rating:
 
 ## Results
 
-I genuinely think a random number generator would do a better job than this model.
+The model showed that environmental conditions provide little to no useful signal for predicting a CS2 player's performance. At this stage, a random number generator might genuinely do better than the model.
 
 | Metric | Value   |
 | ------ | ------- |
