@@ -110,6 +110,7 @@ const HOURLY_AQ_VARS = ["nitrogen_dioxide", "ozone", "pm10", "pm2_5"];
 // Known event-location cities pulled from the historical location list,
 // so the dropdown is pre-populated without needing a live geocode call.
 const KNOWN_CITIES = [
+  { name: "Porto", lat: 41.14850365, lon: -8.6109653 },
   { name: "Copenhagen", lat: 55.6867243, lon: 12.5700724 },
   { name: "Paris", lat: 48.8534951, lon: 2.3483915 },
   { name: "Cologne", lat: 50.938361, lon: 6.959974 },
@@ -157,6 +158,13 @@ let selectedOffset = null;   // 0..4
 // ---------------------------------------------------------------------
 // UI wiring
 // ---------------------------------------------------------------------
+
+// Cut off long geocoded names instead of letting them overflow/wrap
+function truncateName(str, maxLen = 55) {
+  if (!str || str.length <= maxLen) return str;
+  return str.slice(0, maxLen - 1).trimEnd() + "...";
+}
+
 function populateCityDropdown() {
   const select = document.getElementById("citySelect");
   KNOWN_CITIES
@@ -184,7 +192,7 @@ function populateCityDropdown() {
     }
     document.getElementById("citySearch").value = "";
     document.getElementById("searchResults").innerHTML = "";
-    updateSummary();
+    updatePredictButtonState();
   });
 }
 
@@ -215,7 +223,8 @@ function wireCitySearch() {
       results.forEach(r => {
         const item = document.createElement("div");
         item.className = "search-result-item";
-        item.textContent = r.display_name;
+        item.textContent = truncateName(r.display_name);
+        item.title = r.display_name; // full name on hover
         item.addEventListener("click", () => {
           selectedLocation = {
             name: r.display_name,
@@ -223,8 +232,11 @@ function wireCitySearch() {
             lon: parseFloat(r.lon)
           };
           document.getElementById("citySelect").value = "";
+          // Show the picked city right in the search box, truncated if long
+          searchInput.value = truncateName(r.display_name);
+          searchInput.title = r.display_name;
           resultsBox.innerHTML = "";
-          updateSummary();
+          updatePredictButtonState();
         });
         resultsBox.appendChild(item);
       });
@@ -247,7 +259,7 @@ function wireDayButtons() {
       buttons.forEach(b => b.classList.remove("selected"));
       btn.classList.add("selected");
       selectedOffset = parseInt(btn.dataset.offset, 10);
-      updateSummary();
+      updatePredictButtonState();
     });
   });
 }
@@ -261,18 +273,9 @@ function offsetToDateString(offset) {
   return `${year}-${month}-${day}`; // local calendar date, not UTC
 }
 
-function updateSummary() {
-  const summary = document.getElementById("selectedSummary");
+function updatePredictButtonState() {
   const predictBtn = document.getElementById("predictBtn");
-
-  if (selectedLocation && selectedOffset !== null) {
-    const dateStr = offsetToDateString(selectedOffset);
-    summary.textContent = `${selectedLocation.name} — ${dateStr}`;
-    predictBtn.disabled = false;
-  } else {
-    summary.textContent = "";
-    predictBtn.disabled = true;
-  }
+  predictBtn.disabled = !(selectedLocation && selectedOffset !== null);
 }
 
 // ---------------------------------------------------------------------
@@ -412,6 +415,7 @@ function renderDataPanel(rows) {
   });
 
   panel.classList.remove("hidden");
+  panel.classList.add("visible");
 }
 
 function wireDataPanelToggle() {
@@ -420,8 +424,8 @@ function wireDataPanelToggle() {
   const icon = document.getElementById("dataToggleIcon");
 
   toggle.addEventListener("click", () => {
-    const isHidden = wrap.classList.toggle("hidden");
-    icon.textContent = isHidden ? "▾" : "▴";
+    const isOpen = wrap.classList.toggle("visible");
+    icon.classList.toggle("open", isOpen);
   });
 }
 
@@ -431,12 +435,18 @@ async function handlePredictClick() {
   const resultValue = document.getElementById("resultValue");
   const predictBtn = document.getElementById("predictBtn");
   const dataPanel = document.getElementById("dataPanel");
+  const dataTableWrap = document.getElementById("dataTableWrap");
+  const dataToggleIcon = document.getElementById("dataToggleIcon");
+  const sidePlaceholder = document.getElementById("sidePlaceholder");
 
   if (!selectedLocation || selectedOffset === null) return;
 
   predictBtn.disabled = true;
-  resultBox.classList.add("hidden");
-  dataPanel.classList.add("hidden");
+  resultBox.classList.remove("visible");
+  dataPanel.classList.remove("visible");
+  dataTableWrap.classList.remove("visible");
+  dataToggleIcon.classList.remove("open");
+  sidePlaceholder.classList.add("hidden");
   statusEl.textContent = "Fetching weather forecast...";
 
   try {
@@ -451,12 +461,13 @@ async function handlePredictClick() {
     const prediction = await runPrediction(featureVector);
 
     resultValue.textContent = prediction.toFixed(2);
-    resultBox.classList.remove("hidden");
+    resultBox.classList.add("visible");
     renderDataPanel(rows);
     statusEl.textContent = "";
   } catch (err) {
     console.error(err);
     statusEl.textContent = "Prediction failed — see console for details.";
+    sidePlaceholder.classList.remove("hidden");
   } finally {
     predictBtn.disabled = false;
   }

@@ -7,76 +7,82 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <main class="card">
-      <h1>Match Rating Predictor</h1>
-      <p class="subtitle">
-        Predicts Zywoo's rating from forecast weather + air quality at a match
-        location.
-      </p>
+    <div class="layout">
+      <main class="card form-card">
+        <section class="field">
+          <label for="citySelect">Choose a city he's played in</label>
+          <select id="citySelect">
+            <option value="">-- choose a known city --</option>
+          </select>
+        </section>
 
-      <section class="field">
-        <label for="citySelect">City</label>
-        <select id="citySelect">
-          <option value="">-- choose a known city --</option>
-        </select>
-      </section>
+        <section class="field">
+          <label for="citySearch">Or search any city</label>
+          <div class="search-row">
+            <input
+              type="text"
+              id="citySearch"
+              placeholder="e.g. Berlin, Germany"
+            />
+            <button id="searchBtn" type="button">Search</button>
+          </div>
+          <div id="searchResults" class="search-results"></div>
+        </section>
 
-      <section class="field">
-        <label for="citySearch">Or search any city</label>
-        <div class="search-row">
-          <input
-            type="text"
-            id="citySearch"
-            placeholder="e.g. Berlin, Germany"
-          />
-          <button id="searchBtn" type="button">Search</button>
-        </div>
-        <div id="searchResults" class="search-results"></div>
-      </section>
+        <section class="field">
+          <label>When does he play?</label>
+          <div class="day-row" id="dayRow">
+            <button type="button" class="day-btn" data-offset="0">Today</button>
+            <button type="button" class="day-btn" data-offset="1">1 day</button>
+            <button type="button" class="day-btn" data-offset="2">
+              2 days
+            </button>
+            <button type="button" class="day-btn" data-offset="3">
+              3 days
+            </button>
+            <button type="button" class="day-btn" data-offset="4">
+              4 days
+            </button>
+          </div>
+        </section>
 
-      <section class="field">
-        <label>When</label>
-        <div class="day-row" id="dayRow">
-          <button type="button" class="day-btn" data-offset="0">Today</button>
-          <button type="button" class="day-btn" data-offset="1">1 day</button>
-          <button type="button" class="day-btn" data-offset="2">2 days</button>
-          <button type="button" class="day-btn" data-offset="3">3 days</button>
-          <button type="button" class="day-btn" data-offset="4">4 days</button>
-        </div>
-      </section>
-
-      <div class="selected-summary" id="selectedSummary"></div>
-
-      <button id="predictBtn" type="button" class="predict-btn" disabled>
-        Predict rating
-      </button>
-
-      <div id="status" class="status"></div>
-
-      <div id="resultBox" class="result-box hidden">
-        <div class="result-label">Predicted rating</div>
-        <div class="result-value" id="resultValue">-</div>
-      </div>
-
-      <div id="dataPanel" class="data-panel hidden">
-        <button type="button" id="dataToggle" class="data-toggle">
-          <span>Data used for this prediction</span>
-          <span id="dataToggleIcon">▾</span>
+        <button id="predictBtn" type="button" class="predict-btn" disabled>
+          Predict rating
         </button>
-        <div id="dataTableWrap" class="data-table-wrap hidden">
-          <table class="data-table" id="dataTable">
-            <thead>
-              <tr>
-                <th>Feature</th>
-                <th>Value</th>
-                <th>Source</th>
-              </tr>
-            </thead>
-            <tbody id="dataTableBody"></tbody>
-          </table>
+
+        <div id="status" class="status"></div>
+      </main>
+
+      <aside class="card side-card" id="sideCard">
+        <div class="side-placeholder" id="sidePlaceholder">
+          Choose a city and day, then run a prediction to see results here.
         </div>
-      </div>
-    </main>
+
+        <div id="resultBox" class="result-box hidden">
+          <div class="result-label">Predicted rating</div>
+          <div class="result-value" id="resultValue">-</div>
+        </div>
+
+        <div id="dataPanel" class="data-panel hidden">
+          <button type="button" id="dataToggle" class="data-toggle">
+            <span>Data used for this prediction</span>
+            <span id="dataToggleIcon">▾</span>
+          </button>
+          <div id="dataTableWrap" class="data-table-wrap">
+            <table class="data-table" id="dataTable">
+              <thead>
+                <tr>
+                  <th>Feature</th>
+                  <th>Value</th>
+                  <th>Source</th>
+                </tr>
+              </thead>
+              <tbody id="dataTableBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </aside>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
     <script src="script.js"></script>

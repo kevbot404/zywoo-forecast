@@ -1,4 +1,14 @@
-# zywoo-forecast
+<h1 align="center">zywoo-forecast</h1>
+
+<p align="center">
+  <img src="./media/tweet.png" alt="Interface" style="width: 70%;">
+</p>
+
+<p align="center">
+  https://www.journals.uchicago.edu/doi/full/10.1086/698728
+</p>
+
+##
 
 ML project exploring whether environmental conditions can help predict ZywOo's CS2 performance.
 
@@ -12,65 +22,76 @@ ML project exploring whether environmental conditions can help predict ZywOo's C
 
 - Limitation: model wasn't trained on historical forecast data.
 
-##
+## Features Used for Prediction
+
+The model uses the following features to predict rating:
+
+- **Location & Terrain:** `elevation`
+- **Air Quality:** `no2`, `o3`, `pm10`, `pm25`
+- **Temperature:** `temperature_2m_max`, `temperature_2m_min`, `temperature_2m_mean`, `apparent_temperature_max`, `apparent_temperature_min`, `apparent_temperature_mean`
+- **Sunlight & Radiation:** `daylight_duration`, `sunshine_duration`, `shortwave_radiation_sum`
+- **Rain, Snow & Precipitation:** `rain_sum`, `snowfall_sum`, `precipitation_sum`, `precipitation_hours`, `snowfall_water_equivalent_sum`
+- **Wind:** `wind_speed_10m_max`, `wind_speed_10m_mean`, `wind_speed_10m_min`, `wind_gusts_10m_max`, `wind_gusts_10m_mean`, `wind_gusts_10m_min`, `wind_direction_10m_dominant`
+- **Cloud Cover:** `cloud_cover_mean`, `cloud_cover_max`, `cloud_cover_min`
+- **Humidity & Moisture:** `relative_humidity_2m_mean`, `relative_humidity_2m_max`, `relative_humidity_2m_min`, `dew_point_2m_min`, `dew_point_2m_max`, `dew_point_2m_mean`, `wet_bulb_temperature_2m_mean`, `wet_bulb_temperature_2m_max`, `wet_bulb_temperature_2m_min`, `vapour_pressure_deficit_max`
+- **Atmospheric Pressure:** `pressure_msl_mean`, `pressure_msl_max`, `pressure_msl_min`, `surface_pressure_mean`, `surface_pressure_max`, `surface_pressure_min`
+- **Evapotranspiration:** `et0_fao_evapotranspiration`, `et0_fao_evapotranspiration_sum`
+
+<h1 align="center">zywoo-forecast</h1>
 
 <p align="center">
-  <img src="./media/tweet.png" alt="Interface" style="width: 70%;">
+  <img src="./media/tweet.png" alt="zywoo-forecast interface" width="70%">
 </p>
 
 <p align="center">
-  https://www.journals.uchicago.edu/doi/full/10.1086/698728
+  <a href="https://www.journals.uchicago.edu/doi/full/10.1086/698728">
+    Related research: Environmental Conditions & Human Performance
+  </a>
 </p>
+
+## Overview
+
+ML project exploring whether environmental conditions can help predict ZywOo's CS2 performance.
+
+### Data Sources
+
+- CS2 performance & match location data collected from [HLTV](https://www.hltv.org/) using a private scraper.
+- Historical air quality measurements collected from [OpenAQ](https://openaq.org/).
+- Historical weather data collected from [Open-Meteo](https://open-meteo.com/).
+- Forecast air quality and weather data collected from [Open-Meteo](https://open-meteo.com/).
+
+> **Limitation:** The model was trained on historical observed weather data, not historical weather forecasts.
 
 ## Features Used for Prediction
 
 The model uses the following features to predict rating:
 
-- `map`
-- `no2`
-- `o3`
-- `pm10`
-- `pm25`
-- `temperature_2m_max`
-- `apparent_temperature_max`
-- `apparent_temperature_min`
-- `daylight_duration`
-- `sunshine_duration`
-- `rain_sum`
-- `snowfall_sum`
-- `precipitation_sum`
-- `precipitation_hours`
-- `wind_speed_10m_max`
-- `wind_gusts_10m_max`
-- `wind_direction_10m_dominant`
-- `shortwave_radiation_sum`
-- `et0_fao_evapotranspiration`
-- `apparent_temperature_mean`
-- `cloud_cover_mean`
-- `cloud_cover_max`
-- `cloud_cover_min`
-- `dew_point_2m_min`
-- `dew_point_2m_max`
-- `dew_point_2m_mean`
-- `et0_fao_evapotranspiration_sum`
-- `relative_humidity_2m_mean`
-- `relative_humidity_2m_max`
-- `relative_humidity_2m_min`
-- `snowfall_water_equivalent_sum`
-- `pressure_msl_mean`
-- `pressure_msl_max`
-- `pressure_msl_min`
-- `surface_pressure_mean`
-- `surface_pressure_max`
-- `surface_pressure_min`
-- `wind_gusts_10m_mean`
-- `wind_speed_10m_mean`
-- `wind_gusts_10m_min`
-- `wind_speed_10m_min`
-- `wet_bulb_temperature_2m_mean`
-- `wet_bulb_temperature_2m_max`
-- `wet_bulb_temperature_2m_min`
-- `vapour_pressure_deficit_max`
-- `temperature_2m_min`
-- `temperature_2m_mean`
-- `elevation`
+- **Location & Terrain:** `elevation`
+
+- **Air Quality:** `no2`, `o3`, `pm10`, `pm25`
+
+- **Temperature:** `temperature_2m_max`, `temperature_2m_min`, `temperature_2m_mean`, `apparent_temperature_max`, `apparent_temperature_min`, `apparent_temperature_mean`
+
+- **Sunlight & Radiation:** `daylight_duration`, `sunshine_duration`, `shortwave_radiation_sum`
+
+- **Precipitation & Snow:** `rain_sum`, `snowfall_sum`, `precipitation_sum`, `precipitation_hours`, `snowfall_water_equivalent_sum`
+
+- **Wind:** `wind_speed_10m_max`, `wind_speed_10m_mean`, `wind_speed_10m_min`, `wind_gusts_10m_max`, `wind_gusts_10m_mean`, `wind_gusts_10m_min`, `wind_direction_10m_dominant`
+
+- **Cloud Cover:** `cloud_cover_mean`, `cloud_cover_max`, `cloud_cover_min`
+
+- **Humidity & Moisture:** `relative_humidity_2m_mean`, `relative_humidity_2m_max`, `relative_humidity_2m_min`, `dew_point_2m_min`, `dew_point_2m_max`, `dew_point_2m_mean`, `wet_bulb_temperature_2m_mean`, `wet_bulb_temperature_2m_max`, `wet_bulb_temperature_2m_min`, `vapour_pressure_deficit_max`
+
+- **Atmospheric Pressure:** `pressure_msl_mean`, `pressure_msl_max`, `pressure_msl_min`, `surface_pressure_mean`, `surface_pressure_max`, `surface_pressure_min`
+
+- **Evapotranspiration:** `et0_fao_evapotranspiration`, `et0_fao_evapotranspiration_sum`
+
+## Prediction Results
+
+I think a random number generator would genuinely do better than this model.
+
+Recorded predictions:
+
+|    Date    | Opponent |    Model | Actual |
+| :--------: | :------- | -------: | :----: |
+| 29.08.2026 | **9z**   | **1.31** |   —    |
