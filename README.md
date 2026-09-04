@@ -92,5 +92,5 @@ The model showed that environmental conditions provide little to no useful signa
 | 29.08.2026 | **Copenhagen** | 9z       |  **1.31**  |  1.82  |  **0.51**  |
 | 30.08.2026 | **Copenhagen** | Legacy   |  **1.30**  |  1.19  |  **0.11**  |
 | 31.08.2026 | **Copenhagen** | FUT      |  **1.35**  |  1.43  |  **0.08**  |
-| 04.09.2026 | **Porto**      | FURIA    |  **1.32**  |        |            |
+| 04.09.2026 | **Porto**      | FURIA    |  **1.32**  |  1.18  |  **0.14**  |
 
